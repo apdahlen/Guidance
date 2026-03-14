@@ -1,0 +1,203 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Venner" does not mean merely social "friends"; in this context it denotes adherents, supporters, or those aligned with Augsburg.
+* "Menighed" must be handled carefully. Depending on context, it can mean congregation, church body, or the concrete gathered Christian community. Here it carries ecclesiological weight and should not be flattened into a generic institutional term.
+* "Presteuddannelsesprincip" is not merely "policy for ministerial education" in a bureaucratic sense, but a principled understanding of how pastors are to be formed, with doctrinal and ecclesial implications.
+* "Sag" means more than "matter" or "issue"; here it is the cause, the work, the contested ecclesial undertaking into which they have invested themselves.
+* "Gammelretningen" is a party designation and must not be weakened into a vague "older group" without noting its polemical force. It names an older tendency or old-line faction.
+* "Kløft" is a strong word: chasm, gulf, deep divide. "Difference" would be too weak.
+* "Frimenighedstanken" is highly charged ecclesiological language. It is not simply an abstract "idea of free congregations" but the free-congregation principle or conception, with implications for church polity, authority, and congregational life.
+* "Surdeig" has unmistakable biblical force: leaven. It must not be reduced to "influence" or "catalyst," because the scriptural metaphor is part of the rhetoric.
+* "Embede" is a major theological hazard. It is not merely "office" in an administrative sense, but the ecclesial office, especially the ministry, with doctrinal implications in Lutheran discourse.
+* "Menighedsopfatning" is not just "view of the congregation" in a casual sense; it denotes a settled ecclesiological understanding.
+* "raadende" means prevailing, dominant, governing in effect; it should not be softened.
+* "Overdragelse" likely means transfer, handing over, or cession in an institutional sense; context requires a term that keeps the formal gravity.
+* "brydningsfulde" suggests conflict-laden, involving strain, collision, or sharp contestation; it should not be flattened into merely "difficult."
+* "aandeligt" in nineteenth-century devotional-theological prose should usually be rendered "spiritual," while preserving its contrast with merely formal or external arrangements.
+* "utvetydigt" means unambiguous, unequivocal, not open to double interpretation.
+* "organisk Forening" suggests a living, inwardly coherent union, not merely administrative merger.
+* "prøves og brydes" is rhetorically forceful. The principles are to be tested and fought through, tried and brought into collision, not merely "discussed."
+* "udført til Ret" echoes biblical/judicial diction and must retain the sense of truth being brought forth into right, justice, or rightful effect.
+
+Syntactic Hazards
+
+* The opening sentence is long, cumulative, and rhetorically staged. It moves from consultation, to unanimous resolve, to journey, to prayer, to personal sacrifice, to the one non-negotiable exception. Breaking it into short modern sentences would destroy the mounting force.
+* Parenthetical insertions and appositional clarifications are part of the sermonic-publicistic texture and should be preserved where possible.
+* The phrase "kun ikke Principer, kun ikke den Sag" depends on repetition for emphasis. This must remain visible in English.
+* The sentence beginning "Ikke alene Stemmeafgivningen..." builds by escalation: not only the vote, but even more the statements made. That structure should remain intact.
+* The phrase "uanseet de af Gammelretningen indbragte personlige Bitterheder og Hævnplaner" is an inserted concessive clause. It should remain an interruption within the larger claim, not become a detached aside.
+* The syntax around "en dyb principiel Kløft Sted mellem Majoritet og Minoriteten eller Augsburgs Venner netop i Spørgsmaalet om Presteuddannelsen og de dermed uadskillelige Spørgsmaal om Embede og Menighed" is dense and argumentative. The accumulation is intentional and should be preserved.
+* "en Kløft, som jeg nu klart ser ikke kan udjævnes og overvindes uden ved..." places the negation and means of overcoming in a slow unfolding line of thought. It should not be made abrupt.
+* The conditional sentence about the minority’s two theological professors and majority control is terse but pointed; its confidence must remain.
+* The long sentence evaluating Schmidt, Lund, and Bøckman unfolds by elimination. This cumulative narrowing is important to the logic.
+* The sentence beginning "Der maa vistnok foregaa store Forandringer..." prepares the next paragraph’s expansion. The rhetorical progression must remain.
+* "Der vil bli Forhandlinger og alvorlige, samvittighedsfulde, maaske brydningsfulde Forhandlinger om Principet først" uses repetition and delayed clarification for emphasis. English should preserve that pressure.
+* "Det er Principerne, som nu maa prøves og brydes" foregrounds principles emphatically. That word order should be reflected as much as idiomatic English allows.
+
+Theological Hazards
+
+* The conflict is not merely political. It is explicitly said to concern pastoral formation together with inseparable questions of office and congregation. Those categories are doctrinal and ecclesiological, not administrative.
+* "Augsburgs Menigheds- og Presteuddannelsesprincip" implies a coherent ecclesial theology joining congregation and pastoral education. Translation must preserve that principial unity.
+* "Frimenighedstanken" concerns free-church or free-congregation ecclesiology, but in this context the more exact sense is free-congregation principle, because the issue is not denominational branding but a theological conception of church life.
+* "Embede" should preserve Lutheran doctrinal resonance around the ministry or office.
+* "Menighed" and "Menighedsopfatning" must preserve ecclesiological force.
+* "aandeligt" indicates that the needed basis must be spiritual, not merely structurally secure.
+* "Sandheden blir udført til Ret" carries biblical and theological resonance: truth vindicated, brought forth into justice, or given its rightful outcome within the church.
+* Prayer language in the opening sentence must remain genuine and devout, not ceremonial.
+
+Voice Hazards
+
+* The prose is solemn, polemical, and self-implicating. Modern neutral academic English would erase its urgency.
+* The author speaks as one prepared to sacrifice "even my own person" but not principles. That grave self-offering must retain its earnestness without melodrama.
+* The naming of "personal bitternesses and plans of revenge" is severe and should not be toned down.
+* The repeated appeal to principle must sound like conscience-bound conviction, not strategic preference.
+* The close is judicial and prophetic in tone. "Until the truth is carried forth into justice" must retain its ringing, public force.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Augsburgs Venner" means those who stand with Augsburg, its supporters or adherents, not merely personal friends.
+* "at sætte ind paa" in "den Sag, vi i disse tyve Aar har sat ind paa" means to devote oneself to, stake oneself on, throw one’s effort into. It implies sustained commitment and investment.
+* "ofre alt, til og med min egen Person" is not an idiom of theatrical self-sacrifice but a serious declaration that he would sacrifice everything, including himself personally, for reconciliation short of surrendering principle.
+* "ved Guds Hjælp" is conventional theological phrasing but not empty. It marks dependence upon divine aid in historical and ecclesial development.
+* "ad Udviklingens Vei" means by way of development, through a developmental process, not necessarily modern progressivism. It suggests patient historical maturation.
+* "virke som en Surdeig" is a biblical allusion to leaven working through dough. The natural equivalent is "work as leaven." This should remain because it conveys gradual inward permeation rather than overt takeover.
+* "fik Kontrol" is plain in form but institutionally weighty: if the Majority gained control.
+* "der bliver saaledes kun igjen" means thus there remains only, marking logical elimination.
+* "før der atter blir Tale om Forhandlinger til Overdragelse" means before there can again be any talk of negotiations for transfer. "There will again be talk" is too weak unless the formal sense is retained.
+* "at ... skal begaaes over igjen" means that the same error should not be committed over again. The modal force is strong.
+* "mere betryggende" means more secure, more reassuring, more dependable. In context it refers to a basis that gives genuine confidence.
+* "i sand organisk Forening" means in true organic union. The phrase suggests living coherence rather than mechanical combination.
+* "prøves og brydes" is close to an idiom of trial through struggle. "Tested and contested" or "tested and fought through" can reflect the force, but "tested and broken" would mislead.
+* "udført til Ret" likely echoes scriptural-juridical language, especially the Danish/Norwegian Bible tradition corresponding to bringing judgment/justice forth unto victory or right. The closest natural English equivalent here is "brought forth unto justice" or "carried through to its right." Because the noun is "Sandheden," "brought forth into justice/right" preserves both judicial and moral force.
+
+Biblical, Pietistic, and Scriptural Resonance
+
+* "Bøn til Gud" belongs to devotional prose and should remain plain and reverent: "with prayer to God."
+* "Surdeig" strongly recalls biblical leaven imagery, especially Matthew 13:33 and parallel passages, though here used positively for the permeation of an ecclesial principle.
+* "udført til Ret" may echo Matthew 12:20 in older Scandinavian Bible diction, where judgment/right is brought forth. Even if not a direct quotation, it carries that biblical cadence.
+
+Where the King James Bible offers a natural English equivalent
+
+* For "Surdeig," the KJV-equivalent term "leaven" is the natural choice.
+* For juridical-biblical phrasing, older English biblical diction might suggest "bring forth judgment unto truth" or similar, but the instructions require resisting inherited KJV gravity in authorial prose. A restrained equivalent such as "until the truth is brought forth into justice" preserves the resonance without archaism.
+
+Where literal translation would obscure force
+
+* "Venner" as "friends" would be misleadingly personal rather than ecclesial-political.
+* "Sag" as "case" or "matter" would weaken the sense of cause.
+* "Frimenighedstanken" as merely "the thought of a free congregation" would sound awkward and underpowered; "the free-congregation principle" or "the free-congregation idea" better preserves function.
+* "brydningsfulde" as merely "troubled" would flatten the sense of collision and strain.
+* "udført til Ret" translated too literally may sound obscure; it needs a rendering that remains elevated and judicial without becoming unintelligible.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening testimony: After brief counsel with Augsburg supporters, the speaker resolved that no concession could include surrendering Augsburg’s principles of congregation and pastoral formation.
+* Prayerful posture: He went to St. Paul asking God to direct matters toward blessing and advance for His church.
+* Personal willingness versus principial limit: He was willing to sacrifice everything, even himself personally, for understanding and sincere cooperation between Majority and Minority, but not principles and not the cause to which they had devoted twenty years.
+* Eyewitness judgment: Having attended the handling of the matter at the annual meeting, he concludes from both the vote and the statements made that the divide is deep and principial.
+* Specification of the divide: The divide lies specifically in pastoral education and the inseparable questions of office and congregation.
+* Concession and qualification: Although the old-line faction introduced personal bitterness and revenge, these do not explain away the deeper doctrinal divide.
+* Present conclusion about strategy: The gulf cannot now be overcome directly; only patient, persistent work can permit the free-congregation principle to permeate the Majority.
+* Institutional consequence: If the Majority gained control, the Minority’s two theological professors would inevitably be removed.
+* Supporting evidence by faculty analysis: Of the Majority’s three theological professors, Schmidt opposes the Augsburg principle, Lund is aligned rather with General Council assumptions, and Bøckman alone would remain insufficient to carry through the principle, especially alongside the other two.
+* Interim practical conclusion: Major changes in the Majority must occur before negotiations about transfer can again be entertained.
+* Future process: There must first be serious, conscientious, perhaps conflict-laden negotiations about principle, so that the same negligence that Conference committed in Scandinavia is not repeated.
+* Final positive condition: A more solid, secure, spiritual, unequivocal, and free-congregational basis is necessary for true organic union and cooperation.
+* Climactic close: Principles must now be tried and fought through until truth is brought forth into justice in the American Free Church.
+
+This structure must remain intact in translation. The passage moves from resolve, to diagnosis, to proof, to practical consequence, to future condition, to climactic appeal.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "med Bøn til Gud" echoes the habitual language of devotional dependence, though not a direct quotation.
+* "virke som en Surdeig" likely echoes Christ’s parable of leaven: Matthew 13:33; Luke 13:20-21.
+* "udført til Ret" likely echoes biblical juridical language, especially Matthew 12:20 in older Scandinavian Bible tradition, though the wording here is adapted: the truth is to be brought forth into justice/right.
+* The contrast between personal sacrifice and non-surrender of principle echoes Pauline and reformational rhetorical patterns, though not a direct scriptural quotation.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must retain the speaker’s solemn resolve and willingness to sacrifice everything short of principle.
+* The divide must sound grave, not procedural.
+* Charges such as "personal bitternesses and plans of revenge" must remain sharp and morally serious.
+* The account of the professors must preserve the author’s evaluative firmness and polemical clarity.
+* The future negotiations must sound weighty, conscientious, and potentially conflict-laden, not merely administrative.
+* The closing sentence must retain public, almost judicial force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maatte ... ikke opgives" = "must not be relinquished" or "must not be given up," not merely "should not."
+* "vilde føre det saa" = "would order it so" or "would lead it so," expressing earnest prayerful desire.
+* "kunde opgives" in context after "kun ikke" must preserve impossibility from conscience and commitment: "could not be given up."
+* "tør vel ansees som selvsagt" = "may well be regarded as self-evident" or "can surely be taken as self-evident," preserving confident assertion.
+* "ikke kan udjævnes og overvindes uden" = "cannot be smoothed out and overcome except by."
+* "Der maa vistnok foregaa store Forandringer" = "Great changes must surely take place."
+* "Der vil bli Forhandlinger" = "There will be negotiations," predictive and emphatic.
+* "Der vil ... om Principet først" = principle must come first; the order must remain explicit.
+* "skal begaaes over igjen" = "is to be committed again" / "should be committed again" depending idiom, but strength must remain.
+* "Der vil ... Grundlag til" idiomatically means such a basis will be required / needed.
+* "maa prøves og brydes" = "must be tried and fought through" or equivalent with full necessity.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Menighed" = "congregation" where the concrete ecclesial body is in view.
+* "Menigheds- og Presteuddannelsesprincip" = "principle of congregational and pastoral training" or "principle of congregation and pastoral training." To keep the author’s conceptual linkage visible, "congregational and pastoral-training principle" may be preferable in some places, though somewhat stiff.
+* "Presteuddannelse" = "pastoral training" rather than merely "clerical education."
+* "Embede" = "office" with ecclesiological force.
+* "Menighedsopfatning" = "understanding of the congregation" or "conception of the congregation." "Conception" better preserves doctrinal density.
+* "Frimenighedstanken" = "the free-congregation principle" throughout.
+* "aandeligt" = "spiritual."
+* "Princip" / "Principer" = "principle" / "principles," not "policy" or "preference."
+* "Sag" = "cause."
+* "Velsignelse og Fremgang" = "blessing and advance" or "blessing and growth." "Advance" better preserves public-ecclesial movement.
+* "Forening" = "union."
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "virke som en Surdeig" must remain "work as leaven" to preserve biblical imagery of inward permeation.
+* "Kløft" must remain a strong image such as "gulf" or "chasm."
+* "udjævnes og overvindes" should preserve the image of leveling/smoothing and overcoming, not simply "resolved."
+* "organisk Forening" should remain "organic union," preserving the image of living coherence.
+* "prøves og brydes" must preserve the image of principles being brought into strenuous testing and collision.
+* "udført til Ret" must preserve juridical, processual imagery of truth being brought forth into right/justice.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* There is an initial tone of prayerful hope and willingness.
+* This turns to sober diagnosis after the annual meeting.
+* The middle section intensifies into hard institutional realism.
+* The later section shifts into conditional hope: future union remains possible, but only on a more spiritual and unequivocal basis.
+* The conclusion is stern and principial, not consolatory.
+
+These tonal movements must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The opening sentence should remain long enough to carry its spoken accumulation of resolve.
+* Repetitions such as "kun ikke" and "mere ... mere ... og fremfor alt mere ... mere ..." should be retained where possible.
+* Clause rhythm should allow for public reading, especially in the diagnosis of the divide and the final appeal.
+* Semicolons and em dashes can help preserve rhetorical pacing without artificial archaism.
+* The final sentence should sound like a closing pronouncement.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Augsburg and the Minority.
+
+["Folkebladet," July 25, 1894.]
+
+"... After a brief consultation with some of Augsburg’s supporters, who gathered in the hall that evening, and in which it was unanimously declared that, in whatever was yielded, Augsburg’s principle of congregation and pastoral training must not be relinquished, I traveled to St. Paul the following day with prayer to God that He would order it so as to serve His congregation unto blessing and advance. I was resolved to sacrifice everything, even my own person, in order to bring about understanding and sincere cooperation between Majority and Minority — only not principles, only not the cause into which we have put ourselves for these twenty years, could be given up.
+
+..........
+
+I was present at the handling of this matter at the annual meeting. Not only the voting, but still more the statements made on that occasion, convinced me that there exists — notwithstanding the personal bitternesses and plans of revenge introduced by the old-line faction — a deep principial gulf between the Majority and the Minority, or Augsburg’s supporters, precisely in the question of pastoral training and the questions inseparable from it concerning office and congregation, a gulf which I now clearly see cannot be smoothed out and overcome except by persistent and patient labor, in order by way of development, with God’s help, to cause the free-congregation principle to work as leaven in the Majority.
+
+That the Minority’s two theological professors would be cast out if the Majority gained control may surely be regarded as self-evident. Of the three theological professors at the Majority’s school, Prof. Schmidt is opposed to the Augsburg principle; Prof. Lund has scarcely any principle in this connection except that of the General Council, and that is very far from Augsburg’s. Thus only Bøckman remains, who, even if he had been in agreement with Augsburg’s school principle in more than a merely formal respect, was plainly not in a position, with the two men named at his side, to carry through that principle of pastoral training, and that conception of the congregation, which has hitherto been the prevailing one at Augsburg."
+
+Great changes must surely take place in the Majority before there can again be any question of negotiations for transfer. There will be negotiations, and serious, conscientious, perhaps conflict-laden negotiations, about the principle first, so that the same error which Prof. Bøckman admitted the Conference, through negligence, committed in Scandinavia, may not be committed again.
+
+In other words, a more solid, more secure, and above all more spiritual, more unequivocal, more free-congregational basis will be required if Majority and Minority are to come into true organic union and cooperation with one another.
+
+It is the principles that must now be tried and fought through, until the truth is brought forth into justice in our American Free Church.
+
+(Sven Oftedal.)

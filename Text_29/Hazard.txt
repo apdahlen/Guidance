@@ -1,0 +1,224 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Kirkeforfatning": not merely "church constitution" in a narrow legal sense, but the ordering, polity, or constitutional form of the Church. Context here points to church polity / constitutional order.
+* "gjennemføre sine Principer": to carry principles through into practice; not just to formulate or state them.
+* "Den forenede Kirke": must be rendered carefully as "The United Church," preserving its historical-institutional force without overexplaining inside the translation.
+* "Samfundsmagten": literally the power of the organized body / association; in context, corporate or associational authority as opposed to congregational freedom. A careless rendering such as "society" would weaken the ecclesial-political force.
+* "Menighedsfriheden": freedom of the congregation, not generic religious liberty.
+* "katholsk Grund" / "katholske Synsmaader": Roman or catholic ground / modes of thought in a confessional-polemical sense; should not be softened into neutral "different traditions."
+* "kirkelige Menighed": ecclesial congregation; must preserve the specifically churchly sense of the gathered local body.
+* "udvortes Kirke": the outward / external church, a key theological contrast with spiritual reality. "Visible church" may over-systematize; "outward church" preserves the phrasing.
+* "Conciler": councils; important conciliar authority is in view.
+* "kjødelige Kirke": literally fleshly / carnal church; doctrinally charged, echoing Pauline anthropology. "Worldly church" is weaker.
+* "fristelige Overbevisnings store Protest": likely an OCR corruption for something like "fristillede" or related wording, but sense is clear from context: the great protest of free conviction / liberty of conscience against tyranny. Translation must preserve the intended meaning while avoiding overconfidence about the corrupted form.
+* "Skafotet": scaffold, in the execution sense.
+* "ubeskåret": uncurtailed, unimpaired, not clipped away by church power.
+* "syndigt Oprørsprincip": sinful principle of rebellion / insurrectionary principle; must retain polemical sharpness.
+* "for sig": on its side, in its favor.
+* "ophæver": abolishes, sets aside, annuls.
+* "Forkyndelse": proclamation / preaching, not merely abstract teaching.
+* "uforfalsket": unadulterated, uncorrupted, unmixed.
+* "Bekjendelse": confession, in the confessional sense.
+* "Frikirke": Free Church, with ecclesiological weight.
+* "statskirkelige Fordreielser": distortions produced by the state-church system; "abuses" would be less exact.
+* "Menighedens Væsen": the essence / nature of the congregation.
+* "have sikker Grund under sine Fødder": idiom of firm footing; should remain vivid.
+* "Aandens Enhed": unity of the Spirit, unmistakably biblical.
+* "Overbestyrelse": superintending earthly authority / superior administration; avoid bureaucratic flattening.
+* "Livsluft": literally life-air; a vivid metaphor that should remain alive.
+
+Syntactic Hazards
+
+* Long periodic sentences accumulate theological and polemical force; breaking them into short modern sentences would flatten argument and cadence.
+* Frequent balanced constructions: "paa den ene Side ... paa den anden Side," "ligesaalidt ... som," "paa samme Tid ... paa samme Tid". These must remain visibly parallel.
+* Semicolon logic is essential: the prose often pivots by semicolon rather than by full stop.
+* Embedded contrastive clauses distinguish liberty and unity without allowing either to cancel the other.
+* The prose uses successive explanatory sentences to intensify one argument; the buildup should remain cumulative.
+* Rhetorical questions near the end function as exhortation, not open inquiry.
+* The transition from historical argument (Luther against Rome) to normative church principle is deliberate and must remain clear.
+
+Theological Hazards
+
+* The relation between conscience, Church authority, and the Word of God is central; any weakening here would distort the whole article.
+* "Guds Ord" as highest authority must retain Reformation force: Scripture as norm over church office and institution.
+* The distinction between freedom and unity is doctrinal, not pragmatic. Both are binding principles.
+* "Evangeliet" is not generic spirituality; it is the Gospel in its confessional fullness.
+* "Aandens Enhed" carries biblical ecclesiology, likely Ephesians 4 resonance.
+* The contrast between external authority and spiritual unity is crucial: no earthly supremacy, yet real unity.
+* The Church as capable of fleshly tyranny must not be softened; this is a theological critique of corrupted ecclesial power.
+
+Voice Hazards
+
+* The tone is solemn, polemical, exhortational, and confessional.
+* Modern smoothing would erase the older sermonic authority and pressure of the prose.
+* Phrases such as "een Mand mod hele den katholske Kirke" and "hele den saakaldte kristne Kirke imod sig" must preserve lonely, high-stakes defiance.
+* "Det er denne vældige Frihedens Tale" and "For denne Sags Skyld led Martyrer" require elevated force without theatrical inflation.
+* The prose addresses not merely the mind but the confessional conscience of the reader.
+* The closing question must sound urgent and inevitable, not conversational.
+
+STEP 2: IDIOM ANALYSIS
+
+* "ikke ude af Veien": idiom meaning "not out of place" or "not inappropriate." Literal rendering would sound spatial rather than rhetorical.
+* "gaa over paa katholsk Grund": to move onto Roman/catholic doctrinal-constitutional ground. This is not physical ground but adoption of principles.
+* "blive staaende paa luthersk": to remain on Lutheran ground, meaning to remain within Lutheran principles.
+* "glider man først ... over": once one begins to slide over; vivid metaphor of drift or slippage into another system.
+* "ikke ... Dommer i sin egen Sag": not judge in its own cause; a juridical idiom central to the argument about authority.
+* "led ... Døden paa Baalet og paa Skafotet": suffered death at the stake and on the scaffold; martyr language with historical and emotional weight.
+* "have sin ... Overbevisning ubeskaaret": to hold one’s conviction uncurtailed / unimpaired; image of something not cut down or trimmed away.
+* "havde ... imod sig" / "for sig": had against it / had on its side. These compact turns are rhetorically forceful and should remain direct.
+* "gaa hver sin Vei": go each their own way; idiom for fragmentation.
+* "det fælles Baand, som binder dem sammen": common bond that binds them together; biblical and ecclesial phraseology.
+* "gaa helt tilbage til det nye Testamente og følge Menighedens Fodspor der": return all the way to the New Testament and follow the congregation’s footsteps there; a vivid restorationist image that should not be paraphrased away.
+* "have sikker Grund under sine Fødder": have firm ground under one’s feet; best preserved almost literally.
+* "begynde paa samme Vej": begin on the same path; metaphor of following apostolic precedent.
+* "Kristendommens og den kristne Kirkes Livsluft": Christianity’s and the Christian Church’s air of life / life-breathing air. The metaphor conveys necessity, not ornament.
+
+Biblical allusions and pietistic expressions
+
+* "Guds Ord" reflects classic Protestant appeal to Scripture as supreme norm.
+* "Guds Aand" evokes the Spirit as divine witness and power alongside the Word.
+* "Aandens Enhed" almost certainly echoes Ephesians 4:3.
+* "Evangeliets Forkyndelse, een, hel og uforfalsket" echoes confessional insistence on the pure preaching of the Gospel.
+* "Menighed" throughout resonates with New Testament congregation/church language rather than modern institutionalism.
+* "Livsluft" is not a direct quotation, but functions like organic spiritual metaphor common to devotional and theological prose.
+
+KJV-equivalent possibilities
+
+* "judge in its own cause" is a natural elevated English equivalent.
+* "unity of the Spirit" is the natural biblical equivalent.
+* "Word of God" and "Gospel" should stand in their established English biblical form.
+* "common bond" is possible, though "bond" carries biblical resonance; "the common bond which binds them together" preserves the weight.
+
+Places where literalism would obscure force
+
+* "ikke ude af Veien" should be idiomatic, not literal.
+* "Samfundsmagten" should not become vague "social power"; it needs ecclesial-political weight.
+* "ubeskaaret" should not be left as a strange literal image if it confuses; "unimpaired" or "uncurtailed" may better preserve intended sense.
+* "Livsluft" should not be reduced to "important element"; the life-air metaphor must remain.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: It ought to be known by all Lutherans that the Lutheran Church, because of its unhappy connection with the State, failed to carry through its principles regarding church polity.
+* First qualification: failure of implementation does not invalidate the principles themselves.
+* Present occasion: because The United Church has taken a firm stand for corporate power and against congregational freedom, the Lutheran principles in this matter deserve renewed attention.
+* Warning: constitutional questions are not indifferent matters; to move onto Roman/catholic ground here leads further into Roman/catholic principles elsewhere.
+* Main conceptual frame: the constitutional question in the Lutheran Church is twofold—preserving freedom of conviction and preserving church unity.
+* Historical proof: Lutheranism began as minority opposition; Luther stood alone against the whole Roman Church.
+* Norm of judgment: neither institutional church nor hierarchy judges the matter; only the Word of God is supreme authority, binding on both sides.
+* Polemical intensification: this freedom is intolerable to the fleshly church; martyrs died for this cause.
+* First principle stated: the right of the individual believer and the individual congregation to hold Christian conviction without mutilation by church power.
+* Defensive rebuttal: if this is sinful rebellion, all Lutheranism stands condemned, since it began against the whole so-called Christian Church.
+* Balancing principle: Lutheranism does not treat disunity as indifferent; it preserves unity no less than freedom.
+* Synthesis: one man with the Gospel may stand against the whole Church when authorities depart from the Gospel, yet the one whole uncorrupted Gospel must be present in all congregations as the common bond.
+* Summary formula: two non-negotiable principles—freedom of personal conviction and unity in confession of the Gospel.
+* Application to free church polity: a Lutheran Free Church must reject state-church distortions and return to the New Testament pattern.
+* New Testament claim: there one finds a congregational order joining these two concerns—freedom of conviction and unity in knowledge/confession of the Gospel.
+* Ecclesiological conclusion: congregations have no outward human magistracy above them, yet keep the unity of the Spirit inwardly and among each other without earthly superintendence.
+* Final exhortation: given the inability of existing associations, annual meetings, and officeholders to preserve freedom, must we not begin on the same way?
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Guds Ord var høieste Autoritet" echoes Reformation appeals to Scripture’s supremacy; while not a direct quotation, it resonates with the broader evangelical-protestant use of texts such as Acts 5:29 and the scriptural norming function of the Word.
+* "Guds Aand" echoes New Testament language concerning the Spirit as divine witness and life.
+* "Evangeliets Forkyndelse, een, hel og uforfalsket" strongly echoes confessional Lutheran language about the pure preaching of the Gospel; also resonates with Galatians polemics against adulteration of the Gospel.
+* "Aandens Enhed" is a likely echo of Ephesians 4:3: "the unity of the Spirit."
+* The idea that a single faithful witness may stand against the many recalls prophetic and apostolic patterns, though not as a direct quotation.
+* The appeal to the New Testament as normative pattern for the congregation invokes apostolic church order in Acts and the Epistles.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings against Roman/catholic constitutional principles must remain sharp and consequential.
+* The portrayal of Luther standing alone against the whole Church must preserve isolation, courage, and necessity.
+* The critique of tyranny must retain full force: "church-tyranny" should not be softened.
+* Martyrdom reference must remain stark and grave.
+* The prose should continue to press the reader toward confessional judgment, not mere historical reflection.
+* The final question must carry urgency born of ecclesial necessity.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "burde være kjendt" = "ought to be known," not merely "should perhaps be known."
+* "ikke opnaaede at gjennemføre" = failed to carry through / did not succeed in carrying through.
+* "det gjælder ... om at bevare ... om ikke at miste" = the issue is to preserve ... and not to lose ...; the necessity is practical and binding.
+* "var ubetinget pligtige til at underkaste sig" = were unconditionally bound to submit to.
+* "skal findes i alle Menigheder" = must be found in all congregations / is to be found in all congregations; context requires strong normative force.
+* "maa ufravigeligt fastholdes" = must be held fast without fail / inviolably maintained.
+* "maa ... se bort fra" = must disregard / look away from.
+* "er den nødt til" = it is compelled / constrained to.
+* "Maa ikke vi begynde" = must not we begin / ought we not begin; rhetorical necessity, not mild suggestion.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kirke" = Church
+* "Menighed" = congregation (kept consistently where local ecclesial body is meant)
+* "Menigheder" = congregations
+* "Evangeliet" = the Gospel
+* "Evangeliets Forkyndelse" = the proclamation of the Gospel
+* "Guds Ord" = the Word of God
+* "Guds Aand" = the Spirit of God
+* "Aandens Enhed" = the unity of the Spirit
+* "Overbevisning" = conviction
+* "Samvittighed" = conscience
+* "Frihed" = freedom
+* "Enhed" = unity
+* "Bekjendelse" = confession
+* "Frikirke" = Free Church
+* "Autoritet" / "Autoriteter" = authority / authorities
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "glider ... over" must retain the metaphor of sliding into another doctrinal-ecclesial position.
+* "Frihedens Tale" should remain vivid as "the mighty word/speech of freedom."
+* "det fælles Baand" should remain a bond, not be reduced to generic connection.
+* "følge Menighedens Fodspor" must retain the image of footsteps.
+* "Grund under sine Fødder" must preserve footing.
+* "Livsluft" must remain life-air / air of life, preserving necessity and organic dependence.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The piece moves from historical diagnosis to principial defense, then to warning, then to constructive ecclesiology, then to urgent appeal.
+* Severity appears in the critique of state-church distortion, Roman drift, tyranny, and martyrdom.
+* Constructive steadiness appears in the balanced defense of freedom and unity together.
+* Hopeful normativity appears in the appeal to the New Testament pattern and the unity of the Spirit.
+* Urgent pastoral pressure returns in the closing rhetorical question.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentences should remain long where the original reasons and balances accumulate.
+* Repeated paired structures should be audible in English.
+* Semicolons should be used where they sustain sermonic pacing.
+* The rhythm should feel suited for public reading or theological address, not journalistic compression.
+* Clause order should preserve emphasis where possible, especially in the paired principles of freedom and unity.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Lutherdom and Church Polity
+
+[Editorial article in “Folkebladet” for September 30, 1896.]
+
+It is a matter which ought to be known by all Lutherans, that the Lutheran Church, on account of its unhappy connection with the State, did not succeed in carrying through its principles with respect to church polity.
+
+The principles may nevertheless be just as sound and good, even if one did not have the courage and strength to carry them through. It is therefore not out of place now, when The United Church has taken so decided a stand for corporate power and against the freedom of the congregation, to look a little at the Lutheran principles in this matter.
+
+For it is by no means altogether indifferent whether, in constitutional questions, we pass over onto Roman ground, or remain standing on Lutheran. For it is certain enough that, if once one slides over in the question of the Church and the ecclesial congregation into Roman modes of thought, one will soon be compelled to follow after in all other things.
+
+The principal question for the Lutheran Church in the sphere of polity is twofold: on the one side it concerns preserving the freedom of ecclesial conviction, and on the other side not losing ecclesial unity.
+
+For the Lutheran Church is from the beginning a party of opposition, or a minority. So exceedingly small was this minority, that it was one man against the whole Roman Church. And this one man therefore maintained that he alone had the same right to hold his conviction as the whole outward Church together with all its bishops, popes, priests, and councils. And that, when the question was to be decided whether he had the truth on his side or the Church had the truth, then the Church was not judge in its own cause, but only the Word of God was the highest authority, the only authority to which both sides were unconditionally bound to submit.
+
+It is this mighty word of freedom which is, of course, just as intolerable to the fleshly Church now as then. This is free conviction’s great protest against the tyranny of society or Church. For the sake of this cause martyrs suffered death by the thousands at the stake and on the scaffold.
+
+This, then, is a first principle in the Lutheran Church: the right of the individual believer and of the individual congregation to hold its Christian conviction of conscience unimpaired by the power of the Church and its authorities. If this is a sinful principle of rebellion, then of course all Lutheranism is condemned; for in the beginning it had the whole so-called Christian Church against it. It had only the Word of God and the Spirit of God on its side.
+
+But the Lutheran Church does not regard it as indifferent whether Christian people and Christian congregations each go their own way, in disagreement with one another or not. It does not abolish unity for freedom’s sake, just as little as it abolishes freedom for unity’s sake. At the same time, therefore, as Lutherans maintain that one man with the Gospel on his side has an unconditional right to stand against the whole Church with all its authorities, when they depart from the Gospel, at the same time they also maintain that the proclamation of the Gospel, one, whole, and uncorrupted, must be found in all congregations and be the common bond which binds them together.
+
+Here we have the two principles which in all constitutional work within the Lutheran Church must be inviolably maintained: freedom of personal conviction on the one side, unity in the confession of the Gospel on the other side.
+
+A Lutheran Free Church must therefore disregard all state-church distortions of the congregation’s nature and outward form; and, in order to be faithful and have firm ground beneath its feet, it is compelled to go all the way back to the New Testament and follow the congregation’s footsteps there.
+
+And in the New Testament we find a congregational order which precisely joins together the two things that for the Lutheran Church are the overwhelmingly chief matter of all: freedom of personal conviction and unity in the knowledge of the Gospel. The congregations have no outward or human authority over them; but inwardly within the congregation, and outwardly among the congregations, they preserve the unity of the Spirit without any superintending authority on earth.
+
+Must not we begin on the same way, when we see how altogether impossible it is for our associations, with their annual meetings and officeholders, to preserve the freedom which nevertheless is the very life-air of Christianity and of the Christian Church?
+
+Georg Sverdrup

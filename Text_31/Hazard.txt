@@ -1,0 +1,232 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Frikirken: not merely “the Free Church” in a generic sense, but the specifically free-church principle over against state-church structures; in context it denotes both an ecclesial body and an ideal of church polity.
+* Menigheden: must usually be rendered “the congregation,” though at times it carries the fuller theological sense of “the church” in its local visible form. Consistency matters because the argument depends on the local congregation as the primary ecclesial reality.
+* Foreningssagen: “the cause of union” or “the union cause,” not merely “the merger issue.” It denotes an ecclesiastical and ideological campaign.
+* Foreningens Produkt: literally “the product of the union,” rhetorically pointed; should retain its slightly ironic, distancing force.
+* Den forenede Kirke: “the United Church,” a formal ecclesiastical body, not a vague spiritual unity.
+* Konstitution: “constitution,” in the sense of church constitution/polity, not a modern political constitution alone.
+* Børnelærdommen: literally “children’s learning/instruction,” but in 19th-century Lutheran usage tied to catechetical instruction; “catechetical instruction” best preserves the doctrinal sense.
+* Menighedsfriheden / Menighedens Frihed: “the freedom of the congregation” or “congregational freedom,” a key ecclesiological term that must remain stable.
+* langs hele Linien: idiom meaning “along the whole line,” i.e. across the entire front or field of conflict.
+* Levedygtighed: “vitality” or “power of life”; in this context “vitality” preserves organic force.
+* Hærverk: literally “havoc” or “destructive violence”; here it refers polemically to legal and other coercive acts.
+* Konferentsen: apparently a named ecclesiastical body or conference; should remain “the Conference” when used institutionally.
+* Førelser: “leadings” or “providential leadings”; “providential leadings” may over-interpret, while “divine leadings” matches the devotional register.
+* fritkirkelige Arbeides rette Art: “the true nature of free-church work,” not merely its “method.”
+* hensynsløst: literally “without regard,” but here means uncompromisingly, unsparingly, without deference to contrary pressures.
+* samfund: “association,” “body,” or “church body”; context determines rendering. It must not erase the distinction between local congregation and larger organized body.
+* det afledede: “the derivative,” meaning secondary and derived in status.
+* fri-stelige Form: likely a scan/hyphenation artifact for “fristillede” or “fristaaende”? Context requires the sense “free-standing” or “independent” form. Because the surrounding argument is about the congregation as the proper apostolic and free form of God’s kingdom on earth, “free-standing form” best preserves the point while avoiding overconfidence about the print corruption.
+* Anstalter / Foreninger / Selskaber: “institutions / associations / societies”; these are outward organizational forms, all secondary to the congregation.
+* Kirkeforfatning: “church polity” or “church constitution.” “Church polity” fits English theological usage better while retaining structural force.
+* Øvrighed: “authority,” “governing power,” not merely civil magistrate in this context.
+* give bort eller laane ud sin kristelige Frihed: powerful metaphor of alienating liberty; should be preserved literally if possible.
+* Embedsmænd: “officebearers,” not just “officials.” Lutheran ecclesial nuance matters.
+* aandeligt Samfund: “spiritual fellowship/communion.” Must preserve the distinction from outward organization.
+* Grundsætning: “fundamental principle” or “first principle.”
+* selvstændig Myndighed: “independent authority,” not sovereignty in a modern political sense, but real local ecclesial authority.
+* statskirkelige Menigheder: “state-church congregations,” preserving the contrast with free-church polity.
+* Frigjørelse: “liberation” or “freeing/emancipation.” “Liberation” may sound too political; “freeing” or “emancipation” better fits the context.
+
+Syntactic Hazards
+
+* Long accumulative sentences build argument by clause upon clause; breaking them into short modern sentences would weaken the sermonic logic.
+* Frequent semicolon structure marks doctrinal parallelism and hierarchy of claims; these pivots should be preserved where natural in English.
+* Repetition of “saa sandt ... saa sandt” and similar paired constructions carries polemical weight and should remain balanced.
+* Lists such as “herskende og bydende og befalende” intensify by accumulation; they should not be reduced to a single summary term.
+* Parenthetical clarifications (“eller hvad der er det samme”) guide the reader’s theological equivalences and should not be omitted.
+* Rhetorical questions function as controlled argument rather than open inquiry; they must retain their directed force.
+* The prose moves from contingent historical complaint to doctrinal first principle; the syntax enacts that movement and should remain visible.
+
+Theological Hazards
+
+* The distinction between the local congregation and the larger church body is not merely administrative; it is grounded in New Testament ecclesiology and must be rendered with doctrinal precision.
+* “Guds Ord” is the supreme authority, not just “Scripture” as a literary source; context may require “the Word” or “God’s Word.”
+* The congregation has Christ as “Head and Lord” and the Spirit as “Guide”; these titles and relations are doctrinal, not ornamental.
+* Christian freedom here is not autonomous self-rule but a stewardship under God; thus alienating it incurs guilt before God.
+* The outward organized congregation is affirmed against purely inwardist spirituality; the passage rejects anti-institutional spiritualism while also rejecting supra-congregational necessity.
+* “apostoliske og bibelske Kristendom” must retain both apostolic and biblical normativity.
+* The visible congregation belongs to the church’s earthly form between Pentecost and Christ’s return; this salvation-historical horizon should remain explicit.
+
+Voice Hazards
+
+* The tone is editorial yet sermonic: public, polemical, morally earnest, and doctrinally assured.
+* Assertions such as “Vi veed” and “Vi maa” convey settled conviction, not mere opinion.
+* The prose addresses opponents firmly but without flippancy; irony is controlled and serious.
+* Phrases like “ganske hensynsløst at rette os efter Ordet” must not be softened into “carefully follow” or “seek to follow”; the point is uncompromising submission.
+* The ending exhortation has an imperative pastoral force: anyone eager to labor in the Free Church must begin with the congregation.
+* The cadence often rises by inevitability, not emotional excess; translation must preserve that grave pressure.
+
+STEP 2: IDIOM ANALYSIS
+
+* langs hele Linien: literally “along the whole line”; military-polemical idiom meaning across the entire field/front. It conveys a broad, coordinated struggle, not an isolated dispute.
+* narret og skuffet i vore Forventninger: “deceived and disappointed in our expectations.” The pair intensifies the sense of betrayal; not merely “let down.”
+* i Aand og Bogstav: “in spirit and letter.” This has legal and biblical resonance, indicating violation both in intent and in textual form.
+* det stik modsatte deraf: “the exact opposite of that.” Strong antithesis; should remain sharp.
+* smaat antyder: “quietly hint” or “begin to hint a little”; suggests indirect insinuation by opponents.
+* følge de guddommelige Førelsers Lys: “follow the light of the divine leadings.” Pietistic expression of providential guidance. Literal translation is intelligible in English and preserves devotional force.
+* rette sine Feil: “correct one’s errors.” Moral and practical, not merely strategic adjustment.
+* Vi agter ... ganske hensynsløst at rette os efter Ordet: literally “We intend ... quite ruthlessly/regardlessly to conform ourselves to the Word.” The sense is uncompromising obedience without regard to pressure, expediency, or consequences.
+* Menigheden er det oprindelige og Samfundet det afledede: almost aphoristic. The congregation is original/primary; the larger body is derivative/secondary.
+* Guds Rige paa Jorden i Tiden fra Aandens Udgydelse og indtil Kristi Tilkommelse: salvation-historical formulation framing church order between Pentecost and the Parousia.
+* give bort eller laane ud sin kristelige Frihed: metaphor of surrendering liberty by gift or loan. It implies that even temporary transfer of ecclesial freedom is spiritually dangerous.
+* saa aandelige, at vi ingen udvortes Menighed vilde have: ironic critique of over-spiritualization. Comparable to anti-institutional tendencies in revivalist Christianity.
+* lider af en sørgelig Mangel og Skrøbelighed: “suffers from a sorrowful deficiency and frailty.” Strong but pastorally measured criticism.
+* Alfa og Omega: biblical allusion from Revelation, used idiomatically to say the congregation is beginning and end of the matter.
+
+Biblical allusions and likely King James-natural equivalents
+
+* “in spirit and letter” has a natural biblical-English ring, though not necessarily requiring KJV diction.
+* “Head and Lord” for Christ over the congregation echoes New Testament ecclesiology.
+* “the outpouring of the Spirit” is a standard biblical-English equivalent for Aandens Udgydelse.
+* “Alpha and Omega” is a natural English biblical equivalent and should be preserved.
+* “Christ’s coming” is preferable to the more Latinate “Parousia” in the translation, since the author writes pastorally, not technically.
+
+Expressions where literal translation could obscure force
+
+* hensynsløst: a flat literal “ruthlessly” would sound morally distorted in English; “without compromise” or “unsparingly” better conveys uncompromising obedience.
+* samfund: literal consistency as “society” would mislead; context-sensitive rendering as “church body,” “association,” or “organized body” is necessary.
+* udvortes: literal “outward” should often be preserved, but sometimes “external” may read more naturally. Since the author contrasts visible organization with inward spirituality, “outward” is preferable.
+* statskirkelige Menigheder: literal “state-church congregations” is somewhat heavy but best preserves the polemical contrast.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening historical claim: everyone knows the new movement and Folkebladet labored earnestly for ecclesiastical union.
+* Stated objection: critics accuse them of lacking zeal for the United Church, the product of that union.
+* First rebuttal: union was only possible because of prior labor for catechetical instruction, the congregation, peace, and freedom.
+* Central complaint: expectations were betrayed; the United Church, constitutionally meant to embody congregational freedom, became its opposite in practice.
+* Evidence by principle: it repeatedly violated its constitution precisely at this essential point.
+* Consequence: therefore a new struggle now exists across the whole field for the congregation and its freedom.
+* Assurance: because the cause is clearly grounded in God’s Word, there is no doubt either about its legitimacy or its outcome.
+* Realism: the struggle will involve suffering, time, and apparent defeats.
+* Encouragement: the small beginning already shows vitality, enough that opponents try to crush it by lawsuits and other destructive measures.
+* Response to another criticism: if Augsburg’s friends want something freer and better than the Conference, that is no inconsistency; indeed the new constitution was supposed to provide just that.
+* Historical explanation: they accepted a new body because it was said to be more aligned with the new movement’s principles than the Conference was.
+* Ethical inference: since they have always worked for progress in congregational freedom, they cannot now be expected to retreat.
+* Reflective pivot: if divine leadings grant clearer insight over time, it is no great fault to correct former errors.
+* Doctrinal turn: the article now asks what the congregation is in the Free Church and answers from the New Testament.
+* Programmatic declaration: they intend to conform themselves uncompromisingly to the Word, the only authority for a Lutheran Free Church.
+* First ecclesiological principle: the congregation is primary, the larger body derivative.
+* Explication: the local congregation is the true apostolic and free-standing earthly form of God’s kingdom from Pentecost to Christ’s return.
+* Corollary: all outward church bodies and institutions are justified only as serving organs for the congregation, never as ruling authorities.
+* Constitutional axiom: this is the first and most far-reaching rule for church polity.
+* Applied local principle: each local congregation stands under God’s Word, Christ, and the Spirit, but under no other ruling power.
+* Moral warning: a congregation may surrender its freedom, but to do so is unbiblical, unchristian, culpable before God, and spiritually harmful.
+* Balancing clarification: the New Testament does require outward organized congregations with officebearers and rules.
+* Polemic against inwardism: rejecting outward congregation in the name of spirituality contradicts Scripture and produces deficiency.
+* Distinction: this necessity does not extend to organized church bodies above/below/beside the local congregation.
+* Conclusion in polity: churches may form associations or not and remain equally Christian.
+* Final first principle restated: the Christian church consists of free, independent, self-standing congregations.
+* Non-domination principle: no congregation owes obedience to another; none may rule over another; even ninety-nine may not rule over one.
+* Closing exhortation: Scripture teaches this; therefore anyone eager to work in the Free Church must begin with the congregation.
+* Final practical application: because state-church congregations so greatly fail to be what they ought, the immediate field of labor is the freeing of the congregation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Guds Ord / Ordet: pervasive appeal to Scripture as supreme norm; echoes Reformation and biblical language about the Word of God.
+* Menigheden ... Guds Rige paa Jorden: echoes New Testament descriptions of the church as the visible community of the kingdom.
+* fra Aandens Udgydelse: likely echo of Acts 2 and Pentecost, the outpouring of the Holy Spirit.
+* indtil Kristi Tilkommelse: eschatological language echoing New Testament teaching on Christ’s return.
+* Jesus Kristus til Hoved og Herre: likely echo of passages on Christ as head of the church, such as Ephesians 1:22–23, 4:15, 5:23; Colossians 1:18.
+* Guds Aand til sin Veileder: broad New Testament echo of the Spirit guiding believers/church, e.g. John 16:13; Romans 8:14.
+* Alfa og Omega: direct echo of Revelation 1:8, 21:6, 22:13.
+* spiritual fellowship among congregations: may echo the New Testament communion of churches, though without a single explicit citation.
+* officebearers and rules in the outward congregation: broad echo of the pastoral epistles and apostolic church order.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Preserve declarative force in statements of certainty: “We know,” “We must answer,” “It stands equally firm.”
+* Retain the polemical contrast between promise and practice in the United Church.
+* Do not soften references to suffering, destruction, guilt, harm, or coercive suppression.
+* Preserve earnest exhortation at the end: the laborer in the Free Church must begin with the congregation.
+* Maintain the severe but measured criticism of over-spiritualized Christianity.
+* Keep the editorial confidence that the cause’s legitimacy and eventual outcome are grounded in God’s Word.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* maa: generally “must,” not “should,” where necessity is asserted.
+* skulde: where tied to constitutional intention, often “was to have been” or “was meant to be,” preserving unrealized design.
+* vil: often “wills” or “requires” when referring to the New Testament’s teaching, though “wants” is too weak; “means that” or “requires that” may be used contextually.
+* kan: must be handled carefully; when it indicates possibility, preserve it as “can.”
+* kan ikke vente: “cannot expect,” not “should not expect.”
+* har ikke Lov til: “has no right to,” stronger than “should not.”
+* er ikke nød til: “are not compelled/required to,” not merely “do not need” if doctrinal force is central.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed / Menigheden: congregation / the congregation
+* Frikirken: the Free Church
+* Guds Ord / Ordet: God’s Word / the Word
+* Samfund: church body / organized body / association (depending on context, but always secondary to the congregation)
+* Menighedsfrihed / Menighedens Frihed: congregational freedom / the freedom of the congregation
+* Kirkeforfatning: church polity
+* Embedsmænd / Menigheds-Embedsmænd / Samfundsembedsmænd: officebearers / congregational officebearers / officers of the church body
+* Aandens Udgydelse: the outpouring of the Spirit
+* Tilkommelse: coming
+* kristelig Frihed: Christian freedom
+* aandeligt Samfund: spiritual fellowship
+* statskirkelige Menigheder: state-church congregations
+* Frigjørelse: freeing / emancipation (translation uses “freeing” for directness)
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “product of the union” should remain metaphorically sharp.
+* “new battle along the whole line” should preserve the military image.
+* “small weak beginning” with “vitality” should retain organic-life imagery.
+* “crush it” must remain physically forceful.
+* “follow the light of the divine leadings” preserves spiritual-visual metaphor.
+* “lend out freedom” must remain metaphorical, not paraphrased away.
+* “Alpha and Omega” must stay intact.
+* The contrast between outward congregation and inward spiritual fellowship should remain imagistic and conceptual, not flattened into abstraction.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening sections: defensive and polemical.
+* Middle historical reflection: explanatory and self-justifying.
+* Doctrinal core: solemn, principial, magisterial.
+* Critique of anti-institutional piety: severe but pastorally restrained.
+* Closing exhortation: urgent and practical.
+* These tonal shifts should remain visible and not be leveled into a single academic monotone.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long sentences where the reasoning accumulates toward a decisive clause.
+* Preserve semicolons where they carry sermonic balance.
+* Keep anaphoric repetitions such as “We know ... we know also ...”
+* Preserve list rhythms: “ruling and commanding and ordering.”
+* Let emphatic aphorisms stand distinctly: “The congregation is the original, and the church body the derivative.”
+* End with a direct practical summons that sounds speakable from pulpit or platform.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Free Church and the Congregation.
+[Editorial article in “Folkebladet” for December 16, 1896.]
+
+Everyone knows that the new movement and “Folkebladet” labored with power and earnestness for the cause of union; and we are now reproached because we are not so zealous for the product of the union, the United Church, as we formerly were for the cause of union.
+
+To this we must answer: just as surely as it is true that the union would have been impossible and inconceivable without the diligent labor of the new movement and of Augsburg for catechetical instruction and the congregation, or what is the same thing, for peace and freedom, just so surely is it also true that we have been deceived and disappointed in our expectations. According to the principles laid down in its constitution, the United Church was to have been the fellowship of congregational freedom; in practice it became the exact opposite. The United Church has not once, but time after time, broken its constitution, both in spirit and in letter, precisely at this essential point.
+
+From this it comes that there is now a new battle along the whole line for the congregation and its freedom. And because this cause is altogether firmly and clearly grounded in God’s Word, we are not in the least degree in doubt either about its rightfulness or about its outcome. We know that it will require much suffering; we know also that it may take a long time and pass through many apparent defeats; but for all that it stands no less firm that the cause is good and worth suffering and contending for. The little weak beginning that has already been made also shows signs of having such vitality in it that it is not altogether strange, after all, if one tries to crush it by lawsuits and other havoc.
+
+And when it is now also quietly hinted that “Augsburg’s Friends” are not even satisfied with the work of “the Conference,” but want something freer and better, then we answer that it was, after all, the intention of the new constitution of the United Church that it should become a freer and better body than the Conference. For that reason, on our side, we had nothing against the fact that the other bodies were unwilling to enter the Conference; but they insisted absolutely that a new body should be formed with a new constitution more in agreement with the principles of the new movement than the constitution of the Conference; and when, then, a new body was formed with a new constitution more in agreement with the principles of the new movement than the constitution of the Conference, and when we were tolerated in this new body because we stood firm on the principle of the congregation, then one can hardly expect of us that we should now take a step backward, when all along we have worked for progress in the interest of congregational freedom.
+
+And if we believe that we can learn something little by little and can follow the light of the divine leadings, so that we can now see a little more clearly into the true nature of free-church work than before, then it is surely not so great a fault to try to correct one’s errors and to do it better little by little.
+
+If one would then ask how matters stand with the congregation in the Free Church, then our answer is this: exactly and altogether as God’s Word in the New Testament sets forth the congregation and its position. We intend, altogether definitely and quite without compromise, to conform ourselves to the Word; that is the only authority to which a Lutheran Free Church can bow.
+
+The first thing that then comes forth—as the scriptural principle for the relation between congregation and church body—is this: the congregation is the original, and the church body the derivative; the congregation is the proper, true, apostolic, and free-standing form of God’s kingdom on earth in the time from the outpouring of the Spirit until Christ’s coming; all outward bodies or churches or institutions or associations or societies have, according to God’s Word, only their justification as serving organs for the congregation, not as ruling and commanding and ordering authorities.
+
+This principle is the first and most far-reaching of all rules for church polity. The individual local congregation has God’s Word over it, has Jesus Christ as Head and Lord, has God’s Spirit as its Guide; but it has no other authority over it, and it has no right to give away or lend out its Christian freedom to any other. It can, of course, do so, but it is not biblical or Christian to do so; therefore neither is it without responsibility before God to do so. According to God’s Word the congregation is free, but not so free that it can give away that freedom without becoming guilty and suffering harm.
+
+It is altogether clear that the New Testament requires that Christians should not only have an inward fellowship of the Spirit with one another, but that they should also form outward, organized congregations with their officebearers and their rules. We would depart from the altogether clear requirement of God’s Word if we tried to be so spiritual that we would have no outward congregation. The outward congregation belongs to apostolic and biblical Christianity. And the many who will not belong to any outward congregation because it is not spiritual enough for them—their Christianity suffers from a sorrowful deficiency and frailty, though it is far from us to mean that such frail Christians are not Christians at all.
+
+On the other hand, the same does not hold for what is called a church body. Everyone who knows a little about Christianity knows that the Christian congregations have spiritual fellowship with one another, and we shall later try to shed further light on that matter; but God’s Word shows us no outward, organized church body over or under or outside the local congregation that should be any necessity for the believers or for the congregations. According to Scripture we must have outward congregations and congregational officebearers; we are not, on the other hand, required to have church bodies and offices of the church body and officers of the church body. The congregations can form bodies or refrain from forming bodies, and yet be equally Christian.
+
+The very first fundamental principle of the Free Church for church polity is therefore this: that the Christian Church consists of free, independent, and self-standing congregations. The local Christian congregation has an independent authority that applies to itself alone. It owes obedience to no other congregation, nor does it have the right to rule over any other congregation. And what in this matter applies to a single congregation applies to every last one of them and to them all together. Among one hundred congregations one congregation cannot rule; neither can the ninety-nine rule over the one.
+
+So teaches Scripture. We do well to emphasize it sharply and hold it immovably fast. Therefore, if there is anyone who is eager to labor in the Free Church, let him begin with the congregation. In this matter it is Alpha and Omega. And since there is so much lacking in our state-church congregations as to what they ought to be, there is at once, and immediately, room for all the work we can do in this one thing: the freeing of the congregation.
+
+[Georg Sverdrup.]

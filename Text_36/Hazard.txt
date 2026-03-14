@@ -1,0 +1,350 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menighed: Not merely “congregation” in a narrow institutional sense, nor “church” in the abstract only. In this text it bears a strong New Testament and ecclesiological force, referring both to the local gathered body and, polemically, to what people wrongly separate from “the Church.” The translation must preserve that tension. “Congregation” works in many local instances, but “Church” appears where the author argues identity between Church and congregations.
+
+* frikirkelige Arbeide: “free church work” or “Free Church work.” In context it refers to non-state-church ecclesial labor, not merely informal voluntary work. Capitalization may be used when the denominational-ecclesial sense is primary.
+
+* erkjendes i sin Sandhed: “be acknowledged in its truth” or “be recognized in its truth.” This is stronger than merely “understood correctly”; it implies truthful recognition before God’s Word.
+
+* hellige Krav: “holy demand” or “holy claim.” This is not simply an “ideal”; it is a binding divine requirement.
+
+* usynlig Menighed / synlige Menighed: The visible/invisible distinction is the central polemical axis. These must remain consistent and doctrinally clear.
+
+* gjælde for: “count as,” “pass for,” “be reckoned as.” It is forensic and evaluative, not merely descriptive.
+
+* nedsunket i Verdslighed og Ligegyldighed: “sunk in worldliness and indifference.” Strong spiritual decline language; must not be weakened.
+
+* trøster man sig med: “one comforts oneself with.” Self-deceptive consolation is implied.
+
+* foragter Menigheden og ophøier Kirken paa Menighedens Bekostning: A tightly argued ecclesiological accusation. “Despise the congregation and exalt the Church at the congregation’s expense” preserves the polemic.
+
+* Lys eller Salt: Biblical metaphors that must remain untouched.
+
+* levende: In devotional-theological prose this means spiritually alive, not merely active or functioning.
+
+* Bekjendelse af Synd og Overtredelse: “confession of sin and transgression.” The pair should remain distinct if possible.
+
+* dunkelt og svævende Begreb: “dim and vague notion” or “obscure and floating notion.” The phrase criticizes conceptual evasiveness.
+
+* Menighederne: plural, concrete local bodies. Important for the argument that “the Church is the congregations.”
+
+* Skam og Elendighed: “shame and misery” or “shame and wretchedness.” Must retain moral and spiritual severity.
+
+* lastefulde: “vicious,” “profligate,” “given to vice.” Stronger than “sinful” in a generic sense.
+
+* vansire: “disfigure.” Important image term.
+
+* skidne Spøle: likely “dirty spatters/splashes/filth.” The image is earthy and deliberately ugly. It must remain vivid rather than be abstracted into “blemishes.”
+
+* aabenbare ham i Verden: “manifest him in the world.” Strong Johannine and incarnational resonance.
+
+* I var forhen Mørkhed, men nu er I et Lys i Herren: Scriptural echo requiring careful rendering. Note that the Norwegian says “a light in the Lord,” not “light” without article; preserve structure where natural.
+
+* Virksomhed: active operation, labor, practical working-out; not merely “activity” in a weak modern sense.
+
+* iføres Kristus: “put on Christ” or “are clothed with Christ.” Strong Pauline baptismal language; “clothed with Christ” best preserves doctrinal resonance.
+
+* forkyndes hans Død indtil han kommer: direct biblical-sacramental language; preserve gravity and eschatological orientation.
+
+* udvortes, organiserede Samfund: “outward, organized fellowship/community.” “Outward” is important because the author insists visibility is concrete.
+
+* statskirkelige Masse: “state-church mass.” Polemical expression; must not be softened into “establishment” or “institution” alone.
+
+* Vaagn op du, som sover, staa op fra de døde: imperative force must remain maximal.
+
+* frem af Gruset: “up out of the rubble” or “debris.” Strong restoration image.
+
+* opbygge Ruiner og gjenoprette ødelagte Steder: prophetic restoration diction; must remain elevated and concrete.
+
+* Stad paa Bjerget: “city on a hill,” a biblical phrase that should be preserved in its known English form.
+
+* Jesu Tro og Livet i Guds Søn: “faith of Jesus” would be too literal and potentially misleading here. The phrase means living faith in Jesus and life in the Son of God. Best rendered as “faith in Jesus and the life in the Son of God” or “Jesus’ faith” only if context demanded, which it does not.
+
+Syntactic Hazards
+
+* The prose uses long argumentative periods with semicolon pivots and cumulative reasoning. These should not be broken into short explanatory modern sentences.
+
+* The text repeatedly turns by rhetorical question: “Men hvad om … ?” “Hvor fører saadant hen?” “Vil I ha Menighed?” These must retain directness and pressure.
+
+* Many sentences build through contrastive clauses: visible/invisible, congregation/Church, light/darkness, Word alone/Word with believing members. The internal logic must remain explicitly signaled.
+
+* Parenthetical insertions and appositional definitions are part of the sermonic cadence and should be preserved.
+
+* Biblical quotations are embedded into argument rather than isolated ornamentally. They must remain integrated into the prose.
+
+Theological Hazards
+
+* The relation of visible congregation to Church is the core doctrinal issue. Any translation that blurs the identity claim would damage the argument.
+
+* The text rejects a misuse of the invisible church doctrine as an excuse for visible ecclesial decay. This polemical force must remain intact.
+
+* “Christ’s body” and “Christ’s bride” are not metaphors of affection only but doctrinal definitions of the Church. They must remain explicit.
+
+* The spiritual opposition between light/darkness, life/death, belief/unbelief, faith/worldliness is absolute in the text. Do not soften into sociological language.
+
+* Baptism and the Supper are treated sacramentally and ecclesiologically, not as mere symbols. The translation must preserve this.
+
+* The command to awake from sleep and rise from the dead is addressed to those within the ecclesial sphere. This is spiritually accusatory and reformational.
+
+Voice Hazards
+
+* The tone is solemn, urgent, corrective, and pastoral. Over-smoothing would erase the author’s authority.
+
+* The author speaks with rebuke toward ecclesial self-deception; irony and severity must remain controlled but sharp.
+
+* Earthy images such as drunken members going from saloon to saloon and a fair face covered with dirty spatters should remain concrete.
+
+* The exhortation at the end is collective and summons men and women alike to faithful labor. Its earnest call must not become sentimental encouragement.
+
+STEP 2: IDIOM ANALYSIS
+
+* søgt at komme fra det hellige Krav: literally “sought to get away from the holy demand.” Meaning: evade the binding force of what Scripture says about the congregation. The idiom implies moral and doctrinal evasion, not innocent misunderstanding.
+
+* det er — en anden Sag: idiomatic contrast meaning “that is another matter.” Here it carries irony: people create a doctrinal escape hatch by distinguishing the visible congregation from the glorious Church of Scripture.
+
+* gaa drukne, ravende af Brændevin, fra Saloon til Saloon: the picture is of church members going about drunk, reeling from saloon to saloon. Not merely “drinking heavily,” but scandalous public debauchery.
+
+* trøster man sig med: self-consoling language. Theological implication: false comfort used to excuse ecclesial ruin.
+
+* paa Menighedens Bekostning: “at the congregation’s expense.” Idiom of gaining one thing by sacrificing another; here, one exalts a vague idea of Church by despising actual congregational reality.
+
+* for saa at slippe fra Sandheden: “and then, in order to escape the truth.” The phrase is accusatory: the abstraction is an evasion of reality.
+
+* danner man sig et dunkelt og svævende Begreb: “one forms for oneself a dim and floating notion.” This attacks doctrinal vagueness as self-manufactured and evasive.
+
+* hverken bedre eller værre: “neither better nor worse.” Idiomatic balancing phrase reinforcing identity: the Church is exactly as the congregations are.
+
+* til Skade for andre Menigheder: “to the harm of other congregations.” Ecclesial corruption has contagious, inter-congregational consequences.
+
+* tjener kun til at skjule, tildække og vansire Menigheden: triple verb sequence with escalating force: hide, cover over, disfigure. Literal rendering is important because the piling-up creates rhetorical pressure.
+
+* overdænget med skidne Spøle: literally something like “covered all over with dirty splashes/spatters.” Figuratively: foul visible elements disfigure what might otherwise be fair. Literal translation should preserve the ugliness rather than explain it away.
+
+* Det gjælder derfor om: idiom meaning “therefore the matter is that,” “therefore what matters is that.” It signals practical consequence.
+
+* Ordet er Lys for Foden og Lygte paa Stien: biblical allusion to Psalm 119:105. The natural English equivalent is “a lamp to the foot and a lantern/light upon the path,” but the familiar English biblical equivalent is “a lamp unto my feet, and a light unto my path.” Because the author’s form is adapted, the translation should preserve his syntax while allowing biblical recognition.
+
+* ved Daaben iføres Kristus: direct Pauline idiom from Galatians 3:27. Natural English equivalent: “in Baptism one is clothed with Christ” or “by Baptism one is clothed with Christ.” “Put on Christ” is biblically natural, but “clothed with Christ” better fits the passive form.
+
+* ved Nadverden forkyndes hans Død indtil han kommer: direct allusion to 1 Corinthians 11:26. Natural English equivalent: “in the Supper his death is proclaimed until he comes.”
+
+* I er Verdens Lys, I er Jordens Salt: Matthew 5. The King James equivalent is “Ye are the light of the world… Ye are the salt of the earth,” but per instruction the final translation should use modern pronouns: “You are the light of the world, you are the salt of the earth.”
+
+* Vaagn op du, som sover, staa op fra de døde, og Kristus skal lyse for dig: Ephesians 5:14. Strong revival and repentance language. “Christ shall shine upon you” is a natural English equivalent, but “shine for you” preserves the Norwegian more literally. “Shine upon you” better carries the biblical echo.
+
+* frem af Gruset: idiomatically “up out of the rubble.” This is concrete restoration language, with likely prophetic resonance.
+
+* Stad paa Bjerget, som ikke kan skjules: Matthew 5:14. “A city set on a hill cannot be hid” is KJV; per instruction avoid archaic pronouns but the phrase “a city on a hill, which cannot be hidden” preserves both familiarity and clarity.
+
+* Jesu Tro: in older devotional prose this can sometimes be ambiguous, but here context strongly supports “faith in Jesus,” not Christ’s own faithfulness as an abstract doctrine. Literal rendering would obscure the intended devotional sense.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: In Free Church work, the congregation is of such surpassing importance that one cannot labor enough for it to be recognized according to God’s Word.
+
+* Problem stated: The New Testament speaks so highly and gloriously of the congregation that many despair of applying those descriptions to actual congregational life.
+
+* False solution identified: People evade Scripture’s holy demand by teaching that all those glorious things are said only of an invisible congregation, while what we ordinarily call “congregation” is merely the visible one and therefore supposedly a different matter.
+
+* Central rhetorical pivot: “But what if according to the New Testament it were the same matter?” This introduces the article’s main contention.
+
+* Empirical scandal presented: In the cities, openly drunken and disorderly members of Norwegian Lutheran congregations are treated as belonging to the “visible” congregation.
+
+* Parallel example of self-deception: When a congregation is sunk in worldliness and indifference, with no known Christian in it, people comfort themselves that there is still an invisible congregation somewhere, perhaps even only in baptized infants.
+
+* Consequence diagnosed: This leads inevitably to despising the congregation and exalting the Church at the congregation’s expense.
+
+* Explanation of the evasion: Because the local congregation visibly lacks the marks associated with Christ’s body and bride, people avoid honest confession of sin by inventing a vague, elevated notion of “Church” detached from local reality.
+
+* Reformational assertion: Improvement requires acknowledging that the Church is the congregations; as the congregations are, so the Church is—neither better nor worse.
+
+* Ethical implication: One must stop deceiving oneself with the fantasy of a glorious Church alongside a bad congregation.
+
+* Further clarification: Congregations are not made visible by unbelieving, vicious, cursing, and drinking members; such persons only hide and disfigure the congregation.
+
+* Positive theological definition: It is of the highest importance that the congregation be visible because it is Christ’s own body, set to manifest him in the world.
+
+* Biblical inference: What is invisible cannot manifest; light is required. Therefore it must be possible to say of the congregation that it is light in the Lord.
+
+* Restatement: The congregation becomes visible through its believing members and their activity.
+
+* Means identified: The congregation becomes visible by God’s Word, by Baptism, and by the Supper.
+
+* Necessary correction: Yet it is not a matter of Word and Sacrament without faith and without believing human beings in the congregation.
+
+* Biblical reinforcement: Scripture says, “You are the light of the world, you are the salt of the earth,” not merely that God’s Word is the world’s light.
+
+* Ecclesiological synthesis: Christ’s body is visible because it consists of believing men and women working with Word and Sacrament; and their outward, organized fellowship is called congregation.
+
+* Objection raised and answered: If this does not fit our organized congregations, the consequence is not to deny the doctrine but to ask whether we want congregation at all.
+
+* Call to repentance: If in the state-church mass we call darkness “congregation,” then the only remedy is to obey the command to awake, rise, and receive Christ’s light.
+
+* Programmatic conclusion: This is the Free Church’s first task—to bring forth the congregation from the rubble, to build ruins and restore desolate places.
+
+* Practical narrowing: The issue is not first the large society as a whole, but each little congregation in each place where baptized people gather around the Word.
+
+* Final goal: There must become, in each place, a visible congregation, a city on a hill that cannot be hidden.
+
+* Closing appeal: Men and women are exhorted to labor faithfully toward this goal, individually and together, as many as have faith in Jesus and life in the Son of God.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Lys eller Salt” / “I er Verdens Lys, I er Jordens Salt” echoes Matthew 5:13–14.
+
+* “Kristi Legeme og Kristi Brud” draws on Pauline and Johannine/apocalyptic ecclesial imagery; likely Ephesians 1, 4, 5; 1 Corinthians 12; Revelation 21.
+
+* “Det som er usynligt, kan ikke aabenbare; der maa Lys til” is not a direct quotation but resonates with Johannine and Matthean light theology.
+
+* “I var forhen Mørkhed, men nu er I et Lys i Herren” echoes Ephesians 5:8.
+
+* “Ordet er Lys for Foden og Lygte paa Stien” echoes Psalm 119:105.
+
+* “ved Daaben iføres Kristus” echoes Galatians 3:27.
+
+* “ved Nadverden forkyndes hans Død indtil han kommer” echoes 1 Corinthians 11:26.
+
+* “Vaagn op du, som sover, staa op fra de døde, og Kristus skal lyse for dig” echoes Ephesians 5:14.
+
+* “opbygge Ruiner og gjenoprette ødelagte Steder” likely echoes prophetic restoration texts such as Isaiah 58:12 and related Isaianic language.
+
+* “en Stad paa Bjerget, som ikke kan skjules” echoes Matthew 5:14.
+
+* “Livet i Guds Søn” echoes Johannine language, especially 1 John 5:11–12.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must retain the article’s rebuking seriousness. Sverdrup is not neutrally describing an ecclesiological issue; he is exposing self-deception and calling for repentance.
+
+* Public scandal must remain scandalous: drunken members reeling from saloon to saloon are not an incidental example but a visible contradiction of what the congregation should be.
+
+* The critique of the invisible church misuse must remain edged with irony and grief, not rendered as detached academic analysis.
+
+* Commands such as “awake” and “rise from the dead” must retain their accusatory and awakening force.
+
+* The close should sound like a summons to disciplined fidelity, not general inspiration.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* kan ikke noksom arbeide: “cannot labor enough” preserves intensity better than “should work hard.”
+
+* skal gjælde for: “shall count as” or “are to count as.” A strong evaluative force must remain.
+
+* skal det blive en Forandring: “if there is to be a change” preserves necessity.
+
+* maa vi begynde / maa vi slutte: “we must begin,” “we must cease.” These are non-negotiable imperatives.
+
+* kan jo umuligt være: “can surely not possibly be.” Strong impossibility.
+
+* maa Lys til: idiomatic necessity; “light is required” or “there must be light.”
+
+* det gjælder om, at det kan siges: “what matters is that it may be said.” Retain practical necessity.
+
+* maa spørge / maa spørge: “must ask.”
+
+* saa er vel derved intet andet at gjøre end at lyde Befalingen: “then there is nothing else to do but obey the command.” Must remain absolute.
+
+* blir en synlig Menighed: “there may become” or “there becomes” a visible congregation. The force is purposeful and programmatic.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed: usually “congregation”; where the collective relation to Church is foregrounded, preserve “congregations” and “Church” distinctly.
+
+* Kirken: “the Church.”
+
+* synlig Menighed / usynlig Menighed: “visible congregation” / “invisible congregation.”
+
+* Guds Ord / Ordet: “God’s Word” / “the Word.”
+
+* troende: “believing,” not merely “faithful” unless context demands. This text contrasts believing with unbelieving.
+
+* vantro: “unbelieving.”
+
+* levende: “alive” or “living,” in the spiritual sense.
+
+* Verdslighed: “worldliness.”
+
+* Daab / Nadverd: “Baptism” / “the Supper.” “Holy Communion” could work, but “the Supper” better matches the article’s compact doctrinal style.
+
+* Kristi Legeme / Kristi Brud: “Christ’s body” / “Christ’s bride.”
+
+* Troskab: “faithfulness.”
+
+* Jesu Tro: “faith in Jesus.”
+
+* Livet i Guds Søn: “the life in the Son of God.”
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Light/salt imagery must remain literal as metaphor, not explained away.
+
+* The fair face disfigured by dirty spatters must remain vivid and unpleasant.
+
+* The congregation as Christ’s body and bride must remain embodied and relational, not institutionalized.
+
+* “From the rubble” and “build ruins and restore desolate places” must remain restoration images with prophetic force.
+
+* “A city on a hill” must remain as the visible-public image of ecclesial witness.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The article moves from doctrinal concern to irony, then scandal, then rebuke, then positive definition, then exhortation, then prophetic summons, then hopeful collective appeal.
+
+* Severity toward self-deception should contrast with the dignity of the congregation’s calling as Christ’s body.
+
+* The end is hopeful, but only after repentance and rebuilding. Hope must not erase the preceding severity.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many paragraphs are shaped for reading aloud: assertion, illustration, rhetorical question, inference, command.
+
+* Semicolons and clause chains should be retained where they carry argument and breath structure.
+
+* Repetition of “Den bliver synlig …” should remain audible and emphatic.
+
+* The final exhortation should sound like a spoken appeal to an assembly.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Visible Congregation.
+[Editorial article in “Folkebladet” for January 20, 1897.]
+
+In Free Church work the congregation is of such surpassing importance that we cannot labor enough for it to be acknowledged in its truth according to God’s Word.
+
+In the New Testament such high and glorious words are spoken concerning the congregation that many have given it up in despair and have sought to escape the holy demand by teaching that all the great and glorious things are said of an invisible congregation. But what we ordinarily have under the name of congregation, that is only the visible congregation, and that is—another matter.
+
+But what if according to the New Testament it were the same matter?
+
+It is not uncommon in our cities to see a number of congregation members—belonging to Norwegian Lutheran congregations—go drunken, reeling with brandy, from saloon to saloon; such, then, are to count for the “visible” congregation.
+
+And conversely, when a congregation is altogether sunk in worldliness and indifference, so that one knows of not a single Christian in the congregation, then one comforts oneself with the thought that there is yet an invisible congregation somewhere, if nowhere else than in the newborn children.
+
+Where does such a thing lead? Invariably to this: that one despises the congregation and exalts the Church at the congregation’s expense. One sees that the local congregation is neither light nor salt; neither believing nor living; it surely cannot possibly be Christ’s body and Christ’s bride, as it is. And then, in order to escape the truth and the honest confession of sin and transgression, one forms for oneself a dim and vague notion that there is, raised high above the congregation, a Church concerning which one would prefer not to say anything definite, where it was and where it is.
+
+If there is to be a change for the better among us, then we must begin by acknowledging that the Church is the congregations; and that as the congregations are, so is the Church, neither better nor worse, for it is precisely one and the same matter. We must cease deceiving ourselves with the notion that if we have a bad congregation, we nevertheless have a good and glorious Church; for the Church is altogether nothing other than the congregations, and a bad congregation is shame and misery for itself and its Lord and Savior, and it is harmful to other congregations, few or many, according as it comes into contact with them.
+
+But next, it is above all important that it be acknowledged among us that our congregations are not made visible by the unbelieving, vicious, cursing, and drinking congregation members; such serve only to hide, cover over, and disfigure the congregation, just as a fair face is disfigured when it is covered all over with dirty spatters.
+
+It is of the very highest importance that the congregation be visible. For it is Jesus Christ’s own body, set to manifest him in the world. That which is invisible cannot manifest; light is required. Therefore what matters is that it may be said of the congregation: “You were formerly darkness, but now you are a light in the Lord.” If that cannot be said, then it is no visible congregation.
+
+In other words, the congregation becomes visible by its believing members and their activity.
+
+It becomes visible by God’s Word, that is true, for the Word is a lamp to the foot and a light upon the path; its proclamation and use in church and house, in testimony and conversation, serve to make the congregation visible.
+
+It becomes visible by Baptism and the Supper; for by Baptism one is clothed with Christ, and in the Supper his death is proclaimed until he comes.
+
+But it is not merely a matter of the Word and the Sacrament without faith and without believing people in the congregation. It stands written: You are the light of the world, you are the salt of the earth. It does not stand written merely that God’s Word is the light of the world.
+
+Christ’s body—that whereby Christ is seen, that whereby Christ works—is visible, because it is believing men and women who labor with the Word and the Sacraments, and it is their outward, organized fellowship which is called congregation.
+
+But that does not fit at all our outward organized congregations! No, but from that it only follows that we must ask: Do you want congregation? If the congregation has been lost to us in the state-church mass, so that we call that congregation which is darkness and not light, then surely there is nothing else to do but obey the command: Awake, you who sleep, arise from the dead, and Christ shall shine upon you!
+
+This is the Free Church’s first task: to bring forth the congregation out of the rubble, or, as the Prophet says, to build ruins and restore desolate places.
+
+The matter is not the great society now; the matter is each single little congregation. The matter is that in every place where baptized people gather around the Word, there may become a visible congregation, a city on a hill, which cannot be hidden.
+
+Men and women, let us labor with faithfulness toward this goal, each for himself and all together, as many as have faith in Jesus and the life in the Son of God.
+
+[Georg Sverdrup.]

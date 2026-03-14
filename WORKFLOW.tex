@@ -1,0 +1,116 @@
+% master.tex
+\documentclass[12pt]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{3}
+
+
+% ---------- Header/footer ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.2pt}
+\fancyhead[L]{\small Sverdrup — Working Translation}
+%\fancyhead[R]{\small \leftmark}
+%\fancyfoot[C]{\small \thepage}
+
+
+
+\begin{document}
+
+% ==========================================================
+% Title Page (English, modeled on the scanned 1910 title page)
+% ==========================================================
+\begin{titlepage}
+    \centering
+    \vspace*{1.5in}
+
+    {\LARGE\bfseries Guidance\par}
+    {\LARGE The Principles of the Lutheran Free Church\par}
+    \vspace{0.15in}
+
+    {\large Deiledning \par}
+	  {\large lutherske Frikirkes Principer\par}
+    \vspace{0.35in}
+
+
+
+    {\large Articles and Essays\par}
+
+    \vspace{0.75in}
+
+    {\large by\par}
+    \vspace{0.10in}
+
+    {\large Professors Georg Sverdrup and Sven Oftedal\par}
+
+    \vspace{0.50in}
+
+    {\large Edited by John O. Evjen\par}
+
+    \vfill
+
+    {\small The Free Church Book Concern\par}
+    {\small MINNEAPOLIS, MINN.\par}
+    {\small 1914\par}
+
+    \vspace{0.5in}
+
+\end{titlepage}
+
+% ======================
+% Front matter: TOC
+% ======================
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\input{TranslatorNote.tex}
+\pagebreak
+%\input{Forward/Forward.tex}
+%\pagebreak
+
+% ======================
+% Main matter
+% ======================
+\pagenumbering{arabic}
+
+% First included file:
+\input{Text_7/Text_7.tex}\pagebreak
+\input{Text_12/Text_12.tex}\pagebreak
+\input{Text_13/Text_13.tex}\pagebreak
+\input{Text_16/Text_16.tex}\pagebreak
+\input{Text_19/Text_19.tex}\pagebreak
+\input{Text_21/Text_21.tex}\pagebreak
+\input{Text_23/Text_23.tex}\pagebreak
+\input{Text_25/Text_25.tex}\pagebreak
+\input{Text_29/Text_29.tex}\pagebreak
+\input{Text_31/Text_31.tex}\pagebreak
+%\input{Text_36/Text_36.tex}\pagebreak
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
