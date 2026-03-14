@@ -1,0 +1,22 @@
+
+The Program of the Minority
+
+[Adopted at the Meeting in Minneapolis in October, 1894.]
+
+Preamble: The Minority organized for work desires only to carry on a vigorous activity, so that the tasks which the United Church has set itself in the Articles of Union and the Constitution may come to practical realization, maintaining that the United Church is a fellowship of congregations organized in order to give congregational freedom the greatest possible development among us.
+
+Point 1. The principal purpose of this organization is to maintain Augsburg Seminary, which we still regard, according to the Articles of Union, as rightfully the seminary of the United Church; and by Augsburg Seminary we mean first and foremost the principle of pastoral education which is followed there, and which we believe works for the good of our church body and of our congregations.
+
+Point 2. With regard to Inner Mission, we regard it as the only right course that it be carried on impartially, and that pastors’ and congregations’ position in the affairs of the church body shall not influence the distribution of mission contributions from the mission treasury of the church body. We regard it as all the more our duty to defend in every lawful way the right of pastors and congregations to free and independent conviction.
+
+Point 3. We believe that mission to the heathen is one of the chief purposes of the Christian congregation, just as immediate as any other ecclesiastical task at home in Christendom, and that it is therefore a holy duty to use all means and gifts for the spread of God’s Kingdom among the heathen, and not to lend out mission funds in such a manner as has been done, instead of applying them according to their appointed purpose.
+
+Point 4. We hold fast the congregations’ right of call as free and unhindered by interference from the church body or its officers. The church body shall help the congregation to attain the greatest possible freedom in the calling of a pastor, not seek to introduce a system of promotion for pastors. To set up new conditions for ordination in the interests of a party we regard as an altogether improper intervention in the congregation’s freedom and right of call; and we also regret that congregations surrender their call either to the president of the church body or to some committee outside their own midst. The recommendation of unworthy persons to a congregational call is a violation of the holiest obligations that rest upon the church body and its officers.
+
+Point 5. We regard a vigorous and spiritual lay activity, and the employment of all spiritual gifts in the congregation, as an incalculable good for the awakening and nourishment of Christian life; and this activity must be fostered among us by living revival preaching and by a quickening of heartfelt love for sinners’ salvation and blessedness.
+
+Point 6. We believe that the controversy within the church body ought to be settled, and for this purpose we regard it as indispensably necessary that there be an amicable settlement through brotherly negotiations.
+
+Point 7. That the church body sets itself up as judge of sin and attempts to bind consciences by its laws and resolutions, we regard as a dangerous and troubling course, which will easily lead into Catholicizing deviations.
+
+Point 8. In general we maintain that the church body is not any ecclesiastical authority over the congregations, such that it can require obedience and submission from them, but only an organ or means by which the congregations carry out certain definite tasks which they are individually too weak to carry out in a sound manner, such as maintaining a seminary, conducting Inner Mission and outer mission, and so forth. We therefore regard it as wrong to press congregations into union or to split congregations for the sake of church-body causes and church politics.

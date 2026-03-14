@@ -1,0 +1,29 @@
+
+Open Letter to Augsburg’s Friends.
+["Folkebladet," August 8, 1894.]
+
+Dear Friends!
+
+The condition of our Church is now such that it requires of all earnest Christians both thorough deliberation, urgent intercessory prayer, and vigorous labor. There is in truth inward security and outward distress in every direction. The conflict which at first seemed to concern only a mere insignificance stretches ever farther and breaks out, one may almost say, upon all the fields of church life. In such times, what matters is that each individual Christian, man and woman alike, both seeks to find the way in the confusion and walks the way with faith and boldness.
+
+In the United Church the situation is such that it carries on its work in two divisions. The majority has set in motion a division of the seminary and of the mission, so that it has become altogether unavoidable that within this body double work must be done, at least in these matters.
+
+Now the majority has held its meeting in St. Paul. In spite of every attempt on the part of the minority to secure an amicable and Christian settlement of all that separates and divides, it has refused and thrust back the hand which from the minority had been extended toward full and complete reconciliation. Thereby the minority is compelled to continue the churchly work which must be done, and which the majority is unwilling to carry out. It rests upon us as a holy responsibility to sustain Augsburg Seminary in its old spirit and direction, to preserve the work of Inner Mission where the majority withdraws its support from it, and above all to uphold the congregation’s precious rights in both the question of the calling of pastors and of its independence and self-government in all its inward affairs.
+
+The minority is therefore constrained to assemble; and now, since the invitation to the minority meeting has been issued by Augsburg’s Board of Trustees and the minority’s association committee, it is desirable that all Augsburg’s friends set themselves to work to make the meeting in October as numerous, vigorous, and influential as possible. Of all work it holds true that if it is worth doing, it is also worth doing well; all the more is this true of all churchly work.
+
+We need to come together for prayer meetings, so that with united sorrow and sighing we may come before the Lord and pray for grace upon us and for blessing upon our Church.
+
+We need to come together for a friends’ meeting, in order to find one another’s heart and hand, that we may be strengthened in the work and in the struggle, and together consider what is the right way to advance the great cause of our Church’s future under the misguided conditions of the present.
+
+We need to come together in order to find the most serviceable form for the work; whether it is best to endure all the suffering and vexation that fall to our lot in the United Church. And whether the friends judge the one thing or the other to be best, then we must adopt such measures that, so far as it lies with us, our part of the churchly work may thrive and bear fruit to God’s glory and to the benefit of our people for time and eternity.
+
+It is the future of our Church that is at stake. The right solution of the free-church tasks is the responsibility that lies before us. The right congregational training of pastors, the self-government of the congregations, and the pastors’ freedom of conscience must be carried through and upheld fully and wholly before we attain to "Free Congregation in a Free Church."
+
+Moreover, friends, it is not written in vain that "the stone which the builders rejected has become the chief cornerstone!"
+
+This address to the friends has been written at the urgent urging of several brethren. May the Lord cause the work of our hands to prosper and grant us a numerous and blessed meeting.
+
+In brotherly love,
+Yours devotedly,
+Georg Sverdrup.

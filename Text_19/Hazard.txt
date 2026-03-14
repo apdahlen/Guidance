@@ -1,0 +1,360 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "arbeide" / "Virke": older usage with active, organized labor and energetic action; not merely "work" in a neutral sense, but sustained practical exertion.
+* "Opgaver": tasks, responsibilities, or mandates; in ecclesial-political context, carries institutional weight.
+* "praktisk Gjennemførelse": practical realization, implementation, or carrying into effect; should preserve concrete administrative force.
+* "hævder": asserts, maintains, upholds; stronger than merely "states."
+* "Samfund": in this setting, an organized church body or synodical fellowship, not "society" in the broad social sense.
+* "Menighedsfriheden": congregational freedom; a key ecclesiological term with strong free-church / anti-hierarchical force.
+* "opholde Augsburg Seminarium": older ecclesial-institutional usage meaning maintain, sustain, or keep up; not merely "hold".
+* "berettiget": entitled, warranted, or legitimately authorized; must preserve juridical force.
+* "Presteskole": seminary, ministerial school, or school for pastors; seminary is the most natural ecclesial equivalent.
+* "Presteuddannelsesprincip": principle of pastoral formation / ministerial training principle; doctrinal and institutional term requiring consistency.
+* "indre Mission": Inner Mission, meaning domestic/home mission within the church body, not inward spirituality.
+* "upartisk": impartial, without party favoritism.
+* "Standpunkt i Samfundssager": position in church-body controversies or denominational affairs; not general civic matters.
+* "værne paa": guard, protect, defend; should retain protective force.
+* "fri og selvstændig Overbevisning": free and independent conviction; conscience-language with theological and ecclesial significance.
+* "Hedningemissionen": mission to the heathen / heathen mission; historically exact but potentially jarring in modern English. "Mission to the heathen" preserves period meaning most faithfully, though "foreign mission" would soften the original and lose the contrast.
+* "hjemme i Kristenheden": at home in Christendom; historical ecclesial-geographical phrase.
+* "hellig Pligt": holy duty; should not be weakened to merely "important responsibility."
+* "efter Bestemmelse": according to their appointed purpose / designated use.
+* "Kaldsret": the congregation’s right of call; a technical Lutheran church-polity term.
+* "Indblanden": interference, meddling, intervention.
+* "Befordringssystem": promotion system, advancement system, career ladder; critical anti-clerical/political term.
+* "utilbørligt Indgreb": wholly improper intervention / intrusion; strong moral-political judgment.
+* "sin Kaldelse": here likely the act/right of calling, not personal vocation.
+* "udenfor sin egen Midte": outside its own midst; should retain congregational self-governance emphasis.
+* "uværdige Personer": unworthy persons; moral and ministerial qualification language.
+* "Lægmandsvirksomhed": lay activity / lay ministry / lay work; should preserve broad active participation by non-ordained believers.
+* "Udnyttelse": utilization, employment, bringing into use; not exploitative in modern sense.
+* "aandelige Gaver": spiritual gifts.
+* "Vækkelse" / "Vækkelsesprædiken": revival / revival preaching; important pietistic terms.
+* "Næring": nourishment, sustenance, fostering; organic spiritual metaphor.
+* "Synderes Frelse og Salighed": sinners’ salvation and blessedness; "salvation and blessedness" preserves doctrinal fullness better than reducing to salvation alone.
+* "Samfundsstriden": the controversy within the church body / synodical conflict; context-specific institutional strife.
+* "mindeligt Opgjør": amicable settlement, friendly adjustment, conciliatory resolution.
+* "broderlige Forhandlinger": brotherly negotiations / fraternal deliberations.
+* "opkaster sig til Dommer om Synd": sets itself up as judge of sin; strong polemical idiom.
+* "binde Samvittighederne": bind consciences; classic Protestant anti-hierarchical and anti-legalist phrase.
+* "katholicerende Afveie": Romanizing / Catholicizing bypaths, tendencies, or deviations; should preserve polemical Protestant warning without modern dilution.
+* "kirkelig Øvrighed": ecclesiastical authority / churchly magistracy; must preserve hierarchical connotation.
+* "Organ eller Middel": instrument or means; functional rather than sovereign understanding of church structure.
+* "forsvarlig Maade": sound, responsible, defensible manner.
+* "Sammenslutning": union, consolidation, enforced combination.
+* "splitte Menigheder": split congregations.
+* "Kirkepolitikens Skyld": for the sake of church politics / ecclesiastical politics.
+
+Syntactic Hazards
+
+* Long periodic sentences accumulate argument by clause and qualification; these should not be broken up so much that institutional logic is weakened.
+* Semicolon pivots are structurally important, often moving from principle to explanation or from assertion to warning.
+* Appositional clarification appears frequently, especially where a general institutional term is immediately defined more concretely.
+* Repeated infinitive constructions ("at ...") carry programmatic force and should remain visible in English where possible.
+* Negative contrasts ("ikke ... men") are central to the reasoning and must retain full opposition.
+* Enumerative phrasing is compressed and juridical; the translation should preserve the sense of adopted resolutions rather than turn them into paraphrase.
+* The style alternates between declarative principle and normative conclusion; this logic must remain sequential and explicit.
+
+Theological Hazards
+
+* "Menighedsfriheden" and "Kaldsret" are ecclesiological doctrines, not mere procedural preferences.
+* "indre Mission" and "Hedningemissionen" reflect a theology of the church’s mission both within Christendom and beyond it.
+* "hellig Pligt" frames mission as a sacred obligation before God.
+* "aandelige Gaver" presumes a biblical theology of gifts distributed in the congregation.
+* "Vækkelsesprædiken" and concern for "Synderes Frelse og Salighed" reflect revivalist-pietist soteriology and pastoral urgency.
+* "Dommer om Synd" and "binde Samvittighederne" invoke Reformation-era distinctions concerning conscience, sin, and unlawful ecclesiastical domination.
+* Warning against "katholicerende Afveie" is doctrinal and ecclesiological, not merely cultural or sectarian rhetoric.
+* "kirkelig Øvrighed" versus "Organ eller Middel" is a major church-polity distinction concerning the locus of authority.
+
+Voice Hazards
+
+* The tone is formal, programmatic, polemical, and earnest; over-smoothing would erase its adopted-resolution character.
+* Institutional judgments are morally weighted; phrases like "ganske utilbørligt Indgreb" and "Krænkelse af de helligste Forpligtelser" must retain severity.
+* The prose is strongly anti-centralizing and protective of congregational liberty; this voice must remain firm and unsentimental.
+* Revivalist warmth appears in Point 5, but even there the tone remains exhortational and ecclesially purposeful, not merely devotional.
+* The text often speaks with collective conviction ("vi tror," "vi anser," "vi fastholder"); this repeated self-positioning is part of the rhetoric and should remain prominent.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Den til Arbeide organiserede Minoritet"
+  Meaning: the minority organized for action or organized for work.
+  Context: not merely a numerical minority, but a mobilized party within a church struggle.
+  Translation note: "the Minority organized for work" is literal, but "organized for action" better conveys public organizational purpose. Because the source is formal and adopted, "organized for work" may preserve the period texture better.
+
+* "drive et kraftigt Virke"
+  Meaning: carry on vigorous activity, exert a strong and active effort.
+  Implication: energetic, practical church labor.
+  Translation note: should not become bland "be active."
+
+* "kan komme til praktisk Gjennemførelse"
+  Meaning: may come into practical implementation or realization.
+  Implication: resolutions must become concrete reality, not remain theoretical.
+
+* "Samfund af Menigheder"
+  Meaning: a fellowship/body/community of congregations.
+  Theological implication: authority rests with congregations; the larger body is derivative.
+
+* "give Menighedsfriheden den størst mulige Udvikling"
+  Meaning: give congregational freedom the fullest possible development.
+  Implication: freedom is not merely protected but positively expanded.
+
+* "opholde Augsburg Seminarium"
+  Meaning: maintain/sustain Augsburg Seminary.
+  Institutional implication: preservation of seminary is central to the party’s aim.
+
+* "Presteuddannelsesprincip"
+  Meaning: principle according to which pastors are educated.
+  Implication: not just the institution, but the educational philosophy and ecclesial formation it embodies.
+
+* "indre Mission"
+  Meaning: Inner Mission or domestic mission among the church’s own people.
+  Scriptural/theological context: care for awakening and strengthening faith within Christendom.
+  Translation note: capitalize as "Inner Mission" if preserving institutional-religious idiom.
+
+* "Standpunkt i Samfundssager"
+  Meaning: one’s position in denominational or church-body affairs.
+  Implication: party alignment must not influence mission-fund distribution.
+
+* "værne ... om ... Ret"
+  Meaning: safeguard or defend a right.
+  Implication: morally charged duty-language.
+
+* "Hedningemissionen"
+  Meaning: mission to the heathen.
+  Scriptural context: missionary mandate among the nations.
+  Translation note: modern English often avoids "heathen," but here it is historically exact and reflects the contrast with "Kristenheden." Literal rendering preserves period missionary terminology better than "foreign mission."
+
+* "hjemme i Kristenheden"
+  Meaning: at home in Christendom.
+  Implication: missionary duty abroad is as immediate as any church work among already-Christian populations.
+
+* "nytte alle Midler og Gaver"
+  Meaning: use all means and gifts.
+  Biblical echo: stewardship of gifts entrusted by God.
+
+* "Kaldsret"
+  Meaning: right of call.
+  Theological implication: congregation’s authority to call its pastor.
+  Natural English equivalent: "right of call" is standard and should be retained.
+
+* "indføre et Befordringssystem for Presterne"
+  Meaning: introduce a promotion system for pastors.
+  Implication: rejects bureaucratic clerical advancement in place of congregational call.
+
+* "Anbefaling af uværdige Personer"
+  Meaning: recommendation of unworthy persons.
+  Theological implication: violation of sacred trust in ministerial oversight.
+
+* "Lægmandsvirksomhed"
+  Meaning: lay activity/ministry.
+  Biblical context: broad use of gifts in the body.
+
+* "kristeligt Livs Vækkelse og Næring"
+  Meaning: awakening and nourishment of Christian life.
+  Implication: revival and ongoing sustenance belong together.
+
+* "levende Vækkelsesprædiken"
+  Meaning: living / lively revival preaching.
+  Theological implication: preaching that awakens the spiritually indifferent.
+  Literal hazard: "living" in English may sound awkward; "living revival preaching" preserves the metaphorical vitality better than "effective preaching," which is too managerial.
+
+* "inderlige Kjærlighed til Synderes Frelse og Salighed"
+  Meaning: heartfelt / inward / earnest love for sinners’ salvation and blessedness.
+  Biblical-pietistic force: pastoral love directed toward eternal good, not mere benevolence.
+
+* "mindeligt Opgjør ved broderlige Forhandlinger"
+  Meaning: amicable settlement by brotherly negotiations.
+  Implication: conflict should be resolved in a fraternal Christian manner.
+
+* "opkaster sig til Dommer om Synd"
+  Meaning: arrogates to itself the office of judging sin.
+  Scriptural/Reformation resonance: concern about human authorities pronouncing beyond their warrant.
+  Translation note: "sets itself up as judge of sin" preserves idiomatic force.
+
+* "binde Samvittighederne"
+  Meaning: bind consciences.
+  Scriptural/Reformation context: only God’s Word may bind conscience. Strong confessional resonance.
+  King James resonance: while not a direct quote, "bind" and "conscience" sit naturally in historic Protestant English.
+
+* "katholicerende Afveie"
+  Meaning: Catholicizing or Romanizing deviations.
+  Theological implication: movement toward hierarchical, conscience-binding ecclesiology associated polemically with Rome.
+  Literal hazard: overly explanatory translation would flatten the warning.
+
+* "kirkelig Øvrighed"
+  Meaning: ecclesiastical authority, almost magisterial oversight.
+  Implication: the church body is denied coercive superiority over congregations.
+
+* "Organ eller Middel"
+  Meaning: instrument or means.
+  Theological implication: the synod/body exists to serve congregations, not rule them.
+
+Expressions where literal translation would obscure force
+
+* "opholde" as "uphold" could sound abstract; in context it means materially and institutionally sustain.
+* "Virke" as simply "work" may sound too flat; the sense is vigorous organized activity.
+* "Udnyttelse" as "exploitation" would be wrong; it means bringing spiritual gifts into active use.
+* "Øvrighed" as merely "leadership" would be too weak; hierarchical authority is the point.
+* "Afveie" as just "wrong ways" would lose the doctrinal polemical edge; "deviations" or "bypaths" is better.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Thesis / framing statement
+
+* The organized Minority seeks vigorous action only so that the tasks set by the United Church in its Articles of Union and Constitution may be carried into practice.
+* Foundational ecclesiological claim: the United Church is a fellowship of congregations organized to give congregational freedom its fullest possible development.
+
+Point 1
+
+* Primary institutional aim: sustain Augsburg Seminary.
+* Deeper rationale: not only the seminary as institution, but above all the principle of pastoral education followed there.
+* Supporting claim: this educational principle benefits both the larger church body and the congregations.
+
+Point 2
+
+* Principle: Inner Mission must be conducted impartially.
+* Negative application: party positions in church affairs must not affect distribution of mission funds.
+* Positive duty: defend the right of pastors and congregations to free and independent conviction.
+
+Point 3
+
+* Doctrinal assertion: mission to the heathen is one of the chief purposes of the Christian congregation.
+* Comparative claim: it is as immediate as any other church task at home in Christendom.
+* Normative conclusion: all means and gifts should be used for God’s kingdom among the heathen.
+* Rebuke: lending mission money instead of using it as designated is a violation of this duty.
+
+Point 4
+
+* Principle: congregations’ right of call must remain free and unhindered.
+* Institutional role of the larger body: help congregations attain maximal freedom in calling pastors.
+* Rejection: the church body must not create a promotion system for pastors.
+* Further rebuke: new ordination conditions set in a party’s interest improperly violate congregational freedom.
+* Additional lament: congregations err when they hand over the call to leaders or committees outside themselves.
+* Final moral judgment: recommending unworthy persons to congregations violates the holiest obligations borne by the church body and its officers.
+
+Point 5
+
+* Positive revivalist principle: vigorous spiritual lay activity and the use of all spiritual gifts are of incalculable benefit.
+* Purpose: awakening and nourishing Christian life.
+* Means: living revival preaching and renewed heartfelt love for sinners’ salvation and blessedness.
+
+Point 6
+
+* Practical ecclesial aim: the church-body conflict ought to be settled.
+* Necessary means: an amicable settlement through brotherly negotiations.
+
+Point 7
+
+* Warning: when the church body sets itself up as judge of sin and binds consciences by laws and resolutions, this is dangerous and troubling.
+* Consequence: such a course easily leads toward Catholicizing deviations.
+
+Point 8
+
+* General ecclesiological principle: the church body is not an ecclesiastical authority over the congregations entitled to demand obedience and submission.
+* Positive definition: it is only an organ or means through which congregations jointly carry out tasks they cannot safely carry out alone.
+* Examples: seminary, inner mission, outer mission.
+* Practical conclusion: it is wrong either to pressure congregations into union or to split congregations for the sake of church-body causes and church politics.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Guds Riges Udbredelse" echoes New Testament kingdom language, especially the spread or proclamation of the Kingdom of God.
+* "aandelige Gaver" echoes Pauline teaching on spiritual gifts, especially 1 Corinthians 12 and Romans 12.
+* "Synderes Frelse" echoes broad New Testament soteriological language concerning the salvation of sinners; compare 1 Timothy 1:15 and Luke 19:10.
+* "binde Samvittighederne" is not a direct biblical quotation but strongly reflects Reformation readings of Christian liberty and conscience before God; compare Galatians and Romans 14 in theological background.
+* "Dommer om Synd" may echo biblical warnings against unlawful judging, though here more ecclesiological than directly scriptural.
+* "broderlige Forhandlinger" resonates with apostolic fraternal language among believers.
+* "hellig Pligt" is not a quotation but carries biblical-sacral obligation language.
+* Contrast between mission "hjemme i Kristenheden" and among "Hedningerne" echoes biblical distinction between the church and the nations/Gentiles, though filtered through 19th-century missionary idiom.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Preserve the adopted-resolution voice: formal, collective, declarative, and morally serious.
+* Do not weaken condemnations such as "quite improper intervention," "violation of the holiest obligations," and "dangerous and troubling course."
+* Retain the collective refrain "we believe," "we regard," "we maintain," "we hold fast" to preserve steady confessional pressure.
+* Let Point 5 sound warm but still exhortational and ecclesially disciplined.
+* Keep anti-hierarchical protest sharp in Points 4, 7, and 8.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "ønsker kun at drive" = desires only to carry on; keep restrictive "only".
+* "kan komme til praktisk Gjennemførelse" = may come to practical realization; possibility tied to aim.
+* "skal have Indflydelse" in negative context = shall have influence / is to have influence; preserve prohibition.
+* "er en hellig Pligt" = is a holy duty; strong obligation.
+* "skal hjælpe" = shall help / is to help.
+* "ikke prøve at indføre" = must not seek to introduce / not try to introduce.
+* "maa fremelskes" = must be fostered; strong necessity.
+* "burde ordnes" = ought to be settled; genuine normative force, not casual preference.
+* "ufravigeligt nødvendigt" = indispensably / unfailingly necessary; preserve strongest necessity.
+* "kan kræve" = can demand; capacity/claim of right denied.
+* "er for svage til at kunne udføre" = are too weak to be able to carry out; keep emphasis on insufficiency.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Samfund" = church body (preferred), unless context requires "fellowship" in the preamble’s "Samfund af Menigheder."
+* "Menighed" = congregation.
+* "Menighedsfrihed" = congregational freedom.
+* "Prest" = pastor.
+* "Presteskole" = seminary.
+* "indre Mission" = Inner Mission.
+* "Hedningemissionen" = mission to the heathen.
+* "Kaldsret" = right of call.
+* "Ordination" = ordination.
+* "Lægmandsvirksomhed" = lay activity.
+* "aandelige Gaver" = spiritual gifts.
+* "Vækkelsesprædiken" = revival preaching.
+* "Frelse og Salighed" = salvation and blessedness.
+* "Samvittighederne" = consciences.
+* "kirkelig Øvrighed" = ecclesiastical authority.
+* "Organ eller Middel" = organ or means.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Guds Riges Udbredelse" should remain "the spread of God’s Kingdom," not be flattened into generic missionary expansion.
+* "aandelige Gaver" should remain a gift-metaphor, not become talents or abilities unless context required; here it does not.
+* "Vækkelse" should remain awakening/revival language.
+* "Næring" should preserve nourishment imagery.
+* "binde Samvittighederne" must retain the binding metaphor.
+* "Afveie" may be rendered "deviations" or "bypaths"; "bypaths" is vivid but slightly archaic. "Deviations" is clearer; "Catholicizing bypaths" would preserve metaphor more fully.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Preamble and Points 1–4 are institutional and polemical.
+* Point 5 introduces warmer revivalist and pastoral language.
+* Point 6 shifts to conciliatory language about settlement.
+* Point 7 returns to sharp warning.
+* Point 8 broadens into general ecclesiological principle and closes with practical admonition.
+* Translation should preserve these shifts rather than making all points sound equally juridical or equally devotional.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentence flow where thought accumulates through subordinate clauses.
+* Retain semicolon turns, especially when they move from thesis to explanatory restatement.
+* Keep collective formulas at the start of clauses for rhetorical rhythm.
+* Avoid over-fragmentation, since this is resolution prose intended to be heard publicly and adopted collectively.
+* Let the cadence carry seriousness by syntactic accumulation rather than artificial archaism.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Program of the Minority
+
+[Adopted at the Meeting in Minneapolis in October, 1894.]
+
+Preamble: The Minority organized for work desires only to carry on a vigorous activity, so that the tasks which the United Church has set itself in the Articles of Union and the Constitution may come to practical realization, maintaining that the United Church is a fellowship of congregations organized in order to give congregational freedom the greatest possible development among us.
+
+Point 1. The principal purpose of this organization is to maintain Augsburg Seminary, which we still regard, according to the Articles of Union, as rightfully the seminary of the United Church; and by Augsburg Seminary we mean first and foremost the principle of pastoral education which is followed there, and which we believe works for the good of our church body and of our congregations.
+
+Point 2. With regard to Inner Mission, we regard it as the only right course that it be carried on impartially, and that pastors’ and congregations’ position in the affairs of the church body shall not influence the distribution of mission contributions from the mission treasury of the church body. We regard it as all the more our duty to defend in every lawful way the right of pastors and congregations to free and independent conviction.
+
+Point 3. We believe that mission to the heathen is one of the chief purposes of the Christian congregation, just as immediate as any other ecclesiastical task at home in Christendom, and that it is therefore a holy duty to use all means and gifts for the spread of God’s Kingdom among the heathen, and not to lend out mission funds in such a manner as has been done, instead of applying them according to their appointed purpose.
+
+Point 4. We hold fast the congregations’ right of call as free and unhindered by interference from the church body or its officers. The church body shall help the congregation to attain the greatest possible freedom in the calling of a pastor, not seek to introduce a system of promotion for pastors. To set up new conditions for ordination in the interests of a party we regard as an altogether improper intervention in the congregation’s freedom and right of call; and we also regret that congregations surrender their call either to the president of the church body or to some committee outside their own midst. The recommendation of unworthy persons to a congregational call is a violation of the holiest obligations that rest upon the church body and its officers.
+
+Point 5. We regard a vigorous and spiritual lay activity, and the employment of all spiritual gifts in the congregation, as an incalculable good for the awakening and nourishment of Christian life; and this activity must be fostered among us by living revival preaching and by a quickening of heartfelt love for sinners’ salvation and blessedness.
+
+Point 6. We believe that the controversy within the church body ought to be settled, and for this purpose we regard it as indispensably necessary that there be an amicable settlement through brotherly negotiations.
+
+Point 7. That the church body sets itself up as judge of sin and attempts to bind consciences by its laws and resolutions, we regard as a dangerous and troubling course, which will easily lead into Catholicizing deviations.
+
+Point 8. In general we maintain that the church body is not any ecclesiastical authority over the congregations, such that it can require obedience and submission from them, but only an organ or means by which the congregations carry out certain definite tasks which they are individually too weak to carry out in a sound manner, such as maintaining a seminary, conducting Inner Mission and outer mission, and so forth. We therefore regard it as wrong to press congregations into union or to split congregations for the sake of church-body causes and church politics.

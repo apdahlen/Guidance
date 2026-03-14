@@ -1,0 +1,330 @@
+STEP 1: HAZARD IDENTIFICATION
+
+* Lexical Hazards
+
+* "Indremissionen" cannot be reduced to a vague modern "inner mission" in the sense of mere inward spirituality; in context it denotes domestic mission work within the church’s field, specifically the establishment and upbuilding of congregations where ordinary ecclesial life is weak or unsupported.
+
+* "Ordets Forkyndelse" is not merely "preaching" in a general sense; it is the proclamation of the Word in a confessional and ecclesial sense.
+
+* "Sakramenternes Forvaltning" must preserve the formal church sense of right administration, not casual "use" or "handling."
+
+* "Grundlæggelse og Opbyggelse af Menigheder" carries institutional and theological force: both founding and edifying/building up congregations.
+
+* "opholde det kirkelige Arbeide" means to sustain or maintain church work, not simply to "keep up" in a casual sense.
+
+* "Samfundet" is contextually delicate. It does not mean society at large, but the church body / ecclesial association / synodical fellowship under discussion. It must be rendered consistently and carefully.
+
+* "Missionsarbeidet" means mission work in an organized ecclesial sense, not generalized activism.
+
+* "Udvidelse af Samfundet" is not merely numerical expansion, but extension of the church body as an organization.
+
+* "Missionsbidragene" and "Missionsgaverne" must be kept distinct as contributions / offerings given for mission purposes, with the sacred character of the latter especially retained.
+
+* "Samfundskassen" is literally the common treasury or denominational treasury; this must not be flattened into a generic financial term.
+
+* "Magtmiddel" means instrument of power, not merely a practical tool.
+
+* "Majoritet" / "Minoriteten" are not abstract political labels only; they indicate a church conflict whose procedural and moral force must remain visible.
+
+* "tjenende Mellemmand" is important: a serving intermediary, not a ruling board.
+
+* "Sjeles Frelse" must remain "the salvation of souls," preserving its evangelical seriousness.
+
+* "lutherske Menigheders Opbyggelse" must keep both confessional identity and ecclesial edification.
+
+* "Ordets flittige Forkyndelse" means diligent/frequent assiduous proclamation of the Word, not merely enthusiastic preaching.
+
+* "Sakramenternes ordentlige Brug" means proper/right use or administration, with confessional order implied.
+
+* "gjerne" here means readily / well / indeed could very well, not merely emotional willingness.
+
+* "lægges for Dagen" is an idiom meaning manifested or shown openly.
+
+* "Hauges Synode" and "Den norske Synode" are denominationally specific and should remain untranslated as proper historical bodies.
+
+* "Nød" here means genuine need or distress in an ecclesial-spiritual and material sense.
+
+* "Hjælp negtet" has moral force: help refused, not merely unavailable.
+
+* "Augsburg Hjælp" is contextually ambiguous if detached from the controversy; it appears to refer to aid for Augsburg, likely the Augsburg-associated church body or its cause, not to the Augsburg Confession as such. It should therefore be rendered cautiously and without overinterpretation.
+
+* "lide føl[e]-ligt Skaar i Ordets Forkyndelse" means suffer a serious / sensible / consequential diminishment in the proclamation of the Word. The broken print form indicates an older orthography or line-break issue; the sense is substantial impairment, not a minor inconvenience.
+
+* "saalangt vi kan" carries practical limit without loss of moral commitment: as far as we are able.
+
+* Syntactic Hazards
+
+* The first paragraph consists of long accumulative sentences whose repeated "Vi anser ikke ... men ..." structure is central to Sverdrup’s polemical and doctrinal logic. Breaking these into short modern sentences would flatten the argument.
+
+* The semicolon-like logical pacing and serial negation-affirmation pattern must remain visible.
+
+* The sentence beginning "Vi tror derfor" is the doctrinal conclusion of the preceding institutional definitions; its inferential force must be preserved with "therefore."
+
+* "Det kunde derfor gjerne være..." opens a hypothetical inference from the preceding principles; it must not be weakened into a casual aside.
+
+* "Jo mere ... desto bedre" is a formal correlative construction and should be retained as "the more ... the better."
+
+* The final paragraph pivots from principle to criterion and practice; its rhetorical compression should be preserved.
+
+* The question "Er der Nød, og er Hjælp negtet fra Majoriteten?" has forensic sharpness and must remain direct.
+
+* The sentence on suffering loss in the proclamation of the Word contains causal compression and should not be diluted by over-explanation.
+
+* Theological Hazards
+
+* The relation between Word and Sacraments is explicitly ecclesiological and confessional; both must remain central, concrete, and balanced.
+
+* "Grundlæggelse og Opbyggelse" has church-planting and church-edifying implications that should not be secularized into organizational language.
+
+* The contrast between expansion of a body and formation of Lutheran congregations is theological, not merely administrative.
+
+* The sacred status of mission gifts is explicit in "disse hellige Gaver" and must not be muted.
+
+* "Troskab mod Samfundet" must not be translated so as to imply party loyalty alone; the passage argues that fidelity to the church body in mission matters is identical with zeal for salvation, congregational edification, preaching, and sacramental order.
+
+* "Sjeles Frelse" retains evangelical and pastoral gravity.
+
+* "Ordets Forkyndelse" and "Sakramenternes ordentlige Brug" are marks of ordered Lutheran church life and must retain doctrinal precision.
+
+* "ægte luthersk Upartiskhed" is not indifferentism; it means genuinely Lutheran impartiality in serving true need without sectarian manipulation.
+
+* "Nød" and the loss in the Word’s proclamation are spiritual realities, not merely budgetary concerns.
+
+* Voice Hazards
+
+* Sverdrup’s tone is principled, severe, measured, and ecclesially earnest. It must not be made chatty, managerial, or merely historical.
+
+* The repeated "Vi anser ikke ..." carries a confessional firmness that must remain crisp and disciplined.
+
+* The prose is polemical without theatrics; the translation must preserve controlled force.
+
+* The appeal is not sentimental benevolence but duty governed by doctrine, order, and need.
+
+* The closing practical declaration, "derfor hjælper vi, saalangt vi kan," is morally plain and should remain unembellished.
+
+STEP 2: IDIOM ANALYSIS
+
+* "lægges for Dagen"
+
+* Meaning: to be brought to light, manifested, shown openly.
+
+* Function here: "Jo mere ægte luthersk Upartiskhed der kan lægges for Dagen i Indremissionen" means the more such impartiality can be openly shown or displayed in domestic missions.
+
+* A literal rendering like "laid forth for the day" would obscure the sense.
+
+* "Jo mere ... desto bedre"
+
+* Meaning: the more ... the better.
+
+* Function: a formal rhetorical judgment, not conversational emphasis.
+
+* English has a natural equivalent that preserves the balanced cadence.
+
+* "Er der Nød, og er Hjælp negtet fra Majoriteten?"
+
+* Meaning: Is there need, and has help been refused by the majority?
+
+* Function: the committee’s sole criterion, framed almost judicially.
+
+* The compactness should be preserved.
+
+* "tjenende Mellemmand"
+
+* Meaning: serving intermediary / servant-mediator.
+
+* Function: defines the committee as ministerial rather than governing.
+
+* "Middleman" is too commercial and too weak; "intermediary" is better.
+
+* "Sjeles Frelse"
+
+* Meaning: salvation of souls.
+
+* Scriptural-theological context: common Lutheran and revivalist expression emphasizing eternal salvation and pastoral urgency.
+
+* A more modern paraphrase like "people’s spiritual wellbeing" would seriously weaken the force.
+
+* "Ordets Forkyndelse"
+
+* Meaning: proclamation/preaching of the Word.
+
+* Scriptural context: echoes Protestant emphasis on the preached Word as means of grace.
+
+* "Proclamation of the Word" preserves theological elevation better than simply "preaching."
+
+* "Sakramenternes ordentlige Brug"
+
+* Meaning: proper/right use or orderly administration of the Sacraments.
+
+* Theological implication: sacramental practice is to be normed and rightly ordered, not merely available.
+
+* A literal "use" may work if paired carefully, but "proper administration" may better preserve doctrinal sense in English.
+
+* "ægte luthersk Upartiskhed"
+
+* Meaning: genuine Lutheran impartiality.
+
+* Theological implication: confessional seriousness without partisan favoritism.
+
+* Literal rendering is intelligible and should be preserved.
+
+* "lide føl[e]-ligt Skaar i Ordets Forkyndelse"
+
+* Meaning: suffer an appreciable / serious reduction or impairment in the proclamation of the Word.
+
+* The idiom "lide Skaar" means suffer loss, damage, or diminution.
+
+* A too-literal "suffer a cut" would sound odd in English and fail to communicate ecclesial gravity.
+
+* King James / older biblical-equivalent possibilities
+
+* "salvation of souls" has natural biblical-religious resonance in English and should be retained.
+
+* "build up" for "opbygge" has strong New Testament ecclesial resonance and is preferable where the sense allows.
+
+* "the Word" and "the Sacraments" should remain capitalized as theological terms where appropriate to reflect the original’s confessional weight.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis
+
+* Inner Mission is simply the proclamation of the Word and the administration of the Sacraments for the founding and upbuilding of congregations in places unable or unwilling to sustain church work themselves.
+
+* Supporting claims by negation and correction
+
+* Mission work is not essentially an expansion of the church body.
+
+* It is the new formation of Lutheran congregations.
+
+* Mission contributions are not ordinary general expenses of the church body.
+
+* Therefore they do not come out of the common treasury.
+
+* Mission gifts are not an instrument of power in the hand of a chance majority.
+
+* Therefore the majority may not dispose of these sacred gifts according to its whim.
+
+* The mission committee is neither part of the church body’s governing board nor an independent mission board.
+
+* It is a serving intermediary between giving congregations and receiving congregations.
+
+* Doctrinal-practical conclusion
+
+* Therefore fidelity to the church body in mission matters consists in the utmost zeal for the salvation of souls, the upbuilding of Lutheran congregations, the diligent proclamation of the Word, and the proper use of the Sacraments.
+
+* Application by implication
+
+* On that basis, helping even a congregation of Hauge’s Synod or the Norwegian Synod where real need exists could be an act of great fidelity.
+
+* The more genuine Lutheran impartiality is shown in Inner Mission, the better it is for the people, the church, and the association.
+
+* Concrete operational criterion
+
+* The minority’s mission committee asks only whether there is need and whether help has been denied by the majority.
+
+* It does not require promises of aid to Augsburg from those it supports.
+
+* Because those congregations would otherwise suffer serious loss in the proclamation of the Word, the committee helps them as far as it can.
+
+* Concluding force
+
+* The ending is not theoretical but justificatory: present practice is defended as the necessary consequence of the stated ecclesiology.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Ordets Forkyndelse"
+
+* Likely echo of the New Testament emphasis on preaching/proclamation of the Word as central to church life, e.g. 2 Timothy 4:2, Acts 6:4, Romans 10:14–17.
+
+* "Sakramenternes Forvaltning" / "ordentlige Brug"
+
+* Not a direct quotation, but strongly echoes Lutheran confessional and biblical concern for right administration of the means of grace; compare 1 Corinthians 4:1 on stewards, and 1 Corinthians 11 regarding proper sacramental order.
+
+* "Grundlæggelse og Opbyggelse af Menigheder"
+
+* "Opbyggelse" echoes New Testament language of edification/building up, e.g. 1 Corinthians 14:12, Ephesians 4:12.
+
+* "Sjeles Frelse"
+
+* Echoes biblical language of the soul and salvation; compare James 1:21, 1 Peter 1:9, Hebrews 10:39.
+
+* "hellige Gaver"
+
+* Not necessarily a direct scriptural citation, but it resonates with the treatment of consecrated gifts and holy things in Scripture and church practice.
+
+* "Troskab"
+
+* The moral and ecclesial weight of faithfulness evokes biblical stewardship language, e.g. 1 Corinthians 4:2.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve the calm but forceful cadence of institutional correction: not rhetoric for ornament, but for doctrinal boundary-setting.
+* The repeated negations must remain firm and cumulative.
+* "hellige Gaver" must retain sacred seriousness.
+* The hypothetical willingness to help congregations of other synods must sound principled rather than broad-minded in a modern ecumenical sense.
+* The final declaration of action must remain morally steady: the committee helps because the proclamation of the Word would otherwise suffer loss.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "kan" in "kan nytte" = may/can employ; here the permissive sense in context is best rendered "may use" or "may dispose of," preserving the issue of authority.
+* "kunde derfor gjerne være" should retain real possibility with emphasis: "could therefore very well be" or "might therefore well be."
+* "vilde være" should not be weakened to "might seem like"; it states what would indeed constitute faithfulness.
+* "kan lægges for Dagen" = can be shown / manifested.
+* "vil love" = will promise / are willing to promise.
+* "maatte lide" in context expresses necessity under the counterfactual condition: "would have to suffer" or idiomatically "would suffer." Because English often absorbs this necessity into the conditional, "would suffer serious loss" is acceptable if the gravity remains.
+* "ei" must remain strong in "or not," not softened into an indeterminate paraphrase.
+* "saalangt vi kan" = as far as we can / as far as we are able; this should retain practical limit without reducing determination.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Indremissionen = Inner Mission / Home Mission. Because the title uses the historical institutional term, "Inner Mission" is retained as the closest formal equivalent.
+* Ordet = the Word.
+* Ordets Forkyndelse = the proclamation of the Word.
+* Sakramenterne = the Sacraments.
+* Sakramenternes Forvaltning = the administration of the Sacraments.
+* Menighed / Menigheder = congregation / congregations.
+* Opbyggelse = upbuilding / building up. In formal prose, "upbuilding" preserves the period flavor and theological specificity.
+* Samfundet = the church body.
+* Missionsarbeidet = mission work.
+* Missionsbidragene = mission contributions.
+* Missionsgaverne = mission gifts.
+* Troskab = fidelity / faithfulness. In this passage, "fidelity" better suits institutional and doctrinal steadfastness.
+* Sjeles Frelse = the salvation of souls.
+* Upartiskhed = impartiality.
+* Nød = need.
+* Hjælp = help.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Opbyggelse" retains building imagery and should not be reduced to vague "support" or "development."
+* "lide Skaar" is metaphorical loss or damage; it should be rendered as suffering serious loss or impairment, not flattened into mere inconvenience.
+* "hellige Gaver" should preserve the consecrated aura of gifts offered for sacred use.
+* The intermediary image in "tjenende Mellemmand" should remain active and relational, not bureaucratic.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The first paragraph is definitional and corrective.
+* The second paragraph briefly broadens into a principled application marked by impartiality and concern for church and people.
+* The third paragraph sharpens into concrete policy and practical action.
+* These tonal shifts—from doctrinal definition, to principled breadth, to operational resolve—must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The translation should preserve long periodic movement where the logic accumulates by repetition.
+* Commas and semicolonic pacing should help the reader hear the argumentative rhythm.
+* Repeated clause openings such as "We do not regard..." should be retained for sermonic and polemical cadence.
+* The question posed by the minority committee should stand alone with full directness.
+* The closing sentence should land plainly and firmly, without rhetorical overstatement.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+[On Inner Mission.]
+["Folkebladet," November 22, 1893.]
+
+"Our point of departure is this: that Inner Mission is simply the proclamation of the Word and the administration of the Sacraments for the founding and upbuilding of congregations in such places where the people are either too poor or too indifferent themselves to sustain the work of the church. We do not regard mission work essentially as an extension of the church body, but as a new formation of Lutheran congregations. We do not regard the mission contributions as ordinary general expenses of the church body, for which reason they do not pass out of the church treasury either. We do not regard the mission gifts as an instrument of power in the hand of an accidental majority, so that it may employ these holy gifts according to a whim of the majority. We do not regard the mission committee either as a part of the governing board of the church body or as an independent mission board, but as a serving intermediary between the congregations that give and the congregations that receive help. We therefore believe that fidelity to the church body in mission matters is the greatest possible zeal for the salvation of souls, for the upbuilding of Lutheran congregations, for the diligent proclamation of the Word, and for the proper use of the Sacraments.
+
+It could therefore very well be that there would be great fidelity in mission work even if we should help a congregation of Hauge’s Synod or of the Norwegian Synod in a place where it was truly needed. The more genuine Lutheran impartiality can be shown in Inner Mission, the better for our people, for our Church, and for the Association. . . .
+
+The minority’s mission committee asks no other question of the one it supports than this: Is there need, and has help been denied by the majority? Whether the congregations supported by us will promise help to Augsburg or not, we have not asked them about that. We know that they would suffer serious loss in the proclamation of the Word if we did not help them; therefore we help, as far as we can.
+
+Georg Sverdrup."
