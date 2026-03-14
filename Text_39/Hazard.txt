@@ -1,0 +1,299 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* "Den lutherske frikirke" = "The Lutheran Free Church," but "frikirke" here is not merely a denominational label; it carries an ecclesiological and polemical sense: a church free from coercive domination, whether by state or ecclesiastical machinery.
+* "Den forenede Kirke" = "The United Church." This should remain literal, likely as a specific body, but without flattening its polemical force.
+* "magter" = "is able / has the power." Not merely "manages," but conveys capacity or lack thereof.
+* "godtgjort" = "has demonstrated / proved." Stronger than "shown" in some contexts.
+* "Kirkefolket" = "the church people" literally, but best rendered as "the people of the Church" or "church folk" depending on tone. Here "the people of the Church" better suits solemn prose.
+* "falden" = "fallen," i.e. failed, collapsed, come to nothing. The theological overtone of falling should not be lost if possible.
+* "erkjender" = archaic spelling of "erkjenner"; "recognize / acknowledge." Often with moral and intellectual weight.
+* "opnaaes" = "be attained / achieved." Retain passive force.
+* "Aand" = "Spirit" where clearly theological, but sometimes "spirit" in a more general sense. Here context strongly indicates spiritual life under God; capitalization decisions must follow theological reference.
+* "Kjærlighed" = "love," but not sentimental affection; spiritual, ecclesial charity.
+* "Baaretegn" = literally small wave-signs/ripples; figurative signs of movement or stirrings. Important to preserve metaphorical freshness.
+* "Samfund" = not merely "society" but organized church body, synodical association, ecclesiastical corporation, or denominational structure. Often best left in quotation marks as "association" or rendered by context as "church body." It is polemically charged throughout.
+* "Ledende Principer" = "guiding principles." Not simply rules.
+* "Regler for Arbeide" = "rules for work" or "rules for the work." Better: "rules for the work" or "working rules."
+* "Myndighed" = authority, competence, jurisdiction. In ecclesial context this is crucial and should not be weakened.
+* "aandelige" = spiritual, Spirit-filled. Not merely "religious."
+* "Aandløshed" = spiritlessness, lifelessness. Important wordplay against "Aand".
+* "gudelige Ting" = godly things, spiritual things. "Pious matters" would be too narrow.
+* "ufri" = unfree, not free, in bondage.
+* "Herredømme" = dominion, lordship, rule. Strong term.
+* "Trældom" = bondage, servitude, slavery. Strong Reformation polemical register.
+* "babyloniske Fangenskab" = "Babylonian Captivity," unmistakable allusion to Luther’s treatise; should preserve title force.
+* "verdsliggjorte procesgale Samfund" = literally "worldly, lawsuit-mad associations." Very polemical; must preserve bite without slang.
+* "Vrangbillede" = false image, caricature, distorted likeness.
+* "Levendegjørelse" = enlivening, quickening, making alive. Theologically resonant; "revival" is tempting but too interpretive and narrower.
+* "Vækkelsesarbeide" = awakening work, revival work. Here likely "work of awakening" preserves literal and theological nuance.
+* "Lægfolk" = laypeople / laity.
+* "frelse Sjæle" = save souls; must preserve evangelical force.
+* "Anskuelse" = view, conception, outlook.
+* "slaar ikke til" = does not suffice, is not adequate.
+* "Brydning" = conflict, struggle, crisis, great contest. Strong historical-spiritual term.
+* "Værnepligt" = military duty / conscription / obligation of defense. Here figurative: the universal duty of all believers to serve.
+* "nidkjære" = zealous. Must preserve intensity.
+* "Verdslighedens Aag" = the yoke of worldliness. Strong biblical metaphor.
+* "udenforstaaende" Menigheder = "outside" congregations, non-affiliated congregations. Preserve quotation marks because it is a party label.
+* "Aandens Enhed" / "Fredens Baand" = direct biblical language; likely from Ephesians 4:3.
+* "for stramme" = too tight / too constricting.
+* "Fredsarbeide" = work of peace / peace-work. Important polemical redefinition of true union-work.
+* "ubeskaaret" = uncurtailed, unimpaired, untouched. Literally "uncut"; should preserve legal-organic sense.
+* "Aandskamp" = spiritual struggle / struggle of the Spirit. Strong, not merely "effort."
+* "Formaal" = aim, purpose.
+* "overveies" / "kritiseres" = considered / criticized.
+* "Livets og Aandens Frihed" = the liberty/freedom of life and of the Spirit. Dense theological phrase; do not flatten.
+* "det nye Testamente" = the New Testament. Often normative source.
+* "kirkeligt Parti" = church party / ecclesiastical party faction.
+* "Stikkelse" = shape, form, figure. Here likely spiritual shape/form.
+* "Tyngdepunkt" = center of gravity. Important metaphor.
+* "faar Lov at være og virke i Frihed" = is allowed to be and to work in freedom. Retain permission + freedom structure.
+* "for Guds Riges Sag" = for the cause of God’s Kingdom.
+* "aandsdrevne" = driven by the Spirit. Strong and specific.
+* "Veiledning" = guidance.
+* "Søskendekjæde" = chain of siblings / bond of brothers and sisters. Metaphor should be retained where possible.
+* "Omsorg" = care, concern.
+* "Uretsfærdighed" appears in the printed text as "Uretsfær-dighed" through line break; likely "uretfærdighed" = injustice / unrighteousness. Context suggests injustice.
+* "Frivillighed" = voluntariness, willing freedom. Crucial concept.
+* "Den apostoliske Tid" = the apostolic age / apostolic time.
+* "udbrede Blade og Bøger" = circulate / disseminate papers and books.
+* "Indflydelse paa dens Gang" = influence on its course / progress.
+* "trættende Aag" = wearying yoke. Biblical resonance.
+
+Syntactic Hazards
+
+* Long periodic sentences accumulate argument by clause upon clause; they should not be broken into short modern English units unless unavoidable.
+* Semicolons often mark doctrinal pivots, contrasts, or rhetorical pressure. These should be preserved where possible.
+* Repeated infinitive structures ("at ... at ...") build logical sequence and emphasis; this architecture must remain visible.
+* Parenthetical rhetorical questions are central to the polemical voice and should retain their interrogative force.
+* Parallelisms such as "Fred og Frihed," "Aand og Liv og Kjærlighed," and "baade Prester og Lægfolk, baade Mænd og Kvinder" must remain parallel.
+* The prose uses accumulative argument followed by sharp corrective statements ("Nei, Sandheden er denne..."). That dialectical pacing must be preserved.
+* Biblical aphorism inserted into argument ("Kun hvor Herrens Aand er, der er Frihed") should stand with scriptural compactness.
+* The author moves from thesis to objection to rebuttal in large syntactic arcs; rearrangement would weaken the reasoning.
+
+Theological Hazards
+
+* Freedom is not merely institutional liberty but spiritual freedom under the Lord’s Spirit.
+* The opposition between "Aand" and "Aandløshed" is theologically charged: true ecclesial life depends on God’s Spirit.
+* "Levendegjørelse" evokes spiritual vivification, not mere organizational renewal.
+* "Vækkelsesarbeide" is bound to revival/awakening theology and should not be secularized.
+* "Alle troendes almindelige Værnepligt" applies the priesthood and duty of all believers in militant, active terms.
+* "redde Liv og frelse Sjæle" must remain direct and evangelical.
+* The contrast between external constitutional compulsion and internal spiritual unity is ecclesiological and doctrinal, not simply pragmatic.
+* "Menigheden" is not generic "community"; it is the congregation as the living local body of believers.
+* The argument presumes New Testament normativity for church order; this must remain explicit.
+* "Guds Rige" = Kingdom of God, not generalized spirituality.
+
+Voice Hazards
+
+* The tone is solemn, corrective, exhortational, and polemical without being theatrical.
+* The author addresses ecclesial failure with moral seriousness; modernization could soften the rebuke.
+* Sharp phrases about "worldly, lawsuit-mad associations" and enslaving church structures must retain their sting.
+* The rhythm of indignant questioning ("Jasaa?" "Eller...?" "Sæt at vi prøvede...?") is essential to voice.
+* Consolation and hope appear, but they are framed by doctrinal seriousness and pastoral urgency.
+* The prose frequently implicates the reader and the wider church body; it must not become detached analysis.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Kirkens babyloniske Fangenskab" clearly echoes Luther’s "The Babylonian Captivity of the Church." This should be translated with that recognized title form. It places the present ecclesial problem in continuity with Reformation critique.
+* "Kun hvor Herrens Aand er, der er Frihed" echoes 2 Corinthians 3:17. A natural English equivalent is "Where the Spirit of the Lord is, there is freedom," but because the surrounding prose is not to be given a KJV veneer, the line should remain scripturally recognizable without archaic pronouns.
+* "Aandens Enhed" and "Fredens Baand" echo Ephesians 4:3: "the unity of the Spirit in the bond of peace." This biblical formulation should be preserved as closely as possible.
+* "Verdslighedens Aag" uses biblical yoke imagery. Literal translation is best: "the yoke of worldliness."
+* "træder frem i Arbeidet" means step forward into the work; it implies active public engagement, not merely participation.
+* "nidkjære" has strong pietistic and biblical resonance: zealous, fervent in spiritual labor.
+* "sovende" in context means the spiritually sleeping, likely with revivalist overtones; literal "the sleeping" or "those who sleep" is preferable to a paraphrase like "the indifferent."
+* "Frigjørelse" in relation to congregations is liberation from worldly and coercive structures, not political emancipation in a modern secular sense.
+* "bind dem ikke sammen i Knipper" literally "bind them together in bundles." This is vivid and should be retained. It suggests artificial bundling by constitutional mechanisms instead of organic fellowship.
+* "Aandskamp" means more than debate; it is a spiritual struggle undertaken for the good of the whole.
+* "saamegen Vægt som muligt paa Menigheden" = lay as much weight as possible on the congregation. This is a metaphor of ecclesial gravity, reinforced by "Tyngdepunkt."
+* "faar Lov at være og virke i Frihed" is not casual permission; it means allowed scope to exist and act without external domination.
+* "de forstaar at bevare den i Fredens Baand" means they know how to preserve that unity in peace; not just cognitive understanding.
+* "Brø-dres og Søstres fælles Virke i gjensidig Kjærlighed" is a familial and spiritual idiom of free cooperative labor.
+* King James-like equivalents are useful only where Scripture is directly echoed, such as "bond of peace" and "save souls," but the overall prose should not drift into inherited Jacobean diction.
+* Literal translation would obscure force in places such as "Baaretegn" if rendered mechanically. Better to preserve image by "small ripple-signs" or idiomatic equivalent like "small signs of a stirring." Because the author’s image matters, "small signs of a stirring" or "small ripple-signs" should be considered carefully.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: "The United Church" has failed, over twenty years, to bring either peace or freedom, though those were its organizing aims.
+* Immediate consequence: church people are left disappointed and empty-hearted.
+* First pivot: the cause is not fallen or abandoned; failure has produced real progress because many now recognize that peace and freedom cannot be attained by church politics and lawsuits.
+* Positive doctrinal thesis: peace and freedom require Spirit, life, and love.
+* Application: this awareness has called forth work for the Free Church.
+* Clarification of aim: in the Free Church, the congregation is to rise and the "association" to sink; cooperation should come by Spirit and freedom, not by law and coercion.
+* Core ecclesiological principle: two things are necessary—full recognition of each congregation’s freedom and authority, and genuine permeation of each congregation by God’s Spirit.
+* Polemical correction: separation of church and state does not by itself create a Free Church.
+* Historical argument: the Roman Church was also free from state domination in one sense, yet tyrannical; Luther opposed this as Babylonian captivity.
+* Further correction: present synods/church bodies can exercise more domination than the state would dare.
+* Deeper claim: even without such bodies, a congregation dominated by worldliness and death is still only a caricature of freedom.
+* Defining proposition: work for the Free Church is the same as work for the enlivening of the congregation.
+* Practical consequence: all believers are called into awakening work—clergy and laity, men and women.
+* Anti-clerical correction: the rationalist notion that only clergy are the Church’s labor-force is inadequate for the present conflict between faith and unbelief.
+* Positive principle: the general duty of all believers to serve.
+* Pastoral aim: awaken believers to their calling, so that they may awaken the sleeping within and outside the congregation.
+* Objection anticipated: if congregations become so independent, can they still work together?
+* Rebuttal: yes, because true believers possess the unity of the Spirit and can cooperate freely for the cause they love.
+* Contrast with "outside" congregations: their non-affiliation often arose from avoidance of work or reaction to overly tight bonds.
+* Strong claim: this Free Church work is the only practical and real union-work, indeed peace-work.
+* Means of peace: give room to all congregations, preserve their freedom and independence, do not bind them in bundles by constitutional ties.
+* Realism about beginnings: such work must begin small; spiritual struggles for the good of the whole are never begun by many.
+* Confidence: success depends not on many or few, but on the Lord’s Spirit.
+* Inclusive invitation: both those inside and outside church bodies are welcome if they share the aim of enlivening and liberating the congregations.
+* Caution: the proposal for rules must be examined and criticized carefully because such a Lutheran Free Church is something new in America.
+* Reason for caution: ordinarily one cannot join a Lutheran congregation without simultaneously joining an ecclesiastical party.
+* Therefore: proceed carefully by placing maximal weight on the congregation, because there lies the Free Church’s center of gravity.
+* Definition of Free Church: nothing other than the congregation’s liberty to be and work freely for the cause of God’s Kingdom according to its own determination, not that of others.
+* Consequence of genuine freedom: congregations truly alive and Spirit-driven will naturally understand, support, and encourage one another.
+* Normative source: the New Testament offers sufficient guidance for the connection of free congregations with one another.
+* Theological anthropology of fellowship: those sharing the same divine life love, understand, and care for one another.
+* Conclusion from this: freedom yields peace and order, whereas coercion and injustice yield strife and confusion.
+* Final practical model: cooperation among congregations should rest on common interest and full voluntariness, modeled on apostolic practice—visits, meetings, letters, papers, books.
+* Final promise: such brotherly and sisterly cooperation in mutual love will replace the wearying yoke of forced denominational obligation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Kun hvor Herrens Aand er, der er Frihed" = 2 Corinthians 3:17.
+* "Aandens Enhed" / "Fredens Baand" = Ephesians 4:3.
+* "Verdslighedens Aag" / "trættende Aag" = yoke imagery found broadly in Scripture, especially Matthew 11:29–30 and Acts 15:10 in ecclesial-polemical contexts.
+* "redde Liv og frelse Sjæle" resonates with James 5:20 and broader evangelical language concerning salvation of souls.
+* "sovende" in revival context may echo Romans 13:11, Ephesians 5:14, and common awakening preaching.
+* "Guds Riges Sag" = Kingdom of God language pervasive in the Gospels.
+* "Den apostoliske Tid" points to Acts and the epistles as normative pattern.
+* Familial language concerning brothers and sisters, mutual care, and shared life echoes Acts 2, Acts 4, Romans 12, 1 Corinthians 12, and 1 John.
+* "den ene den anden" mutuality language echoes many New Testament "one another" passages.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Rebukes must remain firm: the existing arrangement has failed; the church people are left disappointed and empty-hearted.
+* Polemical contrasts must remain sharp: Spirit versus politics and lawsuits; freedom versus coercion; living congregations versus worldliness and death; brotherly cooperation versus constitutional bondage.
+* The rhetorical questions should remain pointed and slightly confrontational.
+* The hopeful portions should not become sentimental. Hope arises from confidence in the Spirit and in New Testament order.
+* The prose should preserve its grave inevitability: without Spirit there is no freedom; without living congregations there is no true Free Church.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa" = must; do not weaken to "should" where necessity is intended.
+* "skal" = shall / is to / must depending on context. Preserve intended force.
+* "kan ikke" = cannot, not "may not" unless permission is meant.
+* "vil" often functions as predictive certainty or volitional force; context must govern whether "will" or "would" is correct.
+* "bør" does not occur prominently here, but equivalent caution applies throughout.
+* "ei" = not, often emphatic; preserve firmness.
+* "maa blive Medlem" = must become a member; compulsion is key.
+* "maa begynde ganske smaat" = must of necessity begin very small.
+* "vil ikke ske" = this will not happen; keep confidence strong.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Menighed" = congregation throughout.
+* "Frikirke" = Free Church throughout.
+* "Aand" when referring to God’s Spirit = Spirit.
+* "aandelig / aandelige" = spiritual / Spirit-filled depending on context.
+* "Levendegjørelse" = enlivening or quickening. Use one main rendering consistently; "enlivening" is slightly more idiomatic, "quickening" more biblical. Here "enlivening" may be clearest while retaining gravity.
+* "Frigjørelse" = liberation / freeing. Prefer "liberation" or "freeing" depending on syntax.
+* "Frihed" = freedom.
+* "Kjærlighed" = love.
+* "Samfund" in quotation marks = "association" or "church body." Because the term is repeated and polemically marked, "association" in quotation marks may best preserve his own distancing usage, though in some contexts "synod" or "church body" clarifies. A hybrid strategy may be needed.
+* "Arbeide" = work.
+* "Sagen" = the cause.
+* "Guds Rige" = God’s Kingdom.
+* "troende" = believers.
+* "verdslighed" = worldliness.
+* "Liv" in contrast with death = life, often spiritual life.
+* "frelse Sjæle" = save souls.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Baaretegn" should retain image of early small motions or ripples.
+* "Babylonian Captivity" must remain intact as title and metaphor.
+* "Vrangbillede" should remain image-based: caricature, distorted image, false image.
+* "Verdslighedens Aag" and "trættende Aag" must remain yoke imagery.
+* "bind dem sammen i Knipper" should remain the image of binding in bundles.
+* "Tyngdepunkt" should remain "center of gravity," not generalized into mere "focus."
+* "Søskendekjæde" should retain familial-bond imagery.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severe critique of the United Church and denominational coercion.
+* Hopeful affirmation that the cause is neither fallen nor abandoned.
+* Urgent call to all believers into service.
+* Calm confidence that true spiritual freedom yields peace and order.
+* Caution and sobriety in discussing a new undertaking.
+* Warm final picture of brotherly and sisterly shared labor in mutual love.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve major sentence lengths where argument accumulates.
+* Maintain semicolon pivots and rhetorical pacing.
+* Let repeated noun triads and binary contrasts stand as spoken emphases.
+* Keep interrogative passages orally forceful.
+* Avoid clipped modern prose; this text was crafted for public theological persuasion.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Lutheran Free Church.
+["Folkebladet" for April 28 and May 12, 1897.]
+
+"The United Church" has, through its twenty-year history, demonstrated that it has power neither to bring peace nor freedom into the Church. And yet it was in order to attain these two things that it was organized.
+
+The people of the Church are left sitting with great disappointment and with empty hearts.
+
+But the cause is neither fallen nor abandoned. In reality it is a step forward that there are already many—and more are becoming so—who acknowledge that peace and freedom in the Church cannot be attained by church politics and lawsuits.
+
+Spirit and life and love must be added, if peace and freedom are to come among us.
+
+It is this consciousness that has called forth the work for the Free Church, which is beginning to show small signs of stirring here and there among the congregations, and which also makes itself known through the proposed rules that are published today in Folkebladet."*
+
+The thought is that in the Free Church the congregation should come up and the "association" come down. The intention is to attain the strength of cooperation by Spirit, not by law; by freedom, not by compulsion.
+
+By rules are here meant "Guiding Principles" and "Rules for the Work." They are found on page 49 ff.
+
+Two things, then, are necessary in the Free Church: 1) that the freedom and authority of the individual congregation be fully acknowledged and without any curtailment, and 2) that the individual congregation truly be filled and permeated by God’s Spirit.
+
+Everything in the Free Church depends upon these two things: that the congregations become independent and spiritual. And in truth they cannot become the one without the other.
+
+It is therefore only a pitiful and sorrowful spiritlessness and ignorance of godly things when one says that there is no need among us of any work for the Free Church; we already have it, because state and church are separated from one another.
+
+Indeed? Is the state the only power that can make the Church unfree and that has made it so? If that were the case, then the Catholic Church would be an excellent Free Church. Surely it cannot be the intention to lead us back again into its nature? Or was it not precisely the Catholic bondage that Luther designated by the name: "The Babylonian Captivity of the Church"? No, the truth is this: the Lutherans preferred the dominion of the state in the Church to the hard tyranny of the Catholic Church and desired the protection of the state against this.
+
+By the mere fact that we are out of the power of the state, we are no Free Church. The so-called "associations," or synods, exercise more dominion than the state would dare in this age.* But even if we did not have these worldly, lawsuit-mad associations over us, we would still be only a caricature of a free congregation, so long as sheer worldliness and death are not only found, but even rule in the congregations, as they do in many places.
+
+Only where the Spirit of the Lord is, is there freedom. Therefore the work for the Free Church is the same thing as the work for the enlivening of the congregation.
+
+In this work of awakening the Lord calls upon all believers to be laborers. All believers, both pastors and laypeople, both men and women, are called out into the Lord’s service to rescue life and save souls.
+
+The old-fashioned view from the very worst days of Rationalism, that it is only the pastors who make up the Church’s labor-force and the Lord’s servants, is not sufficient in the great conflict between faith and unbelief into which we have been cast in our time. The principle that is to be applied is the universal duty of all believers to serve.
+
+Therefore the thought is first and foremost to awaken believers to see their calling and to walk and work accordingly, so that they may become zealous to awaken the sleeping within and outside the congregation.
+
+Only when the congregations are freed from the yoke of worldliness are they truly free.
+
+But if the congregations now become so independent, can they then do any work in common? Will it not become with the congregations in the Free Church as with the so-called "outside" congregations, which the church bodies regarded with so much suspicion and in part with contempt?
+
+That will not happen, if the believers in the congregations step forward in the work. They do indeed have the unity of the Spirit, and they know how to preserve it in the bond of peace. The voluntary laborers will have no difficulty in agreeing to work for the cause they love. And when each works for the cause according to his ability and gift, then it will become altogether different from the "outside" congregations, which often "stood outside" because they wished to escape the work, or because the bonds of the associations were too tight for them.
+
+This Free Church work is therefore the only practical and real work of union—or rather work of peace.* Give room to all congregations, let each of them have its freedom and independence unimpaired, do not bind them together in bundles with the bonds of denominational constitutions, and then peace is very near to coming.
+
+If the work has so great a goal, it must of course be content to begin quite small. It is never many who begin a spiritual struggle for the good of the whole. But we have the faith that it depends neither on the many nor on the few, but on the Lord’s Spirit, whether such work shall succeed.
+
+But whether anyone is in an "association" or outside an "association," they are equally welcome to take part in the Free Church work, if they are agreed in this purpose: the enlivening and liberation of the congregations.
+
+The proposal (for rules for a Lutheran Free Church) cannot be considered too carefully, nor criticized too sharply. For a Lutheran Free Church, in which the congregations truly enjoy that freedom of life and of the Spirit which belongs to them according to the New Testament, is something new, at least here in America.* It has been so, and it is still so rather generally to this day, that there is almost nowhere any possibility of joining a Lutheran congregation without at the same time also having to become a member of an ecclesiastical party.
+
+But when a cause is so new,* then it is altogether certain that it is of great importance to proceed cautiously. And the right caution consists in laying as much weight as possible upon the congregation, that it may receive its right spiritual shape among us according to God’s Word; for there lies the Free Church’s strength and center of gravity, and if the congregation is allowed to come forth, then there will be "Free Church" of itself.
+
+For "Free Church" means, so far as I understand anything of it, nothing other than this: that the congregation is allowed to be and to work in freedom* for the cause of God’s Kingdom, not as other people and congregations determine* for them, but as they determine themselves.
+
+But if the congregations are truly free, that is to say, living and driven by the Spirit, then it will be a self-evident thing that those who are driven by one and the same Spirit will also find and understand one another, and mutually support and encourage one another. And here again the New Testament will be able to give us clear and sufficient guidance with respect to the connection of the free congregations with one another.** Those who live the same divine life and are a chain of siblings among God’s children—be assured of it—they love one another, they understand one another, they have care for one another, they rejoice to see one another, and what interests the one cannot be a matter of indifference to the other. Therefore freedom will not produce strife and disorder, but precisely peace and order. Compulsion and injustice bring about strife and confusion, as we may see daily. Suppose we tried what freedom and love would accomplish! Or does anyone doubt that there will be better understanding where two brothers labor freely at one another’s side than where the one would threaten the other into being a slave?"
+
+The right form of cooperation among congregations is common interest and full voluntariness. To this belongs that there be the same lively and spiritual cooperation among the congregations as the New Testament shows us in the Apostolic Age. We must visit one another, we must come together for great and small meetings; we must write letters, we must circulate papers and books.
+
+In this way the Free Church will attain that mutual brotherly understanding which will make it possible for the work of the Church to take place in voluntariness, and that those who are most interested in the advancement of the cause may also have the most influence upon its course. A good cause will find the support that it can obtain by virtue of the interest it awakens. And more than that it surely has no right to demand.
+
+If we could get free and spiritual congregations, then their cooperation would not be lacking, only that it would be the common labor of brothers and sisters in mutual love, not the wearying yoke of enforced denominational duty.
+
+(Georg Sverdrup.)
+
+FOOTNOTE
+
+* See Professor Olsdal’s lecture, page 57 ff.

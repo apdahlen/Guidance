@@ -8,3 +8,9 @@
 \contentsline {section}{\numberline {8}The Congregations’ Right to Call and the Refusals of Ordination}{14}{section.8}%
 \contentsline {section}{\numberline {9}Lutherdom and Church Polity}{16}{section.9}%
 \contentsline {section}{\numberline {10}The Free Church and the Congregation}{18}{section.10}%
+\contentsline {section}{\numberline {11}Visible Congregation}{21}{section.11}%
+\contentsline {section}{\numberline {12}The Lutheran Free Church}{23}{section.12}%
+\contentsline {section}{\numberline {13}From the Report to the Annual Meeting of the Lutheran Free Church, 1897}{26}{section.13}%
+\contentsline {section}{\numberline {14}Leading Principles and Revised Rules for the Lutheran Free Church}{29}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Leading Principles}{29}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}The Revised Rules for Work}{31}{subsection.14.2}%
