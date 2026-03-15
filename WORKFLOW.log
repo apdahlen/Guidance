@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  14 MAR 2026 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  15 MAR 2026 07:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -766,7 +766,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[31])
+[31]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -774,7 +774,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[32]
+[32])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -791,11 +791,11 @@ Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
 (rerunfilecheck)             Checksum: A0C08C874CC64C8C637366CF3726E71F;3999.
  ) 
 Here is how much of TeX's memory you used:
- 11990 strings out of 474486
- 194074 string characters out of 5743754
+ 11996 strings out of 474486
+ 194140 string characters out of 5743754
  1937542 words of memory out of 5000000
  33817 multiletter control sequences out of 15000+600000
- 625105 words of font info for 159 fonts, out of 8000000 for 9000
+ 625354 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,67p,1442b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -805,7 +805,7 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (36 pages, 309780 bytes).
+Output written on WORKFLOW.pdf (36 pages, 312375 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
