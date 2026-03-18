@@ -1,0 +1,519 @@
+STEP 1: HAZARD IDENTIFICATION
+
+* Lexical Hazards
+
+* Majoritetsherredømmet: not merely “majority rule” in a neutral civic sense, but “the dominion / sovereignty / rule of the majority,” with a polemical force. “Majority rule” is possible, but the English must retain the sense of governing supremacy.
+
+* absolute Majoritetsherredømme: “absolute majority rule” must preserve the charge of unchecked dominance, not merely ordinary voting procedure.
+
+* Kirken / Menighederne / Samfundet: these terms are ecclesiological, not merely sociological. “Church,” “congregations,” and “synod / church body / fellowship / association / society” must be handled carefully and consistently according to context. “Samfundet” in this polemical context often means the larger church association or denominational body, not “society” in the modern civic sense.
+
+* Den forenede Kirke: should be rendered consistently as “the United Church,” preserving the proper-name force.
+
+* Styresæt: “form of government,” “polity,” or “system of government.” “Polity” is ecclesiastically apt, but “form of government” may preserve the plainer polemical register.
+
+* repræsentative System: “representative system,” but with awareness that the author treats it critically and links it to Roman Catholic development.
+
+* Udeladelse / udeladt: “omission / omitted,” but the repeated accusation has theological force. It is not merely something overlooked, but excluded from the whole conception.
+
+* Betragtning / Betragtning af Kirkeforfatningen: “consideration / view / conception of church polity / church constitution.” “Constitution” is possible, but “church polity” better carries ecclesiastical sense.
+
+* udvortes og verdslig: “outward and worldly” must retain the theological contrast with inward, spiritual, divine reality.
+
+* Aarsmøderne / Aarsmødet: “annual meetings / annual meeting.” Capitalization can be normal in English, but the institutional reference should remain clear.
+
+* Spidsfindighed og Sofisteri: “subtlety and sophistry” or “hair-splitting and sophistry.” The accusation is moral-intellectual, not casual.
+
+* uredelig: stronger than merely “incorrect”; “dishonest,” “disingenuous,” or “unscrupulous.” “Disingenuous” may fit polemical prose best.
+
+* urimelig: “unreasonable,” not merely “odd.”
+
+* stemmeberettigede: “eligible voters” or “those entitled to vote.”
+
+* Delegater: “delegates,” not “representatives” if that would blur the polemical distinction.
+
+* redeligere: “more honest / more straightforward.”
+
+* Samvittigheden: “the conscience,” a central theological term. Must not be psychologized into mere inward feeling.
+
+* herske over den enes Samvittighed: “rule over / lord it over / exercise dominion over the conscience of the one.” This is doctrinally weighty in Protestant polemic.
+
+* seet nu, at: archaic form of “suppose now that / but suppose that.” Needs idiomatic English without loss of argumentative turn.
+
+* Forstand, Følelse og Vilje: “understanding, feeling, and will” or “mind, feeling, and will.” This is anthropological language and should be kept triadic.
+
+* Formanden: “chairman / presiding officer.” “Chairman” is the period-appropriate plain rendering.
+
+* Pave / Pavedømmet: “pope / papacy,” retaining the anti-papal polemical thrust.
+
+* katholsk Opfindelse: “a Catholic invention,” probably lower-case “Catholic” in modern English, but the polemical force must remain.
+
+* bøie os / erkjende / taget aldeles feil: “bow / submit,” “acknowledge,” “been altogether mistaken.” Modal and rhetorical force must remain firm.
+
+* Menighedssagen: “the matter of the congregation / the church question concerning the congregation.” Here likely “in the matter of the congregations” or “in the congregational cause.” Must be rendered clearly.
+
+* Autoritet: “authority,” especially final norming authority.
+
+* lovrigtig og frisindig: difficult pair. “Lawful / according to law” and “liberal / broad-minded / free-minded.” In context likely “legally sound and free-churchly in spirit” is too interpretive. Better to preserve something like “lawful and liberal-minded” with note of historical nuance.
+
+* Kaldsretten / Kaldsret: “the right of call,” a technical ecclesiastical term that must remain stable.
+
+* Ordinationsretten: “the right of ordination.”
+
+* umyndiggjorte: “rendered legally incompetent / deprived of authority / put under tutelage.” The force is strong: stripped of responsible agency.
+
+* fatte Bestemmelse: “adopt a resolution / make a determination.”
+
+* Board: should likely remain “board,” since the original uses the English loanword.
+
+* Lægfolk / Lægdelegater: “laypeople / lay delegates.”
+
+* Overhus / Underhus: “upper house / lower house,” echoing parliamentary imagery.
+
+* frikirkelig(e): “free-church / free-churchly.” “Free-church” is likely best.
+
+* høikirkelig: “high-church.”
+
+* Guds Ord: “the Word of God,” consistently capitalized.
+
+* være over Menighederne: “be over the congregations,” meaning exercise higher authority over them.
+
+* Skaar i deres Frihed: idiomatically “a considerable breach / curtailment / infringement of their freedom.” “Breach” preserves image; “curtailment” clarifies force.
+
+* øve Indflydelse paa Tingenes Gang: “exercise influence on the course of events.”
+
+* Bemyndigelse: “authorization / commission / delegated authority.”
+
+* finde sig i: “submit to / put up with / acquiesce in.” “Submit to” best suits the pressure of the argument.
+
+* hvad Slags Mening: “whatever sort of opinion.”
+
+* være over med Folk: idiomatically “put up with people / tolerate it in people.”
+
+* strider mod Guds Ord / mod Guds Ord stridende: “contrary to the Word of God.”
+
+* Syntactic Hazards
+
+* The prose uses long accumulative sentences with multiple subordinate clauses, often building by repeated “fordi,” “naar,” “ifølge,” and “thi.” These must not be broken up so aggressively that the argumentative pressure disappears.
+
+* Semicolon-like logical pacing and dash-like pivots structure the polemic; the English should preserve these turns wherever possible.
+
+* Parenthetical qualifications such as “i den Forstand nemlig” and “altsaa” are essential to the logic and should not be smoothed away.
+
+* The article moves between direct refutation, hypothetical example, reductio ad absurdum, and doctrinal assertion. These transitions must remain visible.
+
+* Repetition is deliberate and sermonic. Terms like “Menighederne,” “Samfundet,” “den gamle Kirkeorden,” “den nye Kirkeorden,” and “ifølge” should remain repeated where the author repeats them.
+
+* The footnoted Kildahl extract consists of long explanatory sequences whose force lies partly in cumulative restatement. Compression would distort the rhetorical method.
+
+* Exclamatory and emphatic punctuation, including doubled punctuation (“!!”), indicate polemical intensity and should be handled in a dignified but force-preserving way.
+
+* The alternation between editorial voice and quoted material must remain distinct.
+
+* Theological Hazards
+
+* God and his Son and his Spirit: this triadic formulation is central to Sverdrup’s charge that Kildahl’s polity is secularized. The omission is theological, not administrative.
+
+* Guds Vilje versus Majoritetens Vilje: a fundamental contrast between divine will and numerical will; this must remain sharp.
+
+* Samvittigheden: conscience here is a sphere into which no majority may intrude. This has Protestant confessional weight.
+
+* Ret / Frihed / Myndighed: rights, freedom, and authority are treated not as autonomous political abstractions but as matters answerable to Scripture and God’s ordering.
+
+* Guds Ord as final authority: the closing argument makes Scripture the only binding norm in the church question. This must remain explicit and absolute.
+
+* The anti-Catholic polemic is theological-ecclesiological, not merely cultural. The “representative system” is criticized for leading to papacy because it centralizes ecclesial agency.
+
+* Kaldsretten and Ordinationsretten are not procedural details only; they concern the church’s divinely ordered exercise of call and ordination.
+
+* Rationalism is treated as spiritually false. “a false rationalistic principle” must not be softened into mere intellectual disagreement.
+
+* The contrast between free congregations and external ruling authorities has conscience-and-Word dimensions, not just governance implications.
+
+* Voice Hazards
+
+* The tone is sharp, solemn, polemical, and morally accusatory. It must not be rendered as bland institutional commentary.
+
+* The repeated “Som vi sagde før,” “Vi vover at paastaa,” “Nuvel,” and “bør aldeles vis” create spoken, confrontational cadence. This should remain direct and weighty.
+
+* The prose often exposes an opponent’s position by reductio ad absurdum; the irony must remain controlled and severe, not playful.
+
+* Nonsens is deliberately blunt. It should remain “nonsense,” not be softened into “untenable.”
+
+* The author’s appeal is to conscience under God, not to modern democratic sentiment. Any translation that sounds like generic political theory would flatten the voice.
+
+* Kildahl’s own quoted prose is earnest, repetitive, and combative. It should not be polished into elegant modern abstraction.
+
+STEP 2: IDIOM ANALYSIS
+
+* “naar Menighederne har valgt, saa er de repræsenteret, og naar de er repræsenteret, saa er Repræsentanternes Mening ogsaa Menighedernes Mening”
+
+* This is the core representative principle stated in condensed form. Its significance lies in the move from electoral procedure to identity of will. Literal translation is possible, but the English must preserve the implied syllogism.
+
+* “Gud og hans Søn og hans Aand er aldeles udeladt”
+
+* Not an idiom, but a theological indictment framed almost liturgically in triadic sequence. It evokes Christian confession and implies that any church polity omitting the triune God is secular at its core.
+
+* “Den hele Betragtningmaade og Opfatning er aldeles udvortes og verdslig”
+
+* “Outward and worldly” echoes biblical-pietistic contrasts between external form and inward spiritual reality. Literal translation is appropriate and preserves the theological accusation.
+
+* “Spidsfindighed og Sofisteri”
+
+* A classical polemical pairing. “Hair-splitting and sophistry” would bring out the rhetorical sting, but “subtlety and sophistry” is closer in register. It denotes argument used evasively rather than honestly.
+
+* “Samfundet beslutter” / “Aarsmødet beslutter” / never “Menighederne beslutter”
+
+* This contrast turns on institutional honesty. It is not merely stylistic but an argument that the assembly itself tacitly knows it is not identical with the congregations.
+
+* “herske over den enes Samvittighed”
+
+* Strong Protestant idiom. The conscience is not subject to numerical coercion. This resonates with Lutheran concern for conscience bound by God’s Word alone.
+
+* “seet nu, at …”
+
+* A rhetorical pivot meaning “suppose now that …” or “but suppose that …” It introduces hypothetical concession for reductio.
+
+* “Menighedens Forstand, Følelse og Vilje samlet i ham”
+
+* This language personifies representative embodiment. Literal translation is best because the author then presses it to absurd consequences.
+
+* “valgte kun en Repræsentant eller Pave”
+
+* Reductio ad absurdum: if representation truly concentrates congregational will, one representative would suffice, effectively yielding a pope. The anti-papal force must remain fully visible.
+
+* “det repræsentative System, som er en katholsk Opfindelse i Kirken, har virkelig ført til Pavedømmet”
+
+* Historically polemical rather than analytically neutral. “Has indeed led to the papacy” preserves the claim’s severity. Literal translation is needed.
+
+* “bøie os”
+
+* Biblical and sermonic idiom for submission. “Bow” or “bow ourselves” preserves the moral and religious posture better than “accept.”
+
+* “i Menighedssagen bøier vi os ikke for nogen anden Autoritet”
+
+* This is an all-or-nothing norming claim. “In the matter of the congregation / in the congregational question, we bow to no other authority” keeps the force.
+
+* “helt igjennem lovrigtig og frisindig”
+
+* Historically charged. “Lawful and liberal-minded” may sound modern-political; “entirely according to proper order and free-minded” may over-interpret. Best to preserve the plain pair and let context carry it.
+
+* “umyndiggjorte”
+
+* More than “excluded”; it implies being treated as minors or deprived of legal competence. In ecclesial debate, “rendered wholly incompetent” or “deprived of all independent standing” can preserve force.
+
+* “de har kun Ret til at skaffe Midler tilveie”
+
+* Bitter irony: the congregations are reduced to financing decisions made elsewhere.
+
+* “Overhus” / “Underhus”
+
+* Parliamentary imagery imported into church polity. “Upper house” and “lower house” preserve the analogy.
+
+* “frikirkelige Princip”
+
+* The “free church principle” is not just institutional preference but a normative ecclesiological principle.
+
+* “have hvad Slags Mening han vil, naar han bare er tro mod sin Overbevisning”
+
+* A caricature of liberal subjectivism: one may hold any opinion if sincere. The force must be preserved because Kildahl rejects it as rationalist.
+
+* “et falskt rationalistisk Princip”
+
+* Theological-intellectual accusation. “Rationalistic” should remain, since “rationalist” in this period often signals deviation from scriptural submission.
+
+* “finde sig i, hvad disse Myndigheder bestemmer, eller trække sig tilbage”
+
+* Stark alternative: submit or withdraw. Literal rendering is clear and forceful.
+
+* KJV-equivalent considerations
+
+* “the Word of God” is a natural and standard equivalent with strong biblical resonance.
+
+* “conscience” and “bow” also carry scriptural and confessional resonance without requiring archaic pronouns.
+
+* “outward and worldly” has natural biblical cadence in English.
+
+* The translation should not imitate KJV pronouns or diction generally, but these established biblical-theological phrases can stand.
+
+* Expressions where literal translation could obscure force
+
+* “Samfundet” as “society” would mislead; in most contexts here it should be “the church body” or “the synod / association,” depending on consistency chosen.
+
+* “umyndiggjorte” as merely “incapacitated” may sound clinical; it needs moral-institutional force.
+
+* “frisindig” as simply “liberal” may import modern political overtones; some caution is needed.
+
+* “Menighedssagen” literally “the congregation matter” is awkward; it must be rendered idiomatically while preserving the ecclesial dispute.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis of the editorial article
+
+* Sverdrup argues that absolute majority rule in the church, as defended by Kildahl through the “representative system,” is fundamentally defective because it omits God, ignores conscience, falsely identifies delegates’ decisions with congregational will, and tends toward an unscriptural concentration of ecclesiastical authority.
+
+* Opening frame
+
+* The article begins by summarizing Kildahl’s defense of absolute majority rule in the United Church through the representative system.
+
+* It states that Kildahl appears unable to imagine any better polity than that of the United Church and defends it because it is “representative.”
+
+* First supporting claim
+
+* Kildahl’s logic is stated: once congregations elect representatives, they are represented; once represented, the representatives’ opinion is also the congregations’ opinion.
+
+* First major rebuttal
+
+* Sverdrup immediately identifies a great omission: God, his Son, and his Spirit are absent from Kildahl’s conception of church polity.
+
+* From this follows the charge that the entire conception is outward and worldly.
+
+* Therefore Kildahl’s view effectively assumes that God’s will cannot differ from the will of the majority.
+
+* Second major rebuttal
+
+* Sverdrup argues that Kildahl’s identification of annual-meeting majorities with the congregations themselves is sophistry.
+
+* He intensifies this by saying the claim is untenable because it is disingenuous.
+
+* Third major rebuttal by practical example
+
+* A numerical example shows that small congregations with more delegates can overrule a large congregation with more voters.
+
+* Therefore a decision taken by delegates cannot honestly be called the large congregation’s own decision.
+
+* The conclusion is bluntly stated: this is nonsense.
+
+* Institutional corroboration
+
+* Sverdrup notes that the United Church’s annual meeting itself usually speaks more honestly by saying “the church body decides” or “the annual meeting decides,” never “the congregations decide.”
+
+* This reinforces the accusation that Kildahl’s formula is rhetorically dishonest.
+
+* Fourth major rebuttal: conscience
+
+* Returning to the theological core, Sverdrup says that because God is omitted, conscience too is omitted from this polity.
+
+* He then states a principle: even if one hundred congregations voted for what is wrong and one alone for what is right, the hundred would have no right whatever to rule over the conscience of the one.
+
+* Reductio ad absurdum
+
+* Sverdrup grants Kildahl’s premise for argument’s sake: if a chosen representative truly gathers the congregation’s understanding, feeling, and will into himself, then all congregations might most practically elect a single representative—a pope.
+
+* The absurd conclusion exposes, in Sverdrup’s view, the false principle beneath the representative system.
+
+* He then broadens the polemic by asserting that this representative system, a Catholic invention in the church, has in fact led to the papacy.
+
+* Normative conclusion
+
+* Sverdrup concedes one conditional point: if Kildahl can show from Scripture that God has ordained this representative system, then they will bow and confess themselves altogether mistaken concerning the congregations and their right.
+
+* Final unqualified principle: in the congregational question they will bow to no other authority.
+
+* Structure of the appended Kildahl extract
+
+* Kildahl argues positively for the old church order because:
+
+* * the congregations, through representatives, decide common matters;
+
+* * the congregation owns and governs its seminary;
+
+* * the congregations hold the right of call for teachers and missionaries;
+
+* * the congregations hold the right of ordination;
+
+* * therefore the old order is lawful and liberal-minded, protecting congregational freedom and rights.
+
+* He argues negatively against the new church order because:
+
+* * congregations are wholly disenfranchised / rendered incompetent in common affairs;
+
+* * they cannot decide finances, missions, ordination, teachers, or seminary order;
+
+* * these matters lie in the hands of an unelected self-perpetuating board;
+
+* * thus independent authorities stand over the congregations.
+
+* He adds a principled claim: in church matters no higher authority exists for congregations than the congregations themselves, both locally and in common affairs.
+
+* He rejects the counterclaim that everyone has a right to any opinion if sincere, calling that a false rationalistic principle.
+
+* He concludes that the new order is high-church, Catholic, contrary to God’s Word, and dangerous to a free church and free congregations.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Gud og hans Søn og hans Aand”
+
+* Not a direct quotation, but a triadic Christian formulation echoing New Testament Trinitarian speech.
+
+* “Guds Vilje”
+
+* General biblical resonance; the contrast with human will recalls many scriptural patterns in which divine will judges human counsel.
+
+* “Samvittighed” / rule over conscience
+
+* Not a direct citation, but deeply resonant with Protestant readings of passages concerning obedience to God above men, and with confessional language shaped by texts such as Acts 5:29.
+
+* “det som var galt” / “det som var ret”
+
+* Moral antithesis with broad biblical resonance: right versus wrong, righteous versus unrighteous.
+
+* “bøie os”
+
+* Biblical posture of submission, with broad scriptural echoes though not a direct quotation.
+
+* “Guds Ord”
+
+* Strong biblical and confessional phrase referring to Scripture as divine norm.
+
+* In Kildahl’s extract: “mod Guds Ord” / “stridende mod Guds Ord”
+
+* Again confessional-biblical language for doctrine or polity contrary to Scripture.
+
+* “have al Myndighed, Ret og Frihed”
+
+* Not a quotation, but the triadic rhythm resembles sermonic and doctrinal formulations.
+
+* “tro mod sin Overbevisning”
+
+* Not biblical in itself; included as a target of polemic against subjectivism.
+
+* Likely scriptural background informing the controversy
+
+* The primacy of the Word of God over human arrangements.
+
+* The non-lordship of human authorities over faith and conscience.
+
+* Congregational calling and ordering under divine authority.
+
+* Anti-papal implications likely resonate with Protestant anti-hierarchical readings rather than any single explicit text.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve Sverdrup’s severe clarity when he says that God, the Son, and the Spirit are omitted; that the whole view is outward and worldly; that the contrary claim is sophistry, disingenuous, unreasonable, and nonsense.
+* The example with two small congregations and one large congregation must remain concrete and forceful, because it is designed to expose not merely a technical flaw but a morally untenable claim.
+* The conscience claim must retain full severity: numerical superiority confers no right whatever to dominate the conscience of the one who stands for what is right.
+* The pope / papacy reductio must remain sharp, controlled, and unsmoothed.
+* The closing conditional submission to Scripture must remain solemn and absolute: if Scripture proves it, they will bow; otherwise they bow to no other authority.
+* Kildahl’s voice must also retain its own intensity: he is not mild or administrative, but deeply insistent, repetitive, and combative, especially when opposing the new church order as dangerous, high-church, Catholic, and contrary to God’s Word.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “kan ikke tænkes” must retain strong impossibility: “it cannot be supposed / cannot be imagined,” not merely “it seems unlikely.”
+* “skal det … forholde sig saa” must remain assertive: “then it is supposed to be the case” or “then, according to Kildahl, it must be the case.”
+* “havde … ingensomhelst Ret” must remain absolute: “had no right whatever.”
+* “vilde være” in the reductio must retain hypothetical consequence: “it would be.”
+* “saa skal vi bøie os” must remain strong and willing submission under proof from Scripture.
+* “bøier vi os ikke” must remain an uncompromising refusal.
+* In Kildahl’s extract, repeated “er,” “har,” “kan ikke,” “skal,” and “maa / maaske” structures must be preserved as claims of order and necessity, not turned into vague possibility.
+* “de har intet at sige” must remain “they have nothing to say,” not merely “they have less influence.”
+* “de kan ingen Bestemmelse fatte” must remain inability / exclusion, not inconvenience.
+* “de har kun Ret” must preserve restriction.
+* “jeg tror ikke, at nogen … har Ret” must preserve normative denial, not personal distaste.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Kirken = the Church
+
+* Den forenede Kirke = the United Church
+
+* Menighed / Menighederne = congregation / the congregations
+
+* Samfundet = the church body (used consistently where the larger denominational entity is meant)
+
+* Aarsmødet = the Annual Meeting
+
+* Kirkeforfatning / Kirkeorden = church polity / church order
+
+* Guds Ord = the Word of God
+
+* Samvittighed = conscience
+
+* Kaldsret = right of call
+
+* Ordinationsret = right of ordination
+
+* Myndighed = authority
+
+* Frihed = freedom
+
+* Ret = right
+
+* repræsentative System = representative system
+
+* Pavedømmet = the papacy
+
+* høikirkelig = high-church
+
+* frikirkelig = free-church
+
+* Note on “Samfundet”
+
+* For consistency and intelligibility, “the church body” is preferable to “the society,” since modern English “society” would sound secular and misleading.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “herske over den enes Samvittighed” must remain metaphorically potent as rule / dominion over conscience.
+* “samlet i ham” should remain image-like: the congregation’s understanding, feeling, and will “gathered” in him.
+* “valgte kun en Repræsentant eller Pave” must preserve the vividness of the reductio rather than explaining it away.
+* “et betydeligt Skaar i deres Frihed” should preserve image if possible: “a considerable breach in their freedom” or similar.
+* “kommer til i en Henseende at være over Menighederne” should retain vertical imagery of authorities standing over congregations.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Sverdrup alternates between analysis, accusation, irony, hypothetical concession, and solemn submission to Scripture. These contrasts must remain distinct.
+* Kildahl alternates between positive defense of the old order, negative indictment of the new, principled ecclesiological assertion, and final moral-theological protest. These movements should not be flattened into one even tone.
+* The editorial article moves from institutional critique to conscience and Scripture; the translation must preserve that deepening gravity.
+* The footnoted extract begins administratively but ends in theological condemnation. This tonal ascent must remain visible.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The article was shaped for public polemical reading. English clauses should therefore preserve deliberate repetition and balanced phrasing.
+* Repetitions of “because,” “according to,” “it is the congregations,” “they cannot,” and “I believe” should generally be retained.
+* Triadic formulas such as “understanding, feeling, and will” and “authority, right, and freedom” should remain intact.
+* Short emphatic blows such as “Which is nonsense” should remain short.
+* The close should sound declarative and spoken: if Scripture shows it, we bow; otherwise, to no other authority.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Majority’s Dominion in the Church.
+
+[Editorial article in “Folkebladet” for April 20, 1898.]
+
+Pastor Kildahl published in “Folkebladet” for March 30 a longer article in defense of the absolute dominion of the majority in the Church, as this is exercised in the United Church through what he calls “the representative system.” It is evident that Kildahl nowhere imagines the possibility of anything other or better than the polity of the United Church; it is this that he defends as the right one, because it is “representative.”
+
+This system is, in Kildahl’s opinion, the most perfect, because when the congregations have elected, then they are represented, and when they are represented, then the opinion of the representatives is also the opinion of the congregations.
+
+Here we note at once a great omission. God and his Son and his Spirit are altogether omitted from Kildahl’s consideration of church polity. The whole manner of consideration and conception is altogether outward and worldly. It cannot be supposed that the will of God could be different from the will of the majority.
+
+Further, when Kildahl proceeds from the point of view that the majority at the Annual Meetings is the congregations, in this sense namely, that when the majority has determined something, then it is the congregations that have determined it, then that is simply subtlety and sophistry, which Kildahl knows very well. … Kildahl’s assertion, that the determinations of the Annual-Meeting majority are the determinations of the congregations, is altogether untenable, because it is disingenuous.
+
+It is also untenable because it is unreasonable. If, for example, 2 small congregations with 20 eligible voters between them send 4 delegates, and 1 large congregation with 200 eligible voters sends 2 delegates (it can send no more), then those two small congregations can vote for a measure which the large congregation votes against; yet according to Kildahl’s opinion the case is supposed to stand thus, that such a resolution is also the resolution of the large congregation!! Which is nonsense.
+
+Then indeed the Annual Meeting of the United Church is generally a good deal more honest in its statements; it commonly introduces its resolutions with “The church body resolves” or “The Annual Meeting resolves;” one never finds: “The congregations resolve.”
+
+As we said before: God is omitted from this church polity. And therefore conscience too is omitted from this church polity. … We venture to assert that if 100 congregations voted for what was wrong, and one congregation alone for what was right, then the 100 had no right whatever to rule over the conscience of the one.
+
+But suppose now that Kildahl were right, that when someone is chosen to represent the congregation, then the congregation’s understanding, feeling, and will are gathered in him. …
+
+The consequence becomes this, that the most practical thing of all would be for the congregations all together to choose only one representative, or pope, and in him the congregations’ understanding, feeling, and will were then gathered because he was chosen, and when the chairman spoke, then it was the congregations, because he was chosen by them. In this way matters could be decided more easily, more quickly, more cheaply, and more surely, and yet it was always the congregations’ decision; for they themselves had chosen for themselves one great representative!
+
+Yes, “the representative system,” which is a Catholic invention in the Church, has indeed led to the papacy. Well then; if Kildahl can show from Scripture that God has ordained this representative system, then we shall bow and acknowledge that we have been altogether mistaken about the congregations and their right. But be altogether certain of this, that in the congregational question we bow to no other authority.
+
+[Georg Sverdrup.]
+
+APPENDED FOOTNOTE TEXT
+
+†From Pastor T. M. Kildahl’s article the following is reproduced:
+
+“… I believe that the old church order is better than the new, because according to the old church order it is the congregations that have joined themselves together into a church body, and it is the congregations that alone, through their representatives, decide all things that concern the church body. I believe further that the old church order is better than the new, because according to the old church order it is the congregation itself that is to own and administer its theological school, choose and depose teachers at the theological school, and in every respect govern it. Thirdly, I believe that the old church order is better than the new, because according to the old church order it is the congregations that hold the right of call, both when it concerns calling theological teachers, and when it concerns calling missionaries. Finally, I believe that the old church order is better than the new, because according to the old church order the right of ordination too rests with the congregations. I believe, therefore, that the old church order is better than the new, because the old church order is wholly throughout lawful and liberal-minded. It safeguards the congregation’s freedom and rights in the affairs of the church body.
+
+I do not believe that the new church order is as good as the old, because according to the new church order the congregations as such are completely deprived of independent standing in all the affairs of the church body. They have nothing to say in the affairs of the church body. They can adopt no resolution concerning the use of the church body’s money. They do not have the right of call when it concerns sending out missionaries for the church body; they cannot choose the church body’s ordaining minister. All these things are decided by people who come together for a meeting, without the congregations having chosen them for that. They do not have the right of call when it concerns choosing teachers at the theological school; they do not own the theological school; they have nothing to say over the theological school. For it all lies in the hands of a board which chooses itself. The congregations have only the right to provide the means, when it concerns the affairs of the church body. …
+
+Therefore in the United Church there is no upper house consisting of pastors and no lower house consisting of laypeople. There is one assembly, where all have the same right, because they all represent congregations. It is the congregations that through their pastors and lay delegates govern and order everything. …
+
+My opinion is this, that in church matters for the congregations there exists no higher authority than the congregations themselves. But I mean that this is the case not only when it concerns the particular local congregation’s own internal affairs, but also when it concerns the matters that the congregations have in common, namely the affairs of the church body. And so it is according to the old church order. The church body is not over the congregations, but the congregations are over the church body; for it is the congregations that govern the church body, but the church body does not govern the congregations. According to the old church order the congregations themselves decide, altogether freely and independently, all matters, both congregational matters and the affairs of the church body. The old church order is therefore free-church, and for that reason I hold to it.
+
+And I am altogether against the new church order as an order dangerous to a free Church and free congregations. For according to the new church order the congregations cannot freely and independently decide all their matters themselves. For according to the new church order the congregations cannot decide the matters that the congregations have in common, that is, the affairs of the church body. They cannot determine how the church body’s money is to be used. They cannot determine who shall teach those who at the theological school are to be educated as pastors for the congregations. They cannot decide how the theological school is to be ordered. They cannot decide whom the church body shall appoint as missionaries to the heathen. They have lost the right of call in all those matters where the congregation in common, that is, as a church body, issues the call. Where the representative system is abolished, there the congregations are deprived of authority in all the affairs of the church body; they have lost their voting right in the affairs of the church body. There are other authorities which are altogether independent of the congregations, and which have not received their authorization from the congregations, which therefore come in one respect to be over the congregations, and which decide all these things. The congregations have only the freedom either to submit to what these authorities determine, or to withdraw. And then it seems to me that a considerable breach has been made in their freedom. One may perhaps object that as many of the members of the congregations as wish may come to the Annual Meeting and exercise influence on the course of things. That is true, but if these are not chosen by the congregations and therefore do not represent the congregations, then it is not the congregations that decide and act. And then the free-church principle is given up.
+
+And then “Folkebladet” says that when I hold the opinion that it is much better to have the government of the church body over the congregations than that the congregations altogether freely and independently decide all their matters themselves, then I surely have the right to hold that opinion. Against that, however, I will protest in the strongest terms. I have often heard this, that a man has the right to hold whatever sort of opinion he pleases, if only he is true to his conviction. But that is a false rationalistic principle. One must indeed often put up with people if they hold opinions that are contrary to the Word of God; but they do not have the right to hold such opinions. I believe that it is contrary to the Word of God that the church body should be over the congregations; therefore I do not believe that anyone, whether “Folkebladet” or I, has the right to hold such an opinion. I believe that it is a high-church, Catholic, and contrary-to-the-Word-of-God opinion that the congregations should not have all authority, right, and freedom also with respect to the government of the church body. And because I believe that the new church order is high-church, Catholic, and contrary to the Word of God, therefore I am against it, and therefore I do not believe that its defenders have the right to hold the opinion they hold.”

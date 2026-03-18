@@ -1,0 +1,228 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Simoni: Not merely the modern English word "simony" in a loose sense, but the ecclesiastical sin derived from Simon Magus in Acts 8; must retain explicit church-historical and biblical force.
+* udvortes Midler: Literally "outward means" or "external means." In this context it contrasts with aandelige Midler, so the translation must preserve the opposition between external/material instruments and spiritual means.
+* aandelige Midler: "spiritual means," not merely "religious means." The phrase carries theological weight and should remain doctrinally sharp.
+* Embede i Kirken: "office in the Church," not simply "job" or "position." It denotes ecclesiastical office.
+* Menigheder: Here "congregations," though sometimes "parishes" might tempt; "congregations" better preserves the free-church and ecclesial sense.
+* Samfund / Samfundene: Dangerous term. In this context it does not mean "society" in the broad social sense, but church bodies / denominational associations / organized ecclesial groups. Context requires a rendering that preserves ecclesiastical-political force.
+* Samfundsbaandene: Literally "the bonds/ties of the church bodies/associations." The term suggests institutional affiliations and loyalties that bind local congregations into party structures.
+* Partiiver: "party zeal" or "partisan fervor." Must preserve the polemical force against ecclesiastical factionalism.
+* kirkepolitisk / Kirkepolitikens / kirkelige Storpolitikere: These are not neutral administrative terms. They refer critically to church politics, party maneuvering, and ecclesiastical power-brokers.
+* velskikket: "well arranged," "well prepared," "conveniently constituted." Here it implies that the congregation has been structured in a way advantageous to political manipulation.
+* Agitation: In 19th-century usage, organized campaigning or canvassing, not mere emotional upset.
+* Missionskassen: Literally "the mission fund" or "mission treasury." Must remain concrete, because the corruption alleged depends on control of collected mission money.
+* Guds Riges Udbredelse: "the spread of the Kingdom of God," a biblically resonant phrase that should not be flattened into "religious work."
+* Menighedsmøde: "congregational meeting," an ecclesial decision-making gathering.
+* Samfundstro: Literally "faithful/loyal to the church body/association." This is partisan loyalty, not faith in God.
+* tappert har staaet "Svermeri" imod: "has bravely resisted 'fanaticism'/'enthusiasm'." Svermeri is historically charged; it can denote religious enthusiasm, fanaticism, or revivalist excess, often polemically. The quotation marks indicate irony or contested labeling.
+* Slag i Sagen: Idiomatic. Literally something like "a blow in the matter," but functionally "a decisive stroke," "a strong point," or "a telling advantage." It must sound forceful and somewhat colloquial without becoming modern slang.
+* verdslig: "worldly," not merely secular in a sociological sense. In devotional prose it carries moral-spiritual criticism.
+* ubodelig Skade: "irreparable damage" or "damage beyond remedy." Strong moral consequence must be preserved.
+* helligste Rettigheder: "holiest rights" or "most sacred rights." The phrase combines juridical and sacred language.
+* kristelige Selvstændighed: "Christian independence" or "Christian self-government." It denotes ecclesial responsibility and freedom, not secular individualism.
+* Indremisjonsarbeide: "home mission work" or "inner mission work." In Scandinavian church history, "Inner Mission" is a recognized category, but here it may be best translated descriptively while preserving the movement concept.
+* Opbyggelse: "edification" or "building up." A key theological term; should not be reduced to generic "development."
+* selvfornegtende og opofrende: "self-denying and self-sacrificing." Both terms should be retained distinctly.
+
+Syntactic Hazards
+
+* The prose moves through long periodic sentences with semicolon logic and cumulative moral force. These should not be broken into short modern sentences unless absolutely necessary.
+* Repeated use of parallel constructions: "at kjøbe ...; at kjøbe og sælge ..." and later contrasts between what is said to be for God’s Kingdom and how it is actually used.
+* Conditional reasoning is crucial: "forudsat at ..." and "Ligger da Magten ... saa kan man vide hvordan det gaar." The if-then structure must remain explicit.
+* The narrative example unfolds by controlled staging: small congregation, important location, election, letter, offer, acceptance, verdict. This sequence must remain clear and unflattened.
+* Parenthetical biblical citation "(Ap. Gj. 8)" frames the whole article with scriptural authority; it must remain visible and early.
+* The abrupt judgment "Menigheden er valgt. — Simoni er begaaet." depends on short, hammering clauses after a longer buildup. This rhetorical compression must be preserved.
+
+Theological Hazards
+
+* The central contrast between spiritual and outward means is theological, not merely procedural. The offense consists in substituting material leverage for spiritually proper means.
+* Ecclesial office, congregational calling, and mission funds are treated as holy matters; the translation must preserve that sacramental-ethical seriousness.
+* "Guds Riges Udbredelse" must remain explicitly theological and biblical.
+* "Menighedslivet" means the life of the congregation as a Christian organism, not merely community life.
+* The condemnation of corruption is ecclesial and moral: money given for mission becomes an instrument of corruption.
+* The final remedy is doctrinally charged: mission work must aim at congregation, not party or denomination. This is a theology of church-building.
+* "Opbyggelse" in the conclusion evokes Pauline and Lutheran language of edification; it must preserve the sense of spiritual upbuilding.
+
+Voice Hazards
+
+* The tone is morally severe, unsentimental, and polemical without being hysterical. It must not be softened into neutral historical commentary.
+* Irony appears in quotation marks around "Svermeri" and "Partiet." The translation must preserve the implied critique of partisan labeling.
+* The author’s voice is that of a church critic speaking from inside a confessional and ecclesial struggle. It is exhortational and judicial.
+* Declarative verdicts such as "Simoni er begaaet" and "derved gjøres ubodelig Skade" must remain blunt and solemn.
+* The final appeal is reforming rather than merely descriptive. The translation must preserve the sense that the reader and the church stand under judgment and obligation.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Siden Simon Magus's Dage (Ap. Gj. 8)": This alludes to Acts 8, where Simon Magus attempts to obtain spiritual power by payment. The natural English ecclesiastical equivalent is "simony," but the article first explains the term, so the translation should preserve both the historical allusion and the definitional setup.
+* "brugt Penge og udvortes Midler": This is not a fixed idiom, but a morally charged pairing. It means employing money and external/material instruments to secure what ought to be received spiritually. Literal rendering works if the contrast is kept vivid.
+* "at kjøbe og sælge Menigheder": Not literal commercial trade in a legal sense, but treating congregations as transferable possessions under partisan control. Literal translation is necessary because the shock of the phrase is intentional.
+* "Det gaar helt grovt og aabenbart for sig": Idiomatic for something being done in a crude and open manner. A good equivalent is "It is carried on quite crudely and openly" or "It is done in a gross and open way."
+* "Slag i Sagen": An idiomatic expression for a forceful advantage in the case at hand. A natural equivalent here is "That is a telling stroke" or "That is a weighty point in the matter." It should sound decisive, because the author is exposing how material leverage sways the meeting.
+* "staaet 'Svermeri' imod": A pietistic and polemical expression. Literally "stood against 'fanaticism.'" The quotation marks matter: the word likely reflects a partisan accusation, perhaps against revivalist or nonconforming religion. The translation should preserve both resistance and the irony of the label.
+* "verdslige Argumenter": More than "practical arguments." These are worldly inducements, arguments appealing to temporal convenience rather than spiritual judgment.
+* "Menigheden er valgt": Literally "the congregation is chosen," but contextually this means the congregation has been captured, bought over, or won. A too-literal translation may sound odd, but the oddity may also serve the author’s irony. Best handled in a way that preserves the sense that the congregation has effectively been secured.
+* "ubodelig Skade": An expression of permanent harm; "irreparable damage" is the natural equivalent.
+* "vække det rette Syn og Sans": A paired expression meaning to awaken right understanding and proper spiritual perception/sensibility. The duality should remain.
+* "tager Sigte paa Menighed, ikke paa Samfund": Literally "takes aim at congregation, not at association/body." The phrase means directing one’s labor toward the building up of the local congregation rather than strengthening the denominational party apparatus.
+
+Biblical allusions and scriptural context
+
+* Acts 8 is the primary controlling scriptural allusion: Simon seeks to buy the power associated with the Holy Spirit.
+* "Guds Riges Udbredelse" echoes New Testament Kingdom language.
+* "Opbyggelse" resonates with Pauline vocabulary of building up the church.
+
+King James Bible equivalents that may help
+
+* "Kingdom of God" is the most natural English equivalent for Guds Rige.
+* "edification" is the most natural historic church-English equivalent for Opbyggelse, though "building up" may preserve clarity better in continuous prose.
+* For Acts 8, "Simon Magus" and "simony" already belong to established English ecclesiastical vocabulary.
+
+Expressions where literal translation would obscure force
+
+* "Samfund" should not be rendered as "society" here; that would obscure the ecclesiastical reference.
+* "Slag i Sagen" needs an idiomatic equivalent rather than a wooden literal rendering.
+* "Menigheden er valgt" requires context-sensitive English to convey that the congregation has effectively been won over through the offer.
+* "Indremisjonsarbeide" may need "home mission work" rather than a literal calque like "inner mission work," unless one wants to preserve Scandinavian ecclesial terminology very closely.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Thesis
+
+* The article defines simony as the use of money and outward means to obtain what should rightly be attained only by spiritual means.
+* It intensifies the thesis by stating that buying and selling congregations is an even worse form of simony.
+
+Supporting claims
+
+* This latter form of simony has spread through denominational ties and the party zeal connected with them.
+* Certain small congregations are especially vulnerable because they are constituted in a way that serves church-political interests.
+* When a pastoral vacancy or election arises, outside and inside agitation begins over which church body should supply the minister.
+* Mission funds, originally collected for the spread of God’s Kingdom, become instruments by which party leaders steer the decision.
+
+Doctrinal and moral assertions
+
+* Money intended for mission can be perverted into corruption.
+* Congregations thereby surrender their holiest rights and their Christian independence.
+* The resulting harm to congregational life is irreparable.
+
+Illustrative case
+
+* Sverdrup narrates a representative scenario: a poor but strategically important congregation holds a meeting to choose a pastor.
+* A partisan presents a letter promising financial support from a mission fund, on condition that the mission committee decides which pastor the congregation shall have.
+* Because the congregation is susceptible to worldly arguments, the offer determines the outcome.
+* The brief verdict follows: the congregation has been won; simony has been committed.
+
+Rhetorical pivots
+
+* From definition to present abuse.
+* From general observation to a concrete illustrative case.
+* From narration of the case to judicial verdict.
+* From condemnation to prescription: only one Christian solution exists.
+
+Conclusion
+
+* The only Christian solution is that home mission work must aim at congregation, not party body.
+* Genuine good is done only by self-denying and self-sacrificing labor for the edification of the congregation in each place, without regard for what the party may gain.
+
+Preservation requirement for translation
+
+* The translation must preserve the move from definition, to exposure, to example, to verdict, to remedy. This sequence gives the article its argumentative force.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Simon Magus's Dage (Ap. Gj. 8)": Explicit reference to Acts 8:9-24, especially Simon’s attempt to purchase spiritual power.
+* "aandelige Midler": While not a quotation, the contrast with outward means recalls broader Christian distinctions between spiritual reality and fleshly/worldly instruments.
+* "Guds Riges Udbredelse": Echoes New Testament proclamation of the Kingdom of God; compare Gospel and Acts language.
+* "Menighedens Opbyggelse": Likely echoes Pauline language of the church’s edification/building up; compare Romans 14:19, 1 Corinthians 14, Ephesians 4.
+* The whole moral logic of corruption in holy things also resonates with biblical judgments against profaning sacred offices and gifts for gain.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The article speaks with judicial severity. It does not merely report abuse; it pronounces judgment on it.
+* Charges such as "Simoni er begaaet" and "ubodelig Skade" must remain direct and unsparing.
+* The satire and irony directed at ecclesiastical politicians must remain controlled, not exaggerated into sarcasm.
+* The final prescription must sound morally binding, not advisory.
+* Severity and reforming hope both appear: the abuse is denounced sharply, but a Christian remedy is also set forth positively.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "rettelig kun kan erholdes": must remain strong: "can rightly be obtained only..."
+* "skal kalde Præst": should remain "shall call a pastor" or "is to call a pastor," not weakened into "might choose."
+* "skal have": likewise requires "shall have" in the condition imposed by the mission committee.
+* "kan man vide hvordan det gaar": idiomatic but forceful; conveys predictable consequence, not mere possibility. Best preserved as "one can know how it will go" or "one knows how it will go."
+* "der er kun en Løsning, som er kristelig": must remain exclusive and strong: "there is only one solution that is Christian."
+* "Kun ved ... gjør man virkelig noget godt": must remain restrictive and emphatic: "Only by ... does one truly do any good."
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+Chosen renderings for consistency
+
+* Simoni = simony
+* aandelige Midler = spiritual means
+* udvortes Midler = outward means
+* Embede i Kirken = office in the Church
+* Menighed = congregation
+* Menigheder = congregations
+* Samfund = church body
+* Samfundene = the church bodies
+* Missionskassen = the mission fund
+* Guds Rige = the Kingdom of God
+* Menighedslivet = congregational life
+* kristelige Selvstændighed = Christian independence
+* Indremisjonsarbeide = home mission work
+* Opbyggelse = building up
+
+Note on Samfund
+
+* "Church body" best preserves the organized ecclesiastical sense without importing overly technical modern denominational language. "Denomination" is possible, but can sound too modern and fixed. "Society" would be misleading.
+
+Note on Opbyggelse
+
+* "Building up" is preferred in the final translation over "edification" where readability requires it, but the theological sense remains stable.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "at kjøbe og sælge Menigheder" must remain concrete and transactional; its offensiveness lies in the imagery of buying and selling congregations.
+* "Slag i Sagen" should retain the striking, forceful image of a decisive blow or stroke in the matter.
+* "vække det rette Syn og Sans" contains perceptual imagery: awakening right sight and sense. This should not be flattened into mere opinion-forming.
+* "Opbyggelse" retains architectural imagery of building up the congregation.
+* "uden Hensyn til hvad 'Partiet' kan vinde" preserves competitive/gain imagery exposing partisan calculation.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: definitional and controlled.
+* Middle: exposé with growing indignation and concrete illustration.
+* Verdict: compressed and severe.
+* Final section: reforming and constructive, but still morally uncompromising.
+* The translation must not level these tonal movements into uniform journalistic prose.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The article has clear prose crafted for public reading: explanatory opening, cumulative middle, emphatic short verdicts, and solemn concluding maxim.
+* Semicolons and long clauses should be preserved where they carry argumentative momentum.
+* The sentence "Menigheden er velskikket ... Blir der saa Anledning ..." should move with staged inevitability.
+* The close should sound like a final principle uttered from conviction, not like administrative recommendation.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Simony.
+
+[Editorial article in "Foldebladet" for May 18, 1898.]
+
+Since the days of Simon Magus (Acts 8), one has called it simony when someone has used money and outward means to obtain that which can rightly be obtained only by spiritual means. To buy an office in the Church is simony; to buy and sell congregations is doubly so.
+
+This latter form of simony has become rather widespread by the help of the ties of the church bodies and the party zeal that follows with them. In some places it is carried on in a wholly coarse and open manner. There is a small congregation in a place that in church-political significance is called important. The congregation has been formed according to the old church order; one has asked only who wants a pastor, and in no way asked whether one wants a congregation. Naturally the congregation is beforehand well fitted for the work of church politics. If then occasion arises for the choosing of a pastor, agitation breaks loose from within and from without.
+
+The matter is this: from which church body shall one call a pastor? And if the congregation thinks it is too poor to support a pastor by itself, then the matter is where one shall turn for help from the mission fund. Here lies the opportunity of the church parties. They have money, gathered for the purpose of working for the spread of the Kingdom of God; the question of where this money is to be used is often difficult to decide. If, then, the power to decide this lies in the hands of the great church politicians, one knows how it will go.
+
+A congregational meeting is held for the choosing of a pastor in such a small and poor congregation. When the deliberations have begun, one of the politicians in the congregation comes forward with a letter from one of the politicians in one of the church bodies, stating that since the congregation is poor, but loyal to the church body and has bravely stood against "fanaticism," the church body will help the congregation by paying its pastor from the mission fund, provided that the mission committee is allowed to decide which pastor the congregation shall have.
+
+That is a telling stroke in the matter, and no small one either. For a congregation in which a majority is perhaps altogether worldly is very susceptible to worldly arguments. If one was in doubt before, the majority is convinced now, and with thanks one accepts the offer and turns to the kindly disposed mission committee. The congregation has been won. — Simony has been committed.
+
+Such practice is carried on among us, more and less crudely, and thereby irreparable damage is done to congregational life. In this way congregations surrender their most sacred rights and their Christian independence, at the same time that the mission money becomes a means of corruption. It is one of the most important tasks of the Free Church to awaken the right understanding and sense for a Christian work of home mission.
+
+Also on this point there is only one solution that is Christian. It is that the work of home mission direct its aim toward congregation, not toward church body.* Only by self-denying and self-sacrificing labor for the building up of the congregation in each place, without regard to what the "party" may gain, does one truly do any good.
+
+.... [Georg Sverdrup.]

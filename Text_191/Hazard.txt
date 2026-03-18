@@ -1,0 +1,616 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menigheden: not merely “congregation” in a local institutional sense, nor simply “church” in every instance. In this text it often denotes the spiritual community of believers, sometimes the local congregation, sometimes the one Church on earth. Rendering must track context carefully.
+* Naademidlerne: “means of grace,” a fixed Lutheran theological term; must not be paraphrased into vague language such as “spiritual practices.”
+* Erkjendelse: “understanding,” “knowledge,” or “recognition,” but here often “Christian apprehension” or “Christian understanding.” It carries epistemic and theological weight.
+* Tilblivelse: “coming into being,” “origin,” “formation.” Must preserve ontological force.
+* Gjerning: “act,” “deed,” “work.” In doctrinal contexts often “act” or “work,” but “divine act” is strongest where God’s decisive action is meant.
+* Frelsesraad: “counsel of salvation,” not merely “plan.” It suggests the eternal salvific counsel of God.
+* Gjenreisning: “restoration” or “raising up again.” Must preserve the image of the fallen race being raised from its fall.
+* Pintsefest: Pentecost; older spelling must not obscure biblical reference.
+* beskaffen: “of such a nature,” “constituted,” “characterized.” Here “what the Spirit’s working is like in character.”
+* tilsigtter: “intends,” “aims at.” Teleological force matters.
+* aandeligt Lys / guddommeligt Liv: “spiritual light” and “divine life,” fixed conceptual pair.
+* Trang til Vidnesbyrd: more than “desire to testify”; it is an inward compulsion or urge toward witness.
+* ophøiede og forklarede Jesus Kristus: “the exalted and glorified Jesus Christ.” Both terms are doctrinally important.
+* Legeme / Hoved: body / head. These are Pauline ecclesiological terms and must retain biblical force.
+* ny Skabning / ny Slægt: “new creation” / “new race” or “new generation.” “Race” is closest to the older anthropological sense but can sound modernly misleading; “human stock” or “human race” may sometimes be needed.
+* Kaar: “conditions,” “estate,” “outward lot.” Must preserve existential and historical sense.
+* Stikkelse: likely older orthography for “skikkelse” or external form. Context requires “outward form” or “visible shape.”
+* Naadegavernes: “gifts of grace,” i.e. charisms. Best rendered “spiritual gifts” only if doctrinal precision remains intact; “gifts of grace” may be preferable in analysis, “gifts” in translation where context is clear.
+* virkekraftig: “effectual,” “operative,” “effective in action.”
+* dygtig til: “fit for,” “able for,” “capable of.”
+* Arbeidets Fordeling: “distribution of labor/work,” not “hierarchy.”
+* skikkede: “fit,” “suited,” “qualified” persons.
+* Troens Lydighed: “the obedience of faith,” a biblical phrase that should be preserved.
+* ecclesia / kyriaké: must preserve the philological explanation without anachronistic simplification.
+* Almindelighed: in the creed this means “catholicity” or universality, not “commonness.”
+* Salighed: “blessedness” or “salvation.” Often “eternal blessedness” is best.
+* Forvisning: “assurance,” “conviction,” not merely “opinion.”
+* Grundvold: “foundation.” Strong biblical resonance.
+* ufeilbare: “infallible,” not merely “reliable.”
+* modificeret Form: “modified form” of the Jewish religious community; must preserve polemical precision.
+* Menneskebud: “commandments of men” or “human ordinances,” with biblical resonance.
+* Guds Rige / Himmelriges Rige: Kingdom of God / Kingdom of Heaven. Must preserve distinction between Church and Kingdom.
+* Aandsliv: “spiritual/intellectual life.” Context includes art, science, literature, state constitution, so “life of the human spirit” may be needed.
+* overvættes store Forandringer: “exceedingly great changes,” not casual “big changes.”
+* Trængsel: “tribulation,” not merely “trouble.”
+* eie: in final appended question, “own” or “possess.” Distinguish legal ownership from spiritual possession.
+
+Syntactic Hazards
+
+* The text uses long periodic sentences that accumulate doctrinal distinctions. Breaking them into short modern sentences would flatten the argument.
+* Semicolons and commas often mark logical sequence rather than loose punctuation; they must be respected where English can bear them.
+* Many paragraphs are built as single unfolding propositions with subordinate qualifications; translation must preserve hierarchy of thought.
+* Repeated “trods ... trods ... trods ...” in §10 is rhetorical accumulation and must remain cumulative.
+* “for det første ... for det andet” in §15 is a formal argumentative sequence; must remain explicit.
+* Parenthetical contrasts such as “(usynligt) ... og (synligt) ...” are structurally important and should not be dissolved.
+* Appositional theological definitions are frequent, e.g. “det guddommelige Liv, som efter sit Væsen er Kjærlighed.” These must remain tightly linked.
+* The appended note about Frikirken is partly reported speech; attribution and quotation boundaries must remain clear.
+
+Theological Hazards
+
+* Menigheden is presented as produced by a divine act, not as a sociological result of sacramental efficacy. This doctrinal claim must remain sharp.
+* The sending of the Holy Spirit at Pentecost is constitutive of the Church’s origin.
+* The Spirit grants both divine life and spiritual light, with power for action and impulse to witness.
+* Union with Christ is ecclesial and organic: believers become His body and He their Head.
+* The Church is a new creation and renewed humanity, yet not a separate biological humanity.
+* Sin, forgiveness, indwelling of the Holy Spirit, and temporal death are all stated in tightly doctrinal terms.
+* Means of grace are indispensable to preservation and growth, but they are not treated as the original cause in the same way as the Spirit’s constitutive act.
+* The distinction between inner call and outer call is explicitly Lutheran and must remain precise.
+* Ordination does not create rank; this anti-hierarchical ecclesiology must not be weakened.
+* Unity of the Church persists despite confessions, organizations, and disputes.
+* Holiness is not abolished by hypocrites in the outward congregation.
+* Catholicity means the Spirit’s work for the salvation of all and the mission continuing until all who will be saved are saved.
+* Apostolicity rests on the Spirit’s work and on agreement with Holy Scripture as complete and infallible witness.
+* The Church is not a modified Judaism bound by Jewish law, ceremonies, and customs.
+* Human ordinances cannot be made marks of the one true Church.
+* The Kingdom of God is broader than the Church, though the Church is its central current of life on earth.
+* Final judgment, exclusion from glory, and consummation at Christ’s return must retain their full eschatological force.
+
+Voice Hazards
+
+* Sverdrup writes with doctrinal gravity, controlled intensity, and polemical exactness. Any smoothing into neutral academic prose would erase the sermonic-theological voice.
+* The text has a confessional Lutheran tone: firm, orderly, and morally serious rather than emotional. This must be preserved.
+* Repeated logical connectors create the pressure of inevitability. They must not be reduced.
+* Warning language regarding apostasy, judgment, and resistance to grace must remain unsparing.
+* Consolatory or elevating passages must still remain disciplined rather than sentimental.
+* Philological asides are not decorative; they serve doctrinal clarification and should retain their teacherly character.
+
+STEP 2: IDIOM ANALYSIS
+
+* “det Samfund af Mennesker blandt hvem Naademidlerne har havt sin tilsigtede Virkning”
+
+  * Meaning: “the community of people among whom the means of grace have had their intended effect.”
+  * Function: a quoted definition Sverdrup contests.
+  * Implication: he rejects construing the Church merely as the result of means of grace successfully received.
+  * Translation note: keep “intended effect” rather than simplify.
+
+* “det evige Frelsesraad”
+
+  * Meaning: the eternal counsel of salvation.
+  * Scriptural/theological context: evokes divine eternal purpose in salvation history.
+  * Translation note: “counsel of salvation” preserves theological gravitas better than “salvation plan.”
+
+* “Slægtens Gjenreisning af dens Fald”
+
+  * Meaning: the raising up or restoration of the race from its fall.
+  * Scriptural context: alludes to the Fall of humanity.
+  * Translation note: literal rendering is needed to preserve redemptive-historical scope.
+
+* “Stormen ... Tungerne af Ild ... de fremmede Tungemaal”
+
+  * Meaning: wind, tongues of fire, foreign languages as Pentecost signs.
+  * Scriptural context: Acts 2.
+  * Translation note: preserve explanatory symbolism exactly.
+
+* “Trang til Vidnesbyrd”
+
+  * Meaning: inner urge, constraint, or impulse toward witness.
+  * Theological implication: Spirit-produced testimony, not optional activism.
+  * Translation note: “urge to bear witness” preserves force better than “desire to speak.”
+
+* “de blir hans Legeme, og han deres Hoved”
+
+  * Meaning: they become His body, and He their Head.
+  * Scriptural context: Pauline ecclesiology, especially Ephesians and Colossians.
+  * KJV-natural equivalent: “body” and “head” have strong biblical continuity, though pronouns should remain modern.
+
+* “ny Skabning”
+
+  * Meaning: new creation.
+  * Scriptural context: 2 Corinthians 5:17, Galatians 6:15.
+  * Translation note: must be exact; explanatory paraphrase would weaken scriptural resonance.
+
+* “bærer Guds Billede”
+
+  * Meaning: bears the image of God.
+  * Scriptural context: Genesis anthropology and renewal motifs.
+  * Translation note: direct biblical phrase is necessary.
+
+* “Syndernes Forladelse”
+
+  * Meaning: forgiveness of sins.
+  * Scriptural and creedal resonance: strong liturgical and doctrinal formula.
+  * Translation note: avoid “pardon” unless needed for rhythm; “forgiveness of sins” is standard.
+
+* “den Helligaands Liv i Hjerterne”
+
+  * Meaning: the Holy Spirit’s life in the hearts.
+  * Theological implication: indwelling and vivification.
+  * Translation note: literal rendering preserves devotional force.
+
+* “de Naadegaver, som dygtiggjør til Naademidlernes Forvaltning”
+
+  * Meaning: the gifts of grace that make one fit for the administration of the means of grace.
+  * Theological implication: ministerial ability is divinely gifted.
+  * Translation note: must not be diluted into generic talent.
+
+* “det indre Kald” / “det ydre Kald”
+
+  * Meaning: inner call / outer call.
+  * Theological context: Lutheran doctrine of vocation to the ministry.
+  * Translation note: fixed terms; consistency is essential.
+
+* “Troens Lydighed”
+
+  * Meaning: obedience of faith.
+  * Scriptural context: Romans 1:5; 16:26.
+  * KJV-natural equivalent: “obedience of faith” is the established biblical phrase and should be kept.
+
+* “det ene kristelige Samfund paa Jorden”
+
+  * Meaning: the one Christian community on earth.
+  * Theological implication: visible pluriformity, essential unity.
+  * Translation note: depending on context, “one Christian community on earth” or “one Christian fellowship on earth.”
+
+* “begravet under mange Menneskesætningers Grus”
+
+  * Meaning: buried beneath the rubble/debris of many human ordinances.
+  * Theological implication: true Christian foundation obscured by human accretions.
+  * Translation note: image should remain vivid; do not flatten into “hidden by traditions.”
+
+* “modnes ... til den endelige og uundgaaelige Dom”
+
+  * Meaning: ripen toward the final and unavoidable judgment.
+  * Scriptural implication: a fearful hardening under resisted Word and Spirit.
+  * Translation note: “ripen” is stark and should be preserved.
+
+* “Kirkens Almindelighed”
+
+  * Meaning: the Church’s catholicity/universality.
+  * Creedal context: Apostles’ Creed.
+  * Translation note: “catholicity” is doctrinally precise, but if the translation aims at broader readability, “universality” may be used with care. Because the author himself glosses rather than polemicizes, “catholicity” is likely strongest.
+
+* “lade sig frelse”
+
+  * Meaning: let oneself be saved, allow oneself to be saved.
+  * Theological implication: not Pelagian self-salvation, but non-resistance to grace.
+  * Translation note: literal wording is slightly awkward in English; “who will let themselves be saved” preserves the theological stance.
+
+* “byggedes paa Apostlernes og Profeternes Grundvold”
+
+  * Meaning: built upon the foundation of the apostles and prophets.
+  * Scriptural context: Ephesians 2:20.
+  * KJV-natural equivalent: the biblical wording should be preserved as closely as possible with modern pronouns.
+
+* “Menneskebud”
+
+  * Meaning: commandments of men / human ordinances.
+  * Scriptural context: Christ’s criticism of human traditions elevated over divine command.
+  * Translation note: “commandments of men” has stronger biblical resonance, but “human ordinances” may fit legal context. Likely vary minimally by context.
+
+* “den centrale Livsstrøm i Guds Rige”
+
+  * Meaning: the central current of life in the Kingdom of God.
+  * Metaphorical force: organic, living, dynamic centrality.
+  * Translation note: preserve image; do not explain it away.
+
+* “Arbeide, Kamp og Trængsel”
+
+  * Meaning: labor, struggle, and tribulation.
+  * Theological implication: the present Church’s earthly condition before glory.
+  * Translation note: preserve triadic cadence.
+
+* “ikke kunde eie nogenting og dog eie alt paa en aandelig Maade”
+
+  * Meaning: could own nothing and yet possess all things spiritually.
+  * Scriptural resonance: likely echoes Pauline paradoxes about possessing all things.
+  * Translation note: preserve paradox sharply.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Overall thesis progression
+
+* §§1-3 establish that the Church is not to be derived merely from the doctrine of the means of grace as a community in which those means have had effect. Rather, it originates in a decisive divine act: the sending of the Holy Spirit at Pentecost.
+* §§3-4 define the result of that act: divine life, spiritual light, power, witness, union with Christ, and thus the Church as a new creation and renewed humanity.
+* §§5-8 move from essence to manifestation: the Church takes outward shape and grows through gifts of grace and means of grace; this yields ministry, order, organization, election, and right understanding of call and ordination.
+* §§9-13 widen the frame to the one Church on earth: unity, holiness, catholicity, and apostolicity despite plurality and historical divisions.
+* §14 addresses a foundational historical-theological controversy: whether the Church is bound to Jewish law and ceremonies. The answer secures Christian freedom from human ordinances as marks of the true Church.
+* §15 distinguishes the Church from the broader Kingdom of God while affirming that the Church is the Kingdom’s central life-current on earth and that its course ends in consummation at Christ’s return and judgment.
+* The appended question on free church property applies the ecclesiological principle in practical form: the Free Church as such cannot own property in the same way an institution can, though it may “possess all” spiritually.
+
+Detailed movement by paragraph
+
+* §1
+
+  * Thesis rejected: defining the Church as the group among whom the means of grace have achieved their intended result.
+  * Basis of rejection: this does not accord with Christian understanding of the Church’s origin or with the believer’s experience of incorporation into it.
+
+* §2
+
+  * Positive thesis: the Church came into being through a divine act belonging to God’s revelation and eternal counsel of salvation.
+  * Historical specification: this act is the sending of the Holy Spirit into the hearts of Jesus’ disciples at Pentecost.
+  * Interpretive support: the Pentecost signs reveal the Spirit’s power, illumination, and universal extension.
+
+* §3
+
+  * Content of the Pentecostal gift: divine life and spiritual light, joined with power for action and urge to witness.
+  * Christological grounding: both life and truth proceed from the exalted Christ.
+  * Ecclesiological consequence: the Spirit unites believers to Christ as His body under Him as Head.
+
+* §4
+
+  * Inference: therefore the Church is a new creation and renewed humanity bearing God’s image.
+  * Qualification: not a separate bodily humanity alongside the old.
+  * Earthly condition: renewal occurs amid fallen outward conditions, indwelling sin’s environment, and temporal death.
+
+* §5
+
+  * Manifestation: those who have received the Spirit take outward form and show vitality by using gifts and means of grace.
+  * Diversity within unity: same Spirit, different gifts, hence differentiated ministries.
+  * Normative ranking: among all activities, administration of Word and Sacraments is most significant and historically necessary.
+  * Ministerial conclusion: gifts enabling administration of means of grace, especially preaching, are most highly esteemed.
+
+* §6
+
+  * Practical inference: because work requires order and coherence, organization follows necessarily.
+  * Purpose: maximal effectiveness and fitting place for all members.
+
+* §7
+
+  * Relation of means of grace to the Church:
+  * the Word creates and preserves faith;
+  * Baptism admits believers into living fellowship with Christ and thus into His body;
+  * the Lord’s Supper sustains this fellowship.
+
+* §8
+
+  * Relation of the Church to the means of grace: the Church administers them through men it elects.
+  * Criterion of election: men gifted by the Lord for preaching and spiritual leadership.
+  * Definition of calls: inner call = divine gift; outer call = election by the Church to a definite field.
+  * Anti-hierarchical conclusion: election and ordination create no rank-difference, only distribution of labor.
+  * Ethical corollary: no priestly domination; all owe obedience of faith to the Lord’s Word.
+
+* §9
+
+  * Multiplication of congregations from the one first Church does not destroy unity.
+  * Terminological clarification: the New Testament uses the same term ecclesia for local congregation and the one Christian community; “church” must not suggest a different essence over against congregation.
+
+* §10
+
+  * Strong unity claim despite historical and confessional fragmentation.
+  * Invisible unity: one Spirit and one Lord.
+  * Visible unity: one Word, one Baptism, one Supper, common ecumenical confessions, and other marks.
+  * Historical example: Reformation as major division, yet not abolition of unity.
+  * Reason: the Reformation was rooted in the Christian foundation still present within Rome though buried under human ordinances.
+
+* §11
+
+  * Holiness of the Church grounded in the indwelling and work of the Holy Spirit.
+  * Double effect: believers are sanctified more deeply in union with Christ; apostates ripen toward unavoidable judgment through resisted Word and Spirit.
+  * Conclusion: hypocrites in the outward congregation do not nullify holiness.
+
+* §12
+
+  * Creedal confession of catholicity/universality.
+  * Meaning: the Spirit works for the salvation and eternal blessedness of all people.
+  * Missional trajectory: this continues until all who will let themselves be saved are saved.
+  * Eschatological completion: the race is restored; resisters of grace are excluded from eternal glory and the redeemed humanity.
+
+* §13
+
+  * Apostolicity defined as present identity with the apostolic Church.
+  * Ground: the whole existence and history of the Church are wrought and borne by the Holy Spirit.
+  * Service/criterion: maintained by preserving agreement with Holy New Testament Scripture, the complete and infallible witness from the beginning.
+
+* §14
+
+  * Historical necessity: the apostolic age had to decide whether the Church was merely a modified form of Judaism bound to the Mosaic law and Jewish ceremonies.
+  * Victory through struggle: the Church is a new society dependent only on faith in Christ and the new creation by the Spirit.
+  * Practical doctrinal result: Jewish ceremonial signs are not binding or necessary for salvation.
+  * Permanent principle: no human commands, laws, customs, or ceremonies may bind the Church or be made marks of the one true Church.
+
+* §15
+
+  * Question posed: is the Kingdom of God/heaven the same as the Church?
+  * First answer: the Church can only be the Kingdom of God on earth.
+  * Second answer: even on earth the Kingdom is broader than the Church.
+  * Broader scope includes: providential governance of humanity and effects of revelation in culture, learning, polity, and the changes brought by Christ’s return.
+  * Therefore: the Church is the central life-current within the Kingdom on earth.
+  * Final qualification: other operations of grace and power belong to the Kingdom but do not save unless they draw persons to the Son and His body.
+  * Consummation: the Church’s course ends at Christ’s return and the final judgment, when the Kingdom of glory replaces labor, struggle, and tribulation.
+
+* Appended property question
+
+  * Practical ecclesiological application.
+  * The Free Church as Church does not own property as a corporation in the straightforward institutional sense.
+  * Distinction remains between the Church and institutions such as bookstore, seminary, or deaconess home.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* §2
+
+  * Pentecost narrative: Acts 2:1-4.
+  * Wind, tongues of fire, and many languages explicitly echo Acts 2.
+
+* §3
+
+  * John 14-17 explicitly cited.
+  * Luke 24:49 explicitly cited.
+  * Acts 1:4-8 explicitly cited.
+  * “new, divine life” and “spiritual light” resonate with Johannine themes of life and light.
+  * “they become His body, and He their Head” echoes 1 Corinthians 12; Ephesians 1:22-23; 4:15-16; Colossians 1:18.
+
+* §4
+
+  * “new creation”: 2 Corinthians 5:17; Galatians 6:15.
+  * “bears God’s image”: Genesis 1:27; renewal imagery such as Colossians 3:10.
+  * “forgiveness of sins”: widespread New Testament and creedal formula.
+  * “sin in the flesh and in the world”: Romans 7-8; Johannine world-language.
+  * temporal death not unavoidable for all may faintly echo 1 Corinthians 15:51.
+
+* §5
+
+  * Diversity of gifts under one Spirit: 1 Corinthians 12; Romans 12.
+  * Word and Sacraments as central means of grace: broad New Testament sacramental and apostolic ministry framework.
+
+* §6
+
+  * Order in congregational life echoes 1 Corinthians 12-14, especially orderly conduct in the assembly.
+
+* §7
+
+  * Word creating faith: Romans 10:17.
+  * Baptism into Christ and His body: Romans 6:3-4; Galatians 3:27; 1 Corinthians 12:13.
+  * Lord’s Supper sustaining communion: 1 Corinthians 10:16-17; 11:23-26.
+
+* §8
+
+  * Election of ministers and gifted leadership: Acts 6; Acts 13; 1 Timothy 3; Titus 1; Ephesians 4:11.
+  * No rank difference / no lordship: Matthew 20:25-28; 1 Peter 5:3.
+  * “obedience of faith”: Romans 1:5; 16:26.
+
+* §9
+
+  * ecclesia for local and universal church throughout the New Testament.
+  * “belonging to the Lord” in kyriaké recalls the Lord’s Supper / Lord’s day adjective form.
+
+* §10
+
+  * “one Spirit ... one Lord ... one baptism” echoes Ephesians 4:4-6.
+  * Unity under doctrinal and sacramental marks resonates with Pauline unity texts.
+
+* §11
+
+  * Holiness through indwelling Spirit: 1 Corinthians 3:16-17; Ephesians 2:21-22.
+  * sanctification in deeper union with Christ: John 17:17-23; Pauline sanctification texts.
+  * apostates ripening for judgment under resisted Word: Hebrews 6:4-8; 10:26-31; 2 Corinthians 2:15-16 (in effect).
+  * hypocrites in outward fellowship not abolishing holiness recalls parables of wheat and tares and mixed body motifs.
+
+* §12
+
+  * Mission to all people: Matthew 28:19; 1 Timothy 2:4; 2 Peter 3:9.
+  * exclusion from eternal glory for those resisting grace: Matthew 25:31-46; Mark 16:16; Johannine judgment themes.
+
+* §13
+
+  * foundation of apostles and prophets: Ephesians 2:20.
+  * Scripture as normative witness: John 5:39; 2 Timothy 3:15-17 in broader doctrinal application.
+
+* §14
+
+  * Apostolic controversy over Jewish law: Acts 10-11; Acts 15; Galatians; Romans.
+  * new creation over circumcision and ceremonial observance: Galatians 5-6.
+  * rejection of human commandments as marks of true religion: Isaiah 29:13 as received in the Gospels; Colossians 2:20-23.
+
+* §15
+
+  * Kingdom of God / Kingdom of Heaven terminology from the Gospels.
+  * Christ’s return and final judgment: Matthew 25; 1 Corinthians 15; Revelation 20-22.
+  * “His body” again echoes Pauline ecclesiology.
+
+* Appended property statement
+
+  * “own nothing and yet own all” likely echoes 2 Corinthians 6:10: “having nothing, and yet possessing all things.”
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Warnings about apostasy and judgment must remain severe: “final and unavoidable judgment,” “excluded from God’s eternal kingdom of glory,” and similar formulations should not be softened.
+* The text’s authority comes from cumulative argument rather than emotional flourish. English should preserve this pressure by orderly syntax and firm connective logic.
+* Where Sverdrup states conclusions with “altsaa,” “følgelig,” “med Nødvendighed,” “uundgaaeligt,” the translation must keep the inevitability: “therefore,” “consequently,” “of necessity,” “unavoidably.”
+* Polemical claims about Rome, human ordinances, priestly domination, and Jewish ceremonial obligation must remain plain and unsmoothed.
+* Eschatological closure in §15 must retain solemn finality: labor, struggle, and tribulation are not mere “difficulties” but the Church’s present earthly condition before glory.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “skulde være” in §1 should remain “were to be” or “should be,” preserving hypothetical doctrinal framing.
+* “maa” in §15 must generally remain “must,” not “may” or “should.”
+* “kan” when used conceptually should remain “can,” especially in definitions and distinctions.
+* “kan ei” type negations, where present in force if not exact form, should remain strong impossibility.
+* “følger deraf med Nødvendighed” in §6 must be “it follows of necessity” or equivalent, not merely “it suggests.”
+* “blir det uundgaaeligt” in §14 must be “it becomes unavoidable,” not “natural” or “likely.”
+* “umuligt” in §14 must remain “impossible.”
+* “ikke ophører, indtil” in §12 must remain “does not cease until,” not “continues while.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+Preferred renderings for repeated terms
+
+* Menigheden
+
+  * usually: the Church
+  * when explicitly local/plural: congregation / congregations
+  * when contrast with universal visible fellowship matters: the Church / the Christian community
+
+* Naademidlerne
+
+  * the means of grace
+
+* Naadegaverne
+
+  * the gifts of grace
+  * where style requires: gifts
+
+* Aanden / Helligaanden
+
+  * the Spirit / the Holy Spirit
+
+* guddommeligt Liv
+
+  * divine life
+
+* aandeligt Lys
+
+  * spiritual light
+
+* Vidnesbyrd
+
+  * witness
+
+* Legeme / Hoved
+
+  * body / Head
+
+* ny Skabning
+
+  * new creation
+
+* Syndernes Forladelse
+
+  * forgiveness of sins
+
+* Livssamfund
+
+  * living fellowship
+
+* Nadvere
+
+  * the Lord’s Supper
+
+* indre Kald / ydre Kald
+
+  * inner call / outer call
+
+* Troens Lydighed
+
+  * obedience of faith
+
+* Kirkens Almindelighed
+
+  * the Church’s catholicity
+
+* Salighed
+
+  * blessedness
+  * where salvation is clearly intended in broader sense, retain contextually but avoid unnecessary variation
+
+* Apostolicitet
+
+  * apostolicity
+
+* Grundvold
+
+  * foundation
+
+* Menneskebud
+
+  * commandments of men / human ordinances
+  * use consistently within a given paragraph
+
+* Guds Rige
+
+  * Kingdom of God
+
+* Himmelriges Rige
+
+  * Kingdom of Heaven
+
+* Herlighedens Rige
+
+  * Kingdom of glory
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “bærer Guds Billede” must remain “bears the image of God.”
+* “omgivet af Synden i Kjødet og i Verden” must preserve the enveloping sense: “surrounded by sin in the flesh and in the world.”
+* “binder sin ydre Stikkelse” should preserve the image of taking visible form: “takes on its outward form” or “binds itself into outward form.”
+* “begravet under mange Menneskesætningers Grus” must keep the burial/rubble image.
+* “modnes ... til den endelige og uundgaaelige Dom” must preserve maturation toward judgment.
+* “den centrale Livsstrøm” must remain “the central current of life,” not “main influence.”
+* “drage dem til Sønnen og hans Legeme” should remain “draw them to the Son and His body.”
+* “afløser Menighedens Arbeide, Kamp og Trængsel” should retain replacement imagery: glory succeeds and displaces labor, struggle, tribulation.
+* “eie nogenting og dog eie alt” should preserve paradox of owning nothing yet possessing all.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* §§2-4 move from elevated dogmatic explanation to consoling description of divine life and renewal.
+* §§5-8 become more practical and regulative, with firmer ecclesial order.
+* §§10-11 juxtapose unity and holiness with division, hypocrisy, apostasy, and judgment.
+* §12 combines missionary breadth and hope with stern exclusion of those who resist grace.
+* §14 is sharply polemical in defense of evangelical freedom.
+* §15 broadens into a more majestic theological horizon and closes in eschatological solemnity.
+* The appended property note shifts into practical application with aphoristic paradox; the English should preserve that crispness.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many paragraphs are suitable for public doctrinal reading. English should preserve long-breathed syntax where reasoning accumulates.
+* Triads and paired formulations should remain audible: “divine life ... spiritual light ... power for action and urge to witness”; “labor, struggle, and tribulation.”
+* Repeated structural markers such as “for det første ... for det andet,” “trods ... trods ... trods,” and “ved ... ved ... og ved ...” should be maintained for spoken force.
+* Parentheses and philological insertions should remain compact so that the main clause still carries forward audibly.
+* The final quotation should sound like reported speech from an assembly, not like polished literary prose.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+Dogmatic Paragraphs on the Church.
+
+(Georg Sverdrup).
+[Manuscript 1907.]
+
+§ 1. To treat the doctrine of the Church after the doctrine of the means of grace, so that the Church should be “the community of people among whom the means of grace have had their intended effect” (Tønning), does not answer to the Christian understanding of the Church’s coming into being, nor either to the individual Christian’s experience of how he himself has been incorporated into the Church.
+
+§ 2. The Church came into being through a divine act, which is part of God’s revelation among men, and belongs to the eternal counsel of salvation which promises the race’s restoration from its fall. This divine act consists in the sending of the Holy Spirit into the hearts of Jesus’ disciples on the first (Jewish) Pentecost after Christ’s ascension. The signs which accompanied the Spirit’s sending are such as reveal what the Spirit’s working is like in character, and what it aims at. The storm signifies the mighty power, the tongues of fire the heavenly light, the foreign tongues the spread among all peoples.
+
+§ 3. The divine benefaction which the Spirit’s sending brings to Jesus’ believing disciples is, according to Jesus’ promise in the Gospel of John chapters 14-17, Luke 24:49, and Acts 1:4-8, and according to Christian experience of the Spirit’s working: new, divine life, and new, spiritual light joined with the power for action and urge to witness that belong thereto. Both the divine life, which according to its essence is love, and the spiritual light, which is truth, proceed from the exalted and glorified Jesus Christ, with whom the Spirit unites the believing disciples, so that they become His body, and He their Head.
+
+§ 4. The Church is thus, for Christian understanding, a new creation, a new race, which again bears the image of God; yet not a new bodily human race alongside the old, but a renewal of the old race through the forgiveness of sins and the life of the Holy Spirit in the hearts, in such a way that this community lives the renewed human life amid the outward conditions of the fallen race, surrounded by sin in the flesh and in the world, and with temporal death as the regular, though not unavoidable, issue from the present world.
+
+§ 5. The Church, which consists of those who have received the Holy Spirit, takes on its outward form, manifests itself, and shows itself effectual and capable of inward and outward growth through the use of the gifts of grace and the means of grace. All have received the same Spirit, but not therefore precisely the same gifts; therefore there arise several different branches of activity in the Church through such persons as God has given gifts, and the Church has received by its recognition of the gifts. Of all activity in the Church, the use of the means of grace, the Word and the Sacraments, is the most significant and, under all historical conditions, necessary for the Church’s preservation and growth; and for that reason the gifts of grace which fit men for the administration of the means of grace, and most particularly for the proclamation of God’s Word, are those which the Church esteems most highly and cultivates with particular care.
+
+§ 6. The Spirit’s working for the Church’s inward and outward growth thus takes place through the gifts of grace and the means of grace, and since order and coherence are needed in the Church’s work within its own midst and in and for the surrounding world, there follows from this of necessity the Church’s organization, in order that the work may become as effective as possible, and all members of the Church may find their place in it.
+
+§ 7. The relation of the means of grace to the Church consists in this, that by the Word faith in Jesus Christ is created and preserved; by Baptism the believing are received into living fellowship with Jesus Christ and thereby into His body, the Church; and by the Lord’s Supper this living fellowship between the Lord and the Church is sustained and preserved.
+
+§ 8. The relation of the Church to the means of grace consists in this, that the Church administers them through men whom it elects for that purpose; in this its election the Church seeks to find the men whom the Lord Himself has furnished with the gifts which are especially required for the proclamation of the Word and the Church’s spiritual guidance. The “inner call” to this work thus consists essentially in the gift of grace from God, whereas the “outer call” consists in the Church’s election to labor in the definite field. Since no difference of rank takes place among the Church’s members, the Church’s election or ordination cannot produce any such difference either, since the matter concerns only the distribution of work among the persons fitted for it. The less therefore Scripture permits the priests to rule in the Church, the more it holds true that all in the Church owe the obedience of faith to the Lord’s Word.
+
+§ 9. From these outward conditions of the Church it follows that from the one first Church many congregations spring forth, which nevertheless all together constitute only the one Christian community on earth, which began with the sending of the Holy Spirit, which community therefore also in the New Testament is called by the same name as the individual congregation, namely ecclesia, whereas we frequently give it the name Church (from kyriaké, an adjective with ecclesia understood, meaning “belonging to the Lord”). Yet this new name must not lead us to think that thereby there should be designated a community which stood above the congregation or had an essence different from it.
+
+§ 10. This Christian community on earth is, despite the division into many congregations, despite the various confessions, in part mutually contradictory, despite the many different ecclesiastical organizations, despite the theological controversies, still only one, in that the unity consists (invisibly) in the one Spirit and the one Lord with all the spiritual qualities that follow therefrom, and (visibly) in the one and the same Word of God, the one Baptism, the one Lord’s Supper, the common ecumenical confessions, and a multiplicity of less significant marks. The most important division of which the history of the Church reports is that which took place at the Reformation, in that the opposition to the Church’s secularization, which was present more or less strongly in the Church history of antiquity and the Middle Ages, became so strong that it brought about a breach which can be healed only slowly. But neither does this abolish the Church’s unity, because the Reformation has precisely its roots in the Christian foundation which was found within the Roman Church itself, though buried beneath the rubble of many human ordinances.
+
+§ 11. The one Christian community on earth is holy on account of the indwelling and working of the Holy Spirit therein, whereby the believing disciples of Jesus are sanctified in an ever more inward union with the Lord Jesus Christ, while those who have fallen away from the faith, through the working of the Word and the Spirit upon their resistant hearts, ripen unto the final and unavoidable judgment. Holiness is therefore not abolished by the participation of hypocrites in the outward Church.
+
+§ 12. In the Apostles’ Creed the Christians also confess faith in the Church’s catholicity, which consists in this, that the Holy Spirit works for the salvation and eternal blessedness of all men, and that this missionary activity does not cease until all who will let themselves be saved have been saved, and thus the work of the Son and the Spirit on earth has reached its perfect completion, in that the fallen human race has been restored from its fall, and those who, despite the Gospel’s offer, have resisted the Spirit and grace, are excluded from the kingdom of God’s eternal glory and from the redeemed human race.
+
+§ 13. The Church’s apostolicity, or the Christian conviction that the Church still is the same as that which in the New Testament period of revelation was built upon the foundation of the apostles and prophets, rests upon the truth that the Church’s coming into being and all its existence and history are wrought and borne by the Holy Spirit; and it is served by this, that the Church preserves agreement with the holy New Testament Scripture, which is the complete and infallible witness concerning the Church’s essence and reality from the beginning.
+
+§ 14. Since the Church has come into being through the Spirit’s sending into the hearts of Jesus’ earthly disciples, and these have Jesus’ command to make all peoples His disciples, it becomes unavoidable that the question should be raised and decided already in the apostolic age whether the Church is only a form of the Jewish religious community modified by faith in the Messiah who has come, and whether therefore the Church is bound by the Law that was given to the Jews, so that the Church can be known only by the observance of Jewish customs and ceremonies. And through the struggle which the deciding of this question costs, the great result is won for Christian faith, that the Church is a new community dependent only on faith in Jesus Christ and the new creation, which consists in the Spirit’s imparting of the new life, so that none of the signs and symbols, customs and ceremonies of the Jewish Law are binding upon the Church and of course neither necessary for salvation. This mighty victory over all demands for the observance of the Law has the abiding significance for the Church in all ages, that it is impossible to bind it by such regulations, laws, customs, ceremonies, and the like, as are commandments of men, and make them, or the observance of them, marks of the one true Church.
+
+§ 15. The question whether the Kingdom of God, or the Kingdom of Heaven, is the same as the Church, must first be answered to this effect, that the Church can only be the Kingdom of God on earth, and second, that even if we speak only of the Kingdom of God here on earth or in the present world, yet the concept of the Kingdom of God is broader than the concept of the Church, in that to it belongs not only the Spirit’s life in the hearts, which is the Church’s inward essence, but also the preparing and guiding divine government and governance of the human race, and doubtless also the manifold effects of divine revelation in the Gospel outside of and alongside the Church in the life of the human spirit, in art, science, literature, the constitution of the state, etc.; just as also the exceedingly great changes which take place in the world, and especially in the existence of the human race, at Christ’s return belong under the concept of the Kingdom of God. The relation between the Church and the Kingdom of God on earth must therefore be determined to this effect, that the Church is the central current of life in the Kingdom of God on earth, alongside of which divine operations of grace and power are perceived, which indeed belong to the Kingdom of God, but yet do not serve unto salvation for those who are touched by them, unless they become means to draw them to the Son and His body, which is the Church. The Church’s course is concluded and brought to completion at Christ’s return and the final judgment, when the Kingdom of glory with its rest and blessedness replaces the Church’s labor, struggle, and tribulation.
+
+Can the Lutheran Free Church Possess Property?
+
+At the Free Church’s annual meeting in 1897 the question whether the Free Church can possess property was, according to the report in “Foldebladet” for June 16, 1897, answered as follows:
+
+(Prof. Sverdrup said) “that the Free Church could own nothing and yet possess all things in a spiritual way. The Free Church can never own the bookstore any more than Augsburg Seminary or the Deaconess Home.”
