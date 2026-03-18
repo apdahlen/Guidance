@@ -1,0 +1,417 @@
+STEP 1: HAZARD IDENTIFICATION
+
+* Lexical Hazards
+
+* Frikirkens: not merely “the Free Church’s” in a casual sense, but the specific ecclesial body and its governing principle.
+
+* Arbeidsmaade: more than “method”; in this context “mode of working,” “manner of operation,” or “way of proceeding” has institutional force.
+
+* Imødegaaelse: not only “response,” but a deliberate rebuttal or refutation.
+
+* Paastand: “assertion” or “claim,” with polemical weight.
+
+* Forfatning: “constitution” or “polity,” not merely “organization.”
+
+* Menigheden: a key theological term. Depending on context it may mean “the congregation” or “the church/congregation as assembled local body.” It must be rendered consistently enough to preserve ecclesiological argument.
+
+* guddommelige Orden: “divine order,” not just “good arrangement.”
+
+* kristelige Religion: older confessional phrasing; “the Christian religion” is correct, but the older doctrinal tone should remain.
+
+* Myndighed: a central term. It can mean “authority,” but in some places carries the sense of rightful jurisdiction or governing competence.
+
+* kirkelig Ret: “ecclesiastical right,” that is, right recognized within the church, not merely legal right.
+
+* Fordring paa dens Lydighed og Underkastelse: not just “expect obedience,” but a claim demanding obedience and submission.
+
+* bibelsk begrundet og berettiget: “biblically grounded and justified,” preserving both foundation and legitimacy.
+
+* representativt System: “representative system,” a political term imported polemically into church polity.
+
+* høiere Enhed: “higher unity,” not merely greater efficiency or broader organization.
+
+* Kirkesamfund: “church body,” “church fellowship,” or “denomination.” Here it denotes an organized supra-congregational body.
+
+* Øvrighed: extremely important. In older usage, “authority” or “governing power,” often with overtones of magistracy/ruling authority. Must not be flattened.
+
+* lystre: “obey” or “hearken to,” with stronger force than simple compliance.
+
+* Anarkisme / anarkistiske Principer: polemical accusation, to be preserved without modernization.
+
+* Brebreidelse mod Guds Ord selv: “reproach against the Word of God itself,” not merely criticism.
+
+* finde Bund og Grund: idiomatically “reach bedrock” or “find the bottom and ground” of the dispute; means locate the real basis of the discussion.
+
+* nytter ikke et Gran: idiomatic intensifier; “not in the least,” literally “not a grain.”
+
+* tænkende Mænd: “thinking men,” historically gendered phrasing of the source and should not be neutralized.
+
+* heldigt Forbillede: “suitable” or “happy model”; here “suitable pattern” best preserves polemical force.
+
+* drive Minoriteten ud: “drive out the minority,” likely ecclesiastical exclusion rather than merely parliamentary defeat.
+
+* Stemmeretten: “the right to vote.”
+
+* Den Forenede Kirke: likely proper-name institutional reference, “the United Church.”
+
+* Pavekirken: “the Papal Church,” a confessional Protestant polemical term, not neutral “Roman Catholic Church.”
+
+* saaledes skal det ikke være hos eder: biblical quotation in older diction; should be rendered with modern pronouns but retain gravity.
+
+* Lutherdom: “Lutheranism” or “the Lutheran faith/confession.” Here “Lutheranism” is likely best.
+
+* Skriften er vor eneste Regel og Rettesnor: confessional formula; “Scripture is our only rule and guide” or “rule and norm.”
+
+* hævder: “maintain,” “uphold,” “assert.”
+
+* skjelde os ud: “abuse us,” “revile us,” or “berate us,” stronger than “call us.”
+
+* afgjøre alle sine Sager selv: “decide all its own matters itself,” with emphasis on self-government.
+
+* erkjende / anerkjender: “acknowledge” or “recognize,” with doctrinal seriousness.
+
+* den hellige Skrifts afgjørende Myndighed: “the decisive authority of Holy Scripture,” not merely importance.
+
+* Ordning: “ordering,” “arrangement,” “polity.”
+
+* rent frivillige Møder: “purely voluntary meetings,” with stress on absence of coercion.
+
+* øve Indflydelse paa Sagernes Gang: “exercise influence on the course of affairs.”
+
+* Samfund: not generic “society” but organized church associations/denominational bodies.
+
+* Legeme: a major Pauline theological term, “body.”
+
+* skriftmæssig Betydning: “in the scriptural sense,” not merely biblically inspired language.
+
+* sammenbundne ved Kontrakt: “bound together by contract,” sharply distinguishing covenantal-organic from contractual-associational unity.
+
+* stipuleret: “stipulated,” legal-contractual diction that should remain.
+
+* Tvang: “compulsion,” “coercion.”
+
+* Syntactic Hazards
+
+* Very long periodic sentences accumulate qualification, rebuttal, and doctrinal conclusion; breaking them into short modern prose would weaken the polemical pressure.
+
+* Parenthetical clauses and appositions carry argumentative precision and should remain integrated rather than detached.
+
+* Repeated conditional structures (“Kan J. A. S. ikke bevise … saa …”) are essential to the logical force.
+
+* Semicolon and dash pivots structure emphasis and escalation; these should be preserved where English can bear them.
+
+* Parallel contrasts between Scripture and politics, congregation and supra-congregational bodies, freedom and compulsion must remain sharply balanced.
+
+* Biblical quotation is embedded into argument rather than ornamentally added; its placement matters.
+
+* The rhetorical question at the close is not exploratory but accusatory and should retain its edge.
+
+* Theological Hazards
+
+* The entire passage depends on a doctrine of congregational authority under Scripture. Any weakening of “authority,” “obedience,” “submission,” or “freedom” would distort the ecclesiology.
+
+* Menigheden as “body” invokes Pauline ecclesiology; this must not be reduced to organizational language.
+
+* The contrast between what Scripture institutes and what contract creates is theological, not merely administrative.
+
+* “Holy Scripture’s decisive authority” is a Reformation principle and must remain explicit.
+
+* The citation “thus shall it not be among you” invokes Christ’s teaching on non-domineering rule among disciples; that theological application must remain visible.
+
+* “Word of God” versus human church arrangements is the doctrinal ground of the entire rebuttal.
+
+* Voice Hazards
+
+* The tone is stern, reasoned, polemical, and confessional; smoothing it into neutral academic prose would erase the author.
+
+* Repeated direct naming of J. A. S. creates forensic confrontation and should remain.
+
+* The author speaks with restrained but unmistakable indignation; terms like “not in the least” and “abuse us as anarchists” should preserve this.
+
+* The prose addresses public controversy, yet with doctrinal seriousness rather than journalistic lightness.
+
+* The cadence often rises from argument to admonition; that cumulative moral pressure must remain.
+
+STEP 2: IDIOM ANALYSIS
+
+* Frikirkens egentlige Hovedprincip
+
+* Literally “the Free Church’s actual main principle.” The phrase emphasizes foundational principle, not one preference among many. “The Free Church’s proper fundamental principle” or “true governing principle” would fit.
+
+* den rette guddommelige Orden
+
+* Means the proper divine order established by God. “Order” is ecclesiological and theological, not administrative neatness.
+
+* sætte sig over Menigheden
+
+* Idiomatically “set oneself above the congregation,” that is, claim superiority or jurisdiction over it.
+
+* gjøre Fordring paa dens Lydighed og Underkastelse
+
+* Means to lay claim to its obedience and submission. Literal translation is workable, but the juridical force must be preserved.
+
+* finde Bund og Grund
+
+* An idiom meaning to get to the real bottom of the matter, the ultimate basis on which the whole discussion rests.
+
+* det nytter ikke det allermindste / det nytter ikke et Gran
+
+* Strong colloquial intensifiers meaning “it does not help in the least.” The repetition contributes to polemical drive.
+
+* saaledes skal det ikke være hos eder
+
+* Clear biblical allusion to Christ’s words in the Synoptic Gospels about greatness and lordship among his followers (Matthew 20:25-26; Mark 10:42-43; Luke 22:25-26). A natural English equivalent is “it shall not be so among you” or, with modern pronouns as requested, “it shall not be so among you.” This preserves the biblical cadence without archaic second-person pronouns.
+
+* Skriften er vor eneste Regel og Rettesnor
+
+* A confessional Protestant formula. “Scripture is our only rule and guide” is idiomatic; “rule and norm” is more technical but slightly less natural. “Guide” better preserves sermonic intelligibility.
+
+* skjelde os ud for Anarkister
+
+* Means not simply “call us anarchists,” but “berate/revile us as anarchists.” Literal softening would diminish the public polemical force.
+
+* Guds Ord er vor Rettesnor
+
+* “The Word of God is our guide.” This echoes Protestant scriptural principle and should sound doctrinally weighty.
+
+* paa Skriftens Grund hævder Menighedens Frihed og Myndighed
+
+* Means to maintain, on the ground of Scripture, the congregation’s freedom and authority. This is both theological and juridical.
+
+* øve Indflydelse paa Sagernes Gang
+
+* Means to exert influence on how matters proceed. The phrase is institutional and should not become vague.
+
+* Menigheden er et Legeme
+
+* Strong Pauline allusion, especially 1 Corinthians 12 and Romans 12. “The congregation is a body” must remain metaphorical and theological.
+
+* ikke et Legeme i skriftmæssig Betydning
+
+* Means not a body in the scriptural sense. This is not a casual metaphor but an argument about what Scripture recognizes as an organic church body.
+
+* sammenbundne ved Kontrakt
+
+* A deliberate contrast to organic ecclesial unity. “Bound together by contract” is both literal and rhetorically effective.
+
+* Frikirkens Kontrakt om Frihed ligesaa god som den Forenede Kirkes Kontrakt om Tvang
+
+* Rhetorical formulation contrasting contractual freedom and contractual compulsion. Literal translation is possible and should be kept because the contrast is central.
+
+* King James-style natural equivalents
+
+* “it shall not be so among you” is the nearest natural English biblical rendering for “saaledes skal det ikke være hos eder.”
+
+* “the Word of God” and “Holy Scripture” already have established English theological equivalents and should be retained.
+
+* “body” for Legeme preserves Pauline resonance directly.
+
+* Expressions where literal translation could obscure force
+
+* “nytter ikke et Gran” would sound odd as “does not help a grain”; it should become “does not help in the least.”
+
+* “finde Bund og Grund” should not be rendered literally; “get to the bottom and ground” is awkward. Better: “Here the discussion must seek its true ground” or “must get to the bottom of the matter.”
+
+* “skjelde os ud” should not be reduced to “describe us”; it requires a stronger polemical verb.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis
+
+* The Free Church’s fundamental principle is that the congregation is the proper divine order within the Christian religion.
+
+* First supporting claim
+
+* This principle implies that no authority has ecclesiastical right to place itself above the congregation or demand its obedience and submission.
+
+* Ground of legitimacy
+
+* The author asserts that this principle is biblically grounded and justified.
+
+* Challenge to the opponent
+
+* J. A. S. must prove from the New Testament that congregations are obligated to adopt a representative system producing a higher unity in a church body elevated above them.
+
+* Consequence if opponent fails
+
+* If he cannot prove this from the New Testament, then his accusations of anarchism amount in reality to reproach against the Word of God itself, because Scripture recognizes no authority over the congregations.
+
+* Methodological pivot
+
+* The dispute must be settled at this foundational level. Political analogies are declared irrelevant.
+
+* Rebuttal of political analogy
+
+* Constitutional states are imperfect; politics is not a suitable model for the church.
+
+* Even states do not treat minorities as some churches do.
+
+* Most decisively, Christ himself forbids this kind of rule among his disciples.
+
+* Confessional pivot
+
+* If there is to be any Lutheranism among them, they must return to the Lutheran principle that Scripture alone is the rule and guide.
+
+* Defensive conclusion
+
+* As long as they maintain on scriptural grounds the freedom and authority of the congregation, no Lutheran has the right to revile them as anarchists.
+
+* Renewed scriptural challenge
+
+* The opponent must show from the Word that the church must work through annual meetings that coerce or expel congregations.
+
+* Positive ecclesiological assertion
+
+* According to the Word of God, congregations are fully entitled to decide all their matters themselves, without annual meetings or association officials deciding for them.
+
+* Conditional opening for further discussion
+
+* If J. A. S. acknowledges this position as biblical and Lutheran, then discussion may proceed to how congregations cooperate.
+
+* Priority clarification
+
+* First it must be clarified whether J. A. S. recognizes the decisive authority of Holy Scripture in this question.
+
+* Practical advantage claim
+
+* The Free Church’s arrangement of purely voluntary meetings gives congregations better opportunity to influence the course of affairs than older church bodies do.
+
+* Final distinction and climax
+
+* J. A. S. assumes the same rule applies to supra-congregational associations as to congregations; the author denies this.
+
+* A congregation is a body.
+
+* Several congregations organized into an association are not a body in the scriptural sense.
+
+* They are joined only by contract and bound only to what the contract stipulates.
+
+* Therefore the final rhetorical question exposes the arbitrariness of privileging a contract of compulsion over a contract of freedom.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “saaledes skal det ikke være hos eder”
+
+* Likely Matthew 20:26 and Mark 10:43, with resonance also from Luke 22:25-26. Context: Christ forbids worldly patterns of dominion among his disciples.
+
+* “Skriften er vor eneste Regel og Rettesnor” / “Guds Ord er vor Rettesnor” / “den hellige Skrifts afgjørende Myndighed”
+
+* These are not direct quotations but strong Reformation-era scriptural principle language, echoing Lutheran sola scriptura commitments.
+
+* “Menigheden er et Legeme”
+
+* Clear Pauline echo, especially 1 Corinthians 12:12-27; Romans 12:4-5; Ephesians 4:4, 15-16; Colossians 1:18, though the immediate application is to the local congregation.
+
+* “Lydighed og Underkastelse” under illegitimate ecclesiastical authority
+
+* Resonates with New Testament language of submission and obedience, but here used polemically to deny such submission to supra-congregational structures unless Scripture commands it.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must retain a tone of disciplined controversy rather than detached analysis.
+* Charges of anarchism must feel like serious confessional accusations, not casual labels.
+* The rebuttal of political analogy must remain sharp and cumulative.
+* Christ’s saying must land as the decisive blow in the argument.
+* The final rhetorical question must preserve its cutting force.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* skal bevise: “must prove,” not merely “should prove.”
+* er pligtige til: “are obliged to,” not “tend to” or “are expected to.”
+* de er pligtige til at lystre: “they are obliged to obey.”
+* maa søge at finde: “must seek to find.”
+* faar vi komme tilbage: in context, “we must return,” not merely “we get to return.”
+* maa arbeide gjennem: “must work through.”
+* vi er overbeviste: here “we will be convinced,” not merely emotionally persuaded.
+* fuldt berettiget til: “fully entitled to.”
+* maa nødvendigvis først faa det opklaret: “must necessarily first get it clarified.”
+* maa ogsaa gjælde: “must also apply.”
+* er kun bundne til det som er bestemt og stipuleret i Kontrakten: “are bound only to that which is determined and stipulated in the contract.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menigheden = congregation
+
+* Chosen because the argument is about the local gathered church as the proper divine order. “Church” would become ambiguous when contrasted with church bodies.
+
+* Myndighed = authority
+
+* Where the sense is jurisdictional, “authority” still best carries the range, especially when modified by “decisive” or contrasted with obedience.
+
+* Øvrighed = authority
+
+* In a few contexts “ruling authority” might sharpen the force, but consistency favors “authority,” with context carrying the rest.
+
+* Guds Ord = the Word of God
+
+* den hellige Skrift / Skriften = Holy Scripture / Scripture
+
+* Frihed = freedom
+
+* Tvang = compulsion
+
+* Legeme = body
+
+* Samfund / Kirkesamfund = association / church body
+
+* Because the author contrasts local congregation with larger contractual associations. “Denomination” is possible, but “association” or “church body” preserves institutional and contractual nuance.
+
+* Aarsmøde = annual meeting
+
+* Synoder = synods
+
+* Lydighed og Underkastelse = obedience and submission
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “The congregation is a body” must remain a metaphor, not be paraphrased as “a unified organism” or “a functioning unit.”
+* “Elevated above them” preserves the vertical metaphor of authority.
+* “Bound together by contract” should remain concrete and legal, preserving the contrast with organic body imagery.
+* The contrast freedom/compulsion should stay vivid and unabstracted.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening sections: doctrinal assertion and measured challenge.
+* Middle sections: sharper polemical rebuttal, especially against political analogy and coercive church structures.
+* Confessional center: solemn appeal to Lutheran principle and Scripture.
+* Later sections: practical clarification about cooperation.
+* Ending: incisive, almost prosecutorial rhetorical question. These shifts should remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentences should often remain long where the Norwegian accumulates force by sequence.
+* Semicolons and dashes should be used where helpful to preserve public-proclamation rhythm.
+* The repeated address to J. A. S. should sound like formal public disputation.
+* Biblical quotation should stand out as climactic oral emphasis.
+* The final question should be left with full rhetorical weight.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Free Church’s Mode of Working.
+
+[Editorial article in “Fodfehodet” for September 22, 1897.
+A rebuttal of J. A. S.’s assertion that the Free Church’s constitution is anarchistic.]
+
+The Free Church’s proper fundamental principle is this: that the congregation is the proper divine order within the Christian religion. This principle, which includes within itself that there is no authority which, by ecclesiastical right, may set itself above the congregation or lay claim to its obedience and submission, is, so far as we can see, biblically grounded and justified.
+
+We therefore demand first and foremost of J. A. S. that he must prove from the New Testament that the congregations are obliged to introduce the “representative system,” in order thereby to bring forth a higher unity of the congregations in a church or church body, which is then elevated above them and whose decisions they are obliged to obey, because these church bodies are “authority” over the congregation.
+
+If J. A. S. cannot prove from the New Testament that the congregations are obliged to have synods or associations or annual meetings as authority over themselves and obey their decisions, then all his talk about anarchism and anarchistic principles becomes in reality only a reproach against the Word of God itself, which, so far as we can see, recognizes no authority over the congregations.
+
+It is here that this discussion must seek to find its true ground. It does not help in the least that J. A. S. shows that our constitutional forms of state have introduced a representative system and much compulsion in connection with it.
+
+It does not help a grain. For, in the first place, it is now surely generally acknowledged by all thinking men that there is much imperfection in politics, and that it is not at all a suitable model for the church. Next, there is no state that can drive out the minority or take the right to vote from its representatives, as the United Church, like the Papal Church, is accustomed to do. But finally—and this is absolutely decisive—the Savior himself says definitely and incontrovertibly that “it shall not be so among you.”*
+
+If there is to be any Lutheranism among us, then we must return to the Lutheran principle that Scripture is our only rule and guide. And so long as we, on the ground of Scripture, maintain the congregation’s freedom and authority, then no Lutheran has the right to revile us as anarchists and anarchistic principles.
+
+The example of the state is not binding for the church. The Word of God is our guide. Show us from the Word that the church must work through annual meetings which coerce or expel the congregations, and we will be convinced.
+
+We maintain that according to the Word of God the congregations are fully entitled to decide all their own matters themselves, without an annual meeting or certain association officials deciding them for them.
+
+If now J. A. S. will acknowledge that this our position is the biblical and Lutheran one, then there can further be discussion of how the congregations should cooperate. We must necessarily first get it clarified whether J. A. S. recognizes the decisive authority of Holy Scripture in this question.
+
+Nor is it difficult to show that by the Free Church’s arrangement of purely voluntary meetings, without compulsion upon the congregations, the congregations have a far better opportunity to exercise influence upon the course of affairs than they have in the old associations.
+
+And when J. A. S. means that the same rule that applies to associations must also apply to congregations, then it is precisely this that we deny and reject. The congregation is a body; 3 or 4 congregations, which organize an association, are not a body in the scriptural sense.* They are only bound together by contract, and they are bound only to that which is determined and stipulated in the contract. Why then is not the Free Church’s contract of freedom just as good as the United Church’s contract of compulsion?
+
+[Georg Sverdrup.]

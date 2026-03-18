@@ -1,0 +1,351 @@
+STEP 1: HAZARD IDENTIFICATION
+
+* Lexical Hazards
+
+* "Udtrædelse" must be rendered carefully as "withdrawal," "secession," or "going out," depending on whether the author is naming the issue in abstract form or echoing Wright’s phrase "Gaa ud." It carries ecclesial and disciplinary force, not mere physical departure.
+
+* "Samfund" is hazardous because in this setting it does not simply mean "society" in the modern secular sense. It refers to an organized church body, synodical fellowship, or ecclesiastical association. Because the polemic partly turns on the ambiguity between congregation and larger church organization, the English rendering must preserve that tension. I retain "association" inside quotation marks where Sverdrup is discussing the term polemically, and "church body" only where explanatory force is unavoidable.
+
+* "Menighed" must remain "congregation," not the vaguer "community," because the distinction between local congregation and larger organization is central to the argument.
+
+* "Legemet" in "ikke blot i Aanden men ogsaa i Legemet" is doctrinally charged. "Body" is the proper rendering, preserving Pauline and ecclesiological resonance.
+
+* "ypperstepræstelige Bøn" should be translated as "the so-called High-Priestly Prayer." This preserves the theological register and the mildly distancing "so-called."
+
+* "udvortes" and "indre" must remain "outward/external" and "inward/internal," since Sverdrup is distinguishing visible organization from spiritual unity.
+
+* "herskende" in "herskende Kirkesamfund" is not merely "large" or "established" but "ruling" or "dominant." It implies governing power over congregations.
+
+* "Samfundsbaandet" is metaphorical and ecclesiological: "the bond of the association" or "associational bond." It must not be flattened into "membership rules."
+
+* "Samvittighedssag" means a matter binding conscience, not simply a strongly held opinion.
+
+* "sønderslides" has violent force: "torn asunder" or "rent apart," stronger than "divided."
+
+* "sideordnet" in the ecclesiological argument means placed on an equal footing, coordinate, not just "mentioned together."
+
+* "hvor Skoen trykker" is idiomatic; literally "where the shoe pinches," meaning where the real pressure or grievance lies.
+
+* "den rent udvortes Side af Sagen" means the purely external side of the matter, i.e., organizational consequences as distinct from spiritual or doctrinal ones.
+
+* Wright’s quoted diction includes older churchly terms such as "tugte," "Levnet," "Vildfarelse," "Hedning eller Tolder," and "Guds Aasyn." These require exact theological equivalents: "discipline/chasten," "conduct," "error," "heathen or publican/tax collector," and "before God’s face/sight."
+
+* Syntactic Hazards
+
+* Sverdrup writes in long, cumulative argumentative sentences with semicolon pivots and rhetorical escalation. These must not be broken into short, modern sentences, or the sermonic and editorial force will weaken.
+
+* The article alternates between summary of Wright’s words, quotation, and rebuttal. The translation must preserve these transitions clearly so that the reader can follow who is speaking.
+
+* The rhetorical questions come in sequence and build pressure. Their order and cadence must remain intact.
+
+* Parenthetical qualifications such as "den saakaldte" and "ja saa spørges det sandelig" are structurally important; they signal polemical reserve and then sharpened conclusion.
+
+* The juxtaposition of "indre og ydre Enhed" and later "udvortes Side" must remain verbally visible so the conceptual thread is not lost.
+
+* The editorial "vi" is part of the genre and voice. It must stay as "we," not be individualized into "I."
+
+* Theological Hazards
+
+* John 17 and the doctrine of the Church’s unity are central. The translation must preserve that the issue is not merely institutional policy but the interpretation of Christ’s prayer and the nature of ecclesial unity.
+
+* The distinction between the unity of the Church in spirit and in body must be preserved without collapsing it into either invisible-only unity or mere outward uniformity.
+
+* The argument about the legitimacy of multiple congregations versus the danger of competing supra-congregational bodies is doctrinally and historically specific; it must remain sharp.
+
+* "the one true Church" is implicit in "den ene rette Kirke." This must retain confessional exclusivity.
+
+* The conscience language around remaining with or withdrawing from an association is theologically weighty and cannot be softened into preference or prudence.
+
+* The issue of whether an organization over congregations serves or hinders unity is a church-order question treated as spiritually serious; the translation must preserve that gravity.
+
+* Voice Hazards
+
+* Sverdrup’s tone is controlled, incisive, and polemical without ranting. Over-smoothing would erase the editorial authority.
+
+* He uses understatement before decisive thrusts: "Hertil vil vi kun bemerke" introduces a serious doctrinal objection. That restrained form must remain.
+
+* The repeated rhetorical questions are not casual inquiries but instruments of argument addressed to the reader’s judgment and conscience.
+
+* The quotation marks around "Samfund" are polemical; they signal contest over the category itself. They should remain.
+
+* The final remarks about congregations knowing "what they must do" and having no anxiety about the outward side of the matter carry calm firmness. That composure must be preserved.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Gaa ud" / "gaa ud igjen"
+
+* Literally "go out" or "go out again."
+
+* In context it means withdraw, separate, or secede from an ecclesiastical body.
+
+* Because Wright himself uses the phrase as a slogan-like heading, the translation should preserve "go out" in quotation marks when referring to his wording, while explanatory prose may use "withdraw."
+
+* Literal preservation is important because Sverdrup’s article is answering that exact phrase.
+
+* "ikke blot i Aanden men ogsaa i Legemet"
+
+* This means "not only in the Spirit but also in the body."
+
+* It echoes Pauline ecclesiology and the doctrine of visible as well as spiritual unity.
+
+* "In spirit" and "in body" is the natural English form; capitalizing Spirit would be interpretive, so "in spirit" is safer unless the source explicitly personifies the Holy Spirit.
+
+* "den saakaldte ypperstepræstelige Bøn"
+
+* Refers to John 17, traditionally called Christ’s High-Priestly Prayer.
+
+* The phrase is partly descriptive and partly polemically distancing through "so-called."
+
+* A natural equivalent is "the so-called High-Priestly Prayer."
+
+* "den ene rette Kirke"
+
+* Means "the one true Church."
+
+* This is confessional and exclusive language, not merely "a correct church."
+
+* The phrase must retain its dogmatic sharpness.
+
+* "strammer Samfundsbaandet"
+
+* Literally "tighten the bond of the association."
+
+* This uses the image of a binding tie or ligament to describe stronger institutional control.
+
+* It should remain metaphorical, not reduced to bureaucratic language.
+
+* "gjør det til en saadan Samvittighedssag"
+
+* Means to make it into such a matter of conscience.
+
+* The implication is that institutional attachment is being invested with spiritual-moral necessity.
+
+* "Matter of conscience" is the natural and necessary English equivalent.
+
+* "hvor Skoen trykker"
+
+* Idiomatically, "where the shoe pinches."
+
+* Meaning: where the real burden, pain, or practical pressure lies.
+
+* The idiom has an exact established English equivalent, so it should be retained.
+
+* Biblical allusions and possible KJV-adjacent equivalents
+
+* John 17 is explicitly cited; "that they may be one" forms the doctrinal backdrop, even though not quoted here.
+
+* 1 Corinthians is cited as support for unity in the body; the likely background includes the one-body imagery of 1 Corinthians 12.
+
+* Wright’s quoted language includes Matthew 18 and "as a heathen and a publican" / modernized "tax collector." Since the final translation here mainly translates Sverdrup’s article, those allusions matter chiefly inside the quoted fragments.
+
+* Because the instructions call for modern pronouns and not archaic Bible diction, biblical resonance should come through cadence and exact terms rather than KJV archaism.
+
+* Expressions where literal translation would obscure force
+
+* "Samfund" cannot simply become "society" throughout; that would secularize the whole controversy.
+
+* "udvortes" should not become merely "practical" because the contrast is theological: outward versus inward.
+
+* "sideordnet" should not become "associated with"; the point is doctrinal equivalence.
+
+* "sønderslides" should not be weakened to "experience tension"; it means violent rending.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening editorial frame
+
+* The editors state that they reprinted Pastor A. Wright’s piece in the previous issue.
+
+* They urge readers to reread it.
+
+* They immediately state a twofold judgment: it contains much that is good if applied to withdrawal from a congregation, but it is exceedingly weak if applied to withdrawal from an "association."
+
+* Purpose statement
+
+* They will make a few remarks intended to set Christian people on the right track in the matter.
+
+* Citation of Wright’s premise
+
+* Wright argues that one should not leave "our association" because God wills His Church to be one, not only in spirit but also in body, and that personal frailties do not nullify that divine will.
+
+* Sverdrup’s interpretive rebuttal
+
+* He infers that Wright appears to understand John 17 as prayer for an outward church organization.
+
+* He sharpens that inference by suggesting that such a view would see Christ’s prayer fulfilled when all congregations join one and the same outward organization, perhaps preferably the United Church.
+
+* Central question introduced
+
+* Does the formation of so-called "associations" promote or hinder the Church’s inward and outward unity?
+
+* Scriptural-historical premise
+
+* The New Testament shows that the Church’s unity is not hindered by the existence of many congregations.
+
+* Jesus and the Apostles did not oppose the lawful multiplication of congregations.
+
+* Polemical contrast
+
+* But the formation of association after association, and association against association, each claiming to be the one true Church, may hinder unity.
+
+* This develops into a skeptical question whether such ruling church bodies really belonged to the plan of Jesus and the Apostles.
+
+* Conditional doctrinal inference
+
+* If the original and most unity-serving order is the freedom and independence of congregations without a ruling association over them, then those who tighten the associational bond most and make it a matter of conscience may not be serving unity best.
+
+* Practical corroboration
+
+* Everyone knows that congregations are split and torn asunder for the sake of the so-called associations.
+
+* Therefore the practical fruits cast doubt on the claim that these bodies promote unity.
+
+* Second citation from Wright
+
+* Wright says one has the right to leave a congregation or association only under certain conditions.
+
+* Concise rebuttal to the equivalence
+
+* Sverdrup says only this: to place congregation and association absolutely side by side seems either to set the congregation too low or the association too high.
+
+* Concluding editorial restraint and firmness
+
+* The paper declines to enumerate the many grounds for leaving the United Church.
+
+* It expresses confidence that congregations know where the pressure lies.
+
+* If some feel they cannot in good conscience stand with the association, they know what they are to do.
+
+* The paper has no anxiety regarding the purely outward side of the matter.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Gud vil, at hans Kirke skal være en ikke blot i Aanden men ogsaa i Legemet. Joh. 17. 1 Kor."
+
+* Explicit biblical references: John 17 and 1 Corinthians.
+
+* Likely echoes John 17:21 and related verses on the unity of believers.
+
+* Likely echoes 1 Corinthians 12 on the Church as one body with many members.
+
+* "den saakaldte ypperstepræstelige Bøn"
+
+* Clear reference to John 17 as Christ’s High-Priestly Prayer.
+
+* "den ene rette Kirke"
+
+* Not a direct quotation, but resonates with confessional formulations about the true Church.
+
+* In the larger quoted Wright material included in the source text, several additional biblical echoes appear:
+
+* Matthew 18 is explicitly cited regarding discipline.
+
+* "Hedning eller Tolder" echoes Matthew 18:17.
+
+* "Guds Bygning" echoes 1 Corinthians 3:9.
+
+* These are not Sverdrup’s own main scriptural appeals in this article, but they form part of the argument he is answering.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve Sverdrup’s controlled severity.
+* His questions are edged, not exploratory.
+* His conditional formulation "Men dersom det skulde være saa" should carry restrained but real force: he is not uncertain in a weak sense; he is tightening the argument toward a conclusion.
+* The phrase "ja saa spørges det sandelig" must retain emphasis. "then it surely must be asked" preserves the pressure without theatricality.
+* "Vi ved jo alle" should sound like an appeal to undeniable common observation, not casual conversation.
+* The closing refusal to worry about the outward aspect is an act of composure and conviction; it should not sound flippant.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "vilde gjerne bede mange læse det op igjen" carries editorial desire and exhortation: "would gladly ask many to read it again."
+* "bør" in Wright’s quoted framing remains "ought" or "should," not the weaker "might want to."
+* "vil" in "Gud vil" must remain strong: "God wills," not merely "God wants."
+* "kan" in "ikke med god Samvittighed kan staa med" should remain "cannot" in the final moral sense, not merely "do not feel comfortable."
+* "skal gjøre" at the end should remain "what they are to do" or "what they must do," depending on context. Here "what they are to do" preserves direction without overtranslation, but the conscience context may justify "must do." In the final translation I use "what they are to do" to preserve the original composure.
+* "ønsker ikke at udtale sig" is not inability but deliberate restraint: "does not wish to pronounce on" or "does not wish to speak on."
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kirke" = "Church"
+
+* "Menighed" = "congregation"
+
+* "Samfund" = "association" when polemically marked, with quotation marks preserved
+
+* "Enhed" = "unity"
+
+* "indre" = "inward"
+
+* "ydre / udvortes" = "outward / external"
+
+* "Samvittighed" = "conscience"
+
+* "rette Kirke" = "true Church"
+
+* "Frihed og Selvstændighed" = "freedom and independence"
+
+* "herskende" = "ruling"
+
+* These terms should remain stable throughout to preserve conceptual clarity.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Samfundsbaandet" retains its metaphor as a bond or tie.
+* "hvor Skoen trykker" should remain "where the shoe pinches."
+* "splittes og sønderslides" keeps the image of tearing and rending; "split and torn asunder" preserves the violence.
+* The article’s architecture depends less on ornamental metaphor than on ecclesial images of body, bond, and tearing. These must remain vivid.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The article begins with measured acknowledgment: Wright’s piece contains much that is good in one application.
+* It then moves into sharp critique when applied to "association."
+* The middle sections intensify through rhetorical questions and doctrinal testing.
+* The close returns to measured editorial restraint: the paper will not now enumerate all reasons for withdrawal.
+* That restraint then ends in firm confidence regarding conscience and outward consequences.
+* These tonal shifts must remain distinct and not be leveled into a uniform polemic.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The prose should remain speakable, with long argumentative sentences that accumulate thought.
+* Semicolons should be preserved where they carry argumentative pacing.
+* Repeated question forms should remain in sequence for public-reading force.
+* The editorial plural "we" contributes to the periodical voice and should remain audible.
+* Clause rhythm matters especially in passages beginning "But if..." and "We all know..."; these should not be clipped.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+On Withdrawal from an “Association.”
+
+[Editorial article in “Folkebladet” for February 23, 1898.]
+
+We printed Pastor A. Wright’s piece on “going out” in the last number of “Folkebladet.” And we would gladly ask many to read it again. It contains much that is good, if it is applied to withdrawal from a congregation; at the same time that it is exceedingly weak when it is applied to withdrawal from an “association.”
+
+We will also make a few remarks upon the piece, which we hope will bring Christian people onto the right track in this matter.
+
+Concerning the reasons why one ought not to go out of “our association,” Pastor Wright says among other things:
+
+“1. God wills that His Church should be one, not only in spirit but also in body. John 17. 1 Cor. Frailties in persons within the association do not set aside this will of God.”
+
+It appears that Pastor Wright means that Jesus in John 17, the so-called High-Priestly Prayer, prayed for and concerning an outward organization of the Church, so that this prayer is fulfilled by all congregations joining themselves to one and the same outward organization, and then preferably the United Church.
+
+Here, then, the question arises:
+Does the formation of the so-called “associations” promote or hinder the Church’s inward and outward unity?
+
+We know from the New Testament that the Church’s unity is not hindered by the many congregations. Jesus and His Apostles have not objected to the number of congregations increasing in a lawful way.
+
+But if association is formed after association, and association against association, and each of them says of itself that it is the one true Church, does not this hinder the Church’s unity?
+
+Can it be regarded as absolutely certain that the formation of these ruling church bodies really belonged to the plan of Jesus and the Apostles?
+
+But if it should be so that the freedom and independence of congregations, without any ruling “association” over them, is the original order, the one most serviceable to the Church’s unity, then it surely must be asked whether those who tighten the bond of the association most and make it such a matter of conscience are also serving the Church’s unity best.
+
+For we all know that congregations are split and torn asunder for the sake of the so-called associations; is this then also a promotion of the Church’s unity?
+
+And further Pastor Wright says:
+“4. To go out of the congregation or association I have the right only” etc.
+
+To this we will only remark that this view, according to which congregation and association are placed absolutely side by side, seems to us either to set the congregation too low or the association too high.
+
+“Folkebladet” does not wish to pronounce upon the many reasons that speak for withdrawal from the United Church. We are sure that the congregations will find out where the shoe pinches. If there are any among them who feel that they cannot with a good conscience stand with the “association,” then they know well enough what they are to do. “Folkebladet” has no concern for the purely outward side of the matter.
+
+[Georg Sverdrup.]
