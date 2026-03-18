@@ -1,0 +1,433 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menigheden: not merely “congregation” in a modern institutional sense, but the gathered Christian community, the church as an actual local body of believers. In this passage, “the congregation” is usually the best rendering, but the theological weight must be preserved.
+* Aanden: “the Spirit,” specifically the Holy Spirit. Must not be weakened into a vague spiritual principle.
+* Aandens Midler: “the means of the Spirit,” closely tied to Lutheran sacramental theology. The phrase points to the Spirit’s appointed means of giving and sustaining life.
+* Ordet og Sakramenterne: “the Word and the Sacraments.” These are not general religious resources, but divinely instituted means of grace.
+* forplantes: not merely “spread,” but “propagated,” “transmitted,” “carried onward.” Refers to life being handed on organically.
+* opholde / Opholdelse: not just “support,” but “sustain,” “maintain,” “keep in being.” Important for theological precision.
+* rettelig: “rightly,” “properly,” “in the right manner.” Carries normative theological weight.
+* rettroende Menighed: “orthodox congregation,” but in context with possible polemical force. Must not sound merely denominational or sociological.
+* godkjendes: “approved,” “acknowledged,” “recognized.” Here it refers to ecclesial recognition, not inward regeneration.
+* afgjør Sagen: “decides the matter,” “settles the matter.” Strong claim about what is determinative.
+* lægger større Vegt paa: “lays greater weight upon,” not merely “prefers.”
+* gjøre levende: “make alive.” Strong biblical-theological language.
+* Trangen: “the need,” “the necessity,” “the felt requirement.” Not desire, but practical necessity.
+* efterkommet: “met,” “provided for,” “answered.”
+* forkaster og næsten foragter: “reject and almost despise.” The rhetorical intensity must remain.
+* Naadens Midler: implied category of means of grace; must be preserved doctrinally in English phrasing.
+* Bevarelse og Beskyttelse: “preservation and protection.” Distinct terms; neither should be lost.
+* Sammenkomster: “assemblies,” “gatherings,” “meetings.” “Assemblies” best preserves ecclesial gravity.
+* sømmeligt: “decently,” “becomingly,” with moral and ecclesial decorum.
+* gribende enfoldige: “touchingly simple” or “strikingly simple.” Enfoldig here is not “naive” but simple in an affecting, unadorned sense.
+* Opbyggelse: “edification.” A key theological term; should remain stable.
+* Heftirtetighed: likely OCR-distorted for “heftighed” or similar. Context indicates excited vehemence or agitated intensity. The sentence contrasts rigidity, heated impulsiveness, disorder, and arbitrary self-exaltation.
+* vilkaarlig Selvophøielse: “arbitrary self-exaltation.” Moral and ecclesial disorder, not merely assertiveness.
+* Kirkeforfatningen: “church polity” or “church constitution.” In context, “church polity” carries the ecclesial sense better.
+* passer til Tiden / i vor Tid: must preserve the ironic polemic against adaptation to the age.
+* Daarlighed / Forargelse: biblical diction from 1 Corinthians 1; “foolishness” and “offense/stumbling block.”
+* selvhjulpen: literally “self-helping,” but here “self-sustaining” or “self-supporting” in relation to its own edification.
+* Opbyggelse: again “edification,” not merely improvement.
+* Messe: in this context likely service with sacramental administration or formal divine service, not “Mass” in a Romanizing sense. Needs careful rendering.
+* Liv og Samfund: “life and fellowship/communion.” “Fellowship” is likely best, but theological vitality must remain.
+* trives: “thrive,” “flourish.”
+* Prest: “pastor” rather than “priest,” given the Lutheran context and English readership, unless a more literal historical feel is desired. “Pastor” best avoids misleading sacramental associations in English.
+* Arbeide: “labor” or “work.” In climactic exhortational prose, “labor” often carries more weight.
+* formeget: “too much,” often with understated polemical force.
+* klarede sine Udgifter: “met their expenses,” “covered their costs.”
+* sterke Organisation: “strong organization.” Important because organization is here defended as practical, not life-giving in itself.
+* Pengeveien: financial administration, handling of money, the money side of things. Must not sound trivial.
+* Skriftmæssighed: “conformity to Scripture,” “scripturalness,” “strict accordance with Scripture.” Very important theological term.
+* Paafund og Tilstelninger: “contrivances and arrangements,” “devices and expedients.” Strongly dismissive.
+* Samfund: likely voluntary religious societies/associations parallel to or competing with the congregation. Must not be flattened into “community.”
+* lægge Vinn paa: “bestow diligence upon,” “take pains with,” “apply care to.”
+* endrægtig: “united,” “of one mind,” “harmonious.”
+* arbeidsdygtig: “fit for work,” “fully capable of labor.”
+* paa sin Post: “at his station,” “at her post.” Military or vocational metaphor of ordered service.
+
+Syntactic Hazards
+
+* The prose moves through long accumulative sentences with doctrinal assertion followed by qualification, contrast, and application. These must not be broken into overly short modern English sentences.
+* Semicolon logic is essential. The author often states a thesis, then limits it, then clarifies its proper force.
+* Repeated adversative pivots such as “Alligevel,” “Men,” “Med andre Ord,” “Og her er der kun en Ting” structure the argument. These must remain visible.
+* Parallel constructions such as “hver Mand og hver Kvinde,” “ved at tælle og opskrive..., ved at vælge..., ved at bestemme...” should be preserved.
+* The rhetorical contrast between inward spiritual life and outward organization depends on syntactic balance; careless simplification would distort the point.
+* Biblical quotation is embedded into the prose and followed by exposition. The transition must remain natural and sermonic.
+* Polemical quotations around words like “Kirkeforfatningen,” “som passer til Tiden,” and “fri—fri” must be preserved to retain irony and distance.
+* The closing exhortation gains force from concise imperative clauses after long reasoning. That pacing should remain intact.
+
+Theological Hazards
+
+* The congregation is born of the Spirit and lives only by the Spirit. This is not metaphorical enthusiasm but ecclesiology grounded in regeneration and means of grace.
+* Word and Sacraments are treated as the only means by which living congregational life is produced and sustained. This must remain explicitly Lutheran.
+* Outward organization is defended strongly, but never as a source of life. The distinction between life-creating means and life-protecting order is crucial.
+* Baptism is described as the means by which members are received into the congregation. This has ecclesiological and sacramental implications.
+* Admission to the congregation is not equated with true Christianity. The author rejects both institutional presumption and congregational self-certification.
+* The congregation’s participation in governance is tied to Acts 6 and the whole multitude of the disciples. This is both exegetical and ecclesiological.
+* The order of worship is described as free yet comely, neither rigid nor disorderly. This balance must be preserved.
+* “Strict accordance with Scripture” is presented as the path to blessing, over against worldly ingenuity. The force is normative, not advisory.
+* The congregation’s regular assembly is tied directly to its spiritual life and fellowship. Irregular gathering is a sign of weakness.
+* The pastor’s labor is not made unnecessary by a living congregation; rather, a more living congregation needs it more. This paradox must remain sharp.
+* The critique of both high-church institutionalism and radical individualism is central: both dissolve the congregation.
+
+Voice Hazards
+
+* The tone is solemn, earnest, corrective, and exhortational. Any smoothing into neutral academic prose would betray the original.
+* The author uses strong pastoral rebuke: “can not expect divine blessing in full measure,” “there is no difference,” “both parties abolish the congregation.” This intensity must remain.
+* Irony toward fashionable cleverness and adaptation to the times must not be flattened.
+* The voice alternates between careful doctrinal distinction and direct moral appeal. That contrast is essential.
+* The closing imperative must sound weighty and practical, not motivational or managerial.
+
+STEP 2: IDIOM ANALYSIS
+
+* “født af Aanden”
+
+  * Meaning: born of the Spirit.
+  * Scriptural context: strongly echoes John 3.
+  * Theological implication: the congregation’s origin is supernatural, not organizational.
+  * Natural English equivalent: “born of the Spirit.”
+
+* “kan kun leve ved Aanden”
+
+  * Meaning: can live only by the Spirit.
+  * Scriptural context: broad Pauline and Johannine resonance concerning spiritual life.
+  * Theological implication: life is sustained by the same divine agency that created it.
+
+* “Aandens Midler, Ordet og Sakramenterne”
+
+  * Meaning: the Spirit’s appointed means are the Word and Sacraments.
+  * Scriptural and doctrinal context: Lutheran means-of-grace theology.
+  * Literal translation is possible, but the doctrinal term must remain explicit.
+
+* “frembringe en levende Menighed og opholde den”
+
+  * Meaning: bring forth a living congregation and sustain it.
+  * Theological implication: not mere institution-building, but the generation and maintenance of spiritual life.
+
+* “gaar ind i den rettroende Menighed”
+
+  * Meaning: enters the orthodox congregation.
+  * Implication: formal entry into a doctrinally correct body is no guarantee of true Christianity.
+
+* “afgjør Sagen”
+
+  * Meaning: settles the matter decisively.
+  * Rhetorical force: polemical rejection of overvaluing organization.
+
+* “gjøre levende”
+
+  * Meaning: make alive.
+  * Biblical echo: resurrection/regeneration language. Must not become “improve.”
+
+* “trænger en ydre Organisation”
+
+  * Meaning: needs an outward organization.
+  * Not merely “benefits from” or “finds useful.” The necessity is real, though qualified.
+
+* “ikke liden Vegt”
+
+  * Meaning: no small weight.
+  * Rhetorical function: classical understatement used for emphasis.
+  * Natural English equivalent: “no little weight.”
+
+* “gode Klæder og godt Hus”
+
+  * Meaning: good clothing and a good house.
+  * Function: homely but serious analogy; outward order protects life without creating it.
+
+* “vakkert og sømmeligt ordnede”
+
+  * Meaning: beautifully and decently ordered.
+  * Scriptural context: likely resonance with 1 Corinthians 14:40.
+  * Theological implication: order in worship is not legalistic by definition.
+
+* “lader alt ske til Opbyggelse”
+
+  * Meaning: let all be done unto edifying / for edification.
+  * KJV-equivalent force is useful here, but the pronouns should remain modern.
+  * Best rendering: “let all things be done for edification” or “for building up.” “Edification” better fits the author’s theological register.
+
+* “Grækerne en Daarlighed og Jøderne en Forargelse”
+
+  * Meaning: foolishness to the Greeks and an offense to the Jews.
+  * Scriptural source: 1 Corinthians 1:23.
+  * KJV offers a natural equivalent, though “stumbling block” could also work. “Offense” best matches the older prose’s cadence here.
+
+* “fuldt ud selvhjulpen”
+
+  * Meaning: fully self-sustaining / self-sufficient in dealing with its own edification.
+  * Context limits the meaning: not doctrinal independence from God, but practical ability to gather and build itself up.
+
+* “det er næsten ikke til at taale”
+
+  * Meaning: it is almost intolerable.
+  * Tone: sharp, pastoral criticism.
+
+* “Liv og Samfund”
+
+  * Meaning: life and fellowship.
+  * Theological implication: vitality and mutual communion belong together.
+
+* “jo mere levende Menigheden er, desto mere vil den behøve Prestens Arbeide”
+
+  * Meaning: the more living the congregation is, the more it will need the pastor’s labor.
+  * Rhetorical effect: paradox overturning superficial assumptions.
+
+* “vor Tids kloge Hoveder”
+
+  * Meaning: the clever heads of our time.
+  * Tone: mildly scornful irony toward fashionable expertise.
+
+* “verdslige Paafund og Tilstelninger”
+
+  * Meaning: worldly contrivances and arrangements.
+  * Theological force: human devices contrasted with scriptural order.
+
+* “de saakaldte Samfund”
+
+  * Meaning: the so-called societies/associations.
+  * Polemical force: these are viewed as rival organizational priorities that distract from the congregation itself.
+
+* “læggе Vinn paa”
+
+  * Meaning: take pains over, apply care to.
+  * Not simply “value,” but diligent practical labor.
+
+* “hver Mand og hver Kvinde paa sin Post”
+
+  * Meaning: every man and every woman at his or her post.
+  * Image: ordered service in a living body.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis opening
+
+  * The congregation is born of the Spirit and can live only by the Spirit.
+  * Therefore only the Spirit’s means, the Word and Sacraments, can create and sustain a living congregation.
+
+* First corrective move
+
+  * Some have wrongly concluded that organization and constitution decide the matter.
+  * Two opposite errors are named:
+
+    * formal membership in an orthodox congregation is assumed to make one a Christian;
+    * congregational recognition as a Christian is treated as probable proof of true Christianity.
+  * These opposites share the same false overvaluation of outward organization.
+
+* Central distinction
+
+  * Organization cannot make alive or sustain life.
+  * Nevertheless, the congregation truly needs outward organization.
+  * The New Testament itself shows that this need was recognized and met.
+
+* Polemical defense of outward order
+
+  * The author insists this matter carries weight because many reject or nearly despise all outward organization.
+  * He then carefully qualifies the necessity: it is not like the necessity of grace, Word, and Sacraments.
+  * Yet it directly serves preservation and protection of life.
+
+* Analogy
+
+  * Organization serves the congregation as good clothing and a good house serve a man or family.
+  * Thus order is secondary but important.
+
+* Ecclesial application
+
+  * As the body exists before the clothes, so the congregation exists before outward organization.
+  * Yet the congregation organizes itself by listing members, choosing officers, setting times and places, and ordering gatherings.
+  * These practices are clearly shown in the New Testament and ought to be heeded.
+  * Neglect of God’s will in such matters forfeits expectation of full blessing.
+
+* Scriptural and practical exemplification
+
+  * Counting members follows naturally from baptismal reception.
+  * Baptism is outward enough to allow recognition and counting.
+  * No coercion and no baptism without confession of sin and faith are assumed.
+  * Choice of officers and other decisions imply voting by the whole multitude of disciples.
+  * Therefore there is no grade difference between rulers and ruled in the congregation’s government.
+
+* Worship order
+
+  * From the beginning the congregation had regular assemblies.
+  * These assemblies were uniquely free yet beautifully and decently ordered.
+  * 1 Corinthians 14:26 and following are cited as evidence.
+  * The ideal avoids three distortions:
+
+    * stiffness,
+    * heated self-assertive excitement,
+    * disorder and arbitrary self-exaltation.
+
+* Broader polemical conclusion
+
+  * Christ has not left His congregation to human cleverness to invent church polity suitable to the times.
+  * The New Testament gives sufficient light.
+  * What failed to suit worldly people then does not suit them now either.
+  * The offense lies not in outdatedness, but in the cross and Christ’s congregation.
+
+* Final practical issue
+
+  * A congregation should be fully self-sustaining regarding its own edification.
+  * Shared pastoral arrangements across several congregations are imperfect.
+  * If the congregation cannot gather for edification without the pastor’s arrival, then each congregation should have its own pastor.
+  * Yet if a congregation can build itself up with God’s Word in the pastor’s temporary absence, it will discover that greater life means greater need of the pastor’s labor.
+
+* Financial objection answered
+
+  * Some object on grounds of cost.
+  * Early congregations were likely not richer than present ones.
+  * They met their expenses largely because of strong organization.
+  * Scripture also gives instruction regarding financial order.
+  * Better results come from scriptural strictness than worldly devices.
+
+* Climactic exhortation
+
+  * If equal diligence were applied to the congregation’s organization as to the so-called societies, church work would look different.
+  * Two opposite errors equally dissolve the congregation:
+
+    * overemphasis on churchly associations/institutions,
+    * overemphasis on the individual.
+  * High-church rigidity and radical free-form looseness alike abolish the congregation.
+  * Therefore: hold fast to the congregation, and apply careful exactness to its organization.
+  * A well-organized, united congregation alone is fully fit for work.
+  * Organization, at bottom, means every man and every woman at his or her post and in his or her labor.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “født af Aanden” / “born of the Spirit”
+
+  * Likely source: John 3:5-8.
+
+* “kan kun leve ved Aanden”
+
+  * Broad biblical resonance with life in the Spirit, especially Romans 8 and Galatians 5.
+
+* “Ordet og Sakramenterne” as means of life
+
+  * Strong doctrinal synthesis rather than direct quotation; biblical grounding includes Matthew 28:19, Acts 2:38-42, Romans 10:17, 1 Peter 1:23, 1 Corinthians 10-11.
+
+* “hele Mængde af Disciplene”
+
+  * Explicit source: Acts 6:2.
+
+* Description of orderly congregational worship
+
+  * Explicit source: 1 Corinthians 14:26 and following.
+  * Also echoes 1 Corinthians 14:40, “let all things be done decently and in order.”
+
+* “Grækerne en Daarlighed og Jøderne en Forargelse med den korsfæstede Kristus”
+
+  * Explicit source: 1 Corinthians 1:23.
+
+* “Guds Vilje” in such matters and expectation of blessing
+
+  * General biblical resonance with obedience and blessing; not a direct quotation.
+
+* Building itself up with God’s Word
+
+  * Broad resonance with Acts 20:32 and Ephesians 4.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The warning against mistaking formal belonging for true life must remain direct and sharp.
+* The defense of organization must sound principled, not bureaucratic.
+* The rebuke of those who reject outward organization must retain its force: they do not merely differ, they reject and nearly despise.
+* The critique of worldly cleverness and adaptation to the times must preserve irony and contempt for self-assured speculation.
+* The closing exhortation must remain imperative and weighty, with practical militancy.
+* The final sentence should feel like a compressed summons to ordered congregational labor.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “kan kun leve” must remain “can live only,” not “usually lives” or “is meant to live.”
+* “kan frembringe” must remain “can bring forth,” preserving exclusive force.
+* “vi paastaar med fuld Overbevisning” must remain full-strength assertion: “we maintain with full conviction.”
+* “trænger” must remain “needs,” not merely “benefits from.”
+* “kan ikke vente” must remain “cannot expect,” not “should not assume.”
+* “maatte vælge” must remain “had to choose,” not “came to choose.”
+* “burde være” must remain “ought to be,” not “it would be nice if.”
+* “skulde vel vise sig” should preserve confidence: “it would surely prove” or “it should surely prove.”
+* “vilde kunne lære meget” retains conditional-polemical force: “could learn much.”
+* “vilde bedre Resultater opnaaes” should remain strong: “better results would be attained.”
+* “Hold fast” must remain imperative.
+* “læg Vinn” must remain imperative and diligent in force.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menigheden = congregation
+* Aanden = the Spirit
+* Ordet = the Word
+* Sakramenterne = the Sacraments
+* Liv = life
+* levende Menighed = living congregation
+* Opbyggelse = edification
+* Guds Ord = God’s Word
+* Prest = pastor
+* Velsignelse = blessing
+* Skriftmæssighed = accordance with Scripture / scriptural strictness
+* Sammenkomster = assemblies
+* Embedsmænd = officers
+* Organisation = organization
+* Konstitution / Kirkeforfatningen = constitution / church polity, according to context
+* Samfund = societies / associations, not “community”
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The congregation as born and living by the Spirit must remain organic and living, not institutionalized.
+* Organization as clothing and house for a man or family must be preserved as concrete analogy.
+* “every man and every woman at his or her post” must remain an image of ordered service.
+* The contrast between body and clothes is essential: life precedes order, yet order serves life.
+* “the crucified Christ and His congregation” must retain its scandalous biblical force.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severe correction of error is followed by careful qualification.
+* Practical reasoning alternates with doctrinal assertion.
+* The passage moves from theological principle to ecclesial practice to financial detail to final exhortation.
+* The author’s tone shifts from explanatory to admonitory to almost martial in the conclusion. These shifts must remain visible.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long periods where the reasoning gathers clause by clause.
+* Let semicolons and colons do real work.
+* Preserve emphatic sentence openings such as “Nevertheless,” “With other words,” “Surely,” “And here there is only one thing...”
+* Keep the Pauline quotation integrated into the surrounding prose.
+* Let the closing imperatives stand with plain force.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+III.
+
+3. According to the New Testament, the congregation needs an outward organization, with a register of its members, election of officers, fixed times and places for its assemblies, etc.
+
+The congregation, which from the beginning is born of the Spirit, can live only by the Spirit. Therefore the Spirit’s means, the Word and the Sacraments, are the means by which the life of the congregation is propagated and preserved. It is only Baptism, the Word, and the Lord’s Supper that can bring forth a living congregation and sustain it, when these means are rightly used.
+
+It appears that some have come upon the thought that it is the organization and the constitution that decide the matter. And perhaps it is not so few who have this thought, though in somewhat different fashion. Some think that if a person only enters the orthodox congregation, then he is a Christian; for the congregation, after all, consists of Christians. Others think that if a person enters our congregation and is acknowledged by us as a Christian, then it is—if not certain—yet at least probable, that he is a Christian. Both sides—as opposite as they are to one another—perhaps lay greater weight upon the organization and the constitution than is right. For neither can a constitution or organization make alive, nor can it sustain life.
+
+Nevertheless, we maintain with full conviction that the congregation needs an outward organization, and that this need is already known and met in the New Testament: the Lord did not conclude the revelation of and concerning the congregation before the need had shown itself and had been remedied.
+
+We lay no little weight upon this matter, since there are not so few voices to be heard which reject and almost despise every outward organization of the congregation.
+
+The necessity of this outward organization is not the same kind of necessity as that of grace and of the Word and of the Sacraments. That is to say, it does not serve directly for the creation and sustaining of life. But surely we can say that it serves directly for the preservation and protection of life.
+
+In other words, organization does nearly the same service for the congregation that good clothing and a good house do for a man or a family. And this service is by no means so very small under most circumstances.
+
+As the body exists before the clothes, so also the congregation exists in the New Testament before the outward organization. It is the congregation that itself organizes itself by counting and recording its members, by choosing its officers, by determining when and where one shall assemble, and how things shall proceed in the assemblies. These things, and perhaps others that someone might mention, are clearly and plainly set forth in the New Testament; and without doubt Christian people do well to heed them, for he who will not heed the will of God also in such matters cannot expect divine blessing in full measure.
+
+That the congregation may count its members and keep them in a register follows, according to the testimony of the New Testament, quite straightforwardly from the fact that it receives its members by Baptism. To baptize is in its form such an outward act that it is very simple to count how many are baptized. That none was compelled by civil law to be baptized, and that none was baptized who did not confess his sins and his faith in the risen Jesus, is surely self-evident to every attentive reader of the Bible. But, as said, this outward act made the persons easy to know and to count.
+
+And that the congregation had to choose officers and make other determinations—which arose rather from the congregation’s imperfection than from its perfection—involved the use of the vote, which according to Acts 6:2 and other places belonged to “the whole multitude of the disciples,” so that there was no difference of rank between governors and governed; they were all sharers in the government, if they were members of the congregation.
+
+There is also no doubt that from the beginning the congregation had its regular assemblies, and that these assemblies, in all their unique freedom, were nevertheless beautifully and decently ordered. Read Paul’s movingly simple description of the assembly in 1 Corinthians 14:26: “What then, brothers, is to be done? When you come together, each one has a psalm, he has a teaching, he has a tongue, he has a revelation, he has an interpretation; let all be done for edification.” And the following verses in the same chapter give still more exact insight into the life and the order that were found in the assemblies. There is no stiffness and no excited vehemence; there is also no disorder, and no arbitrary self-exaltation of one at another’s expense.
+
+Surely, the Lord has not left His congregation to human cleverness and subtlety, as many think, so that we have no instruction concerning “church polity” in the Bible, but must speculate our way to something “suited to the times”; there is light enough for the congregation in the New Testament, and it is not worth while to let anyone persuade himself that it does not fit “in our time.” It did not suit worldly people any better then than it does now. It always has been and will continue to be foolishness to the Greeks and an offense to the Jews, together with the crucified Christ and His congregation.
+
+And here there is only one thing that we will point to in conclusion, and which perhaps some will think a little about. Every Christian congregation ought to be fully self-sustaining in the question of its own edification. For three or four congregations to have one pastor in common is a rather imperfect arrangement; and it becomes so defective that it is almost intolerable when there can be no service because the pastor does not come. When the congregation does not even assemble every Sunday, how then can it be expected that life and fellowship should thrive? If the congregation cannot assemble for edification when the pastor does not come, then every congregation ought to have its own pastor, and it should surely prove that this was not too much. And if a congregation has become so far Christian that it can build itself up with God’s Word even when the pastor is ill or in the neighboring congregation, then with a little experience it will surely discover that the more living the congregation is, the more it will need the pastor’s labor.
+
+I know that some will answer that it costs too much, and to that I will say nothing more than this, that the first congregations were scarcely so rich as is commonly the case among us; yet they met their expenses chiefly on account of their strong organization. At this point too, some of the clever heads of our time could learn much by studying the New Testament and its instruction for ordering the financial affairs of the congregation. And there is no doubt that in this matter also better results would be attained by strict accordance with Scripture than by all sorts of worldly contrivances and arrangements.
+
+If our people would bestow as much diligence upon the congregation’s organization as upon the so-called societies, then the whole aspect of churchly work would be quite different from what it now is.
+
+Whether one dissolves the congregation by laying all weight upon the church association, or one dissolves the congregation by laying all weight upon the individual person, one does equal harm and acts equally wrongly. In the final result, for the dissolution of the congregation, there is no difference between the stiffest high-churchmen and the loosest “free-free.” Both parties, in truth, abolish the congregation.
+
+Hold fast to the congregation, and take pains with its exact and careful organization! Only a well-organized and united congregation is fully capable of labor. For organization is in truth nothing other than every man and every woman at his or her post and in his or her work.

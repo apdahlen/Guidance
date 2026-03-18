@@ -1,0 +1,555 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Frikirkens / Frikirke: Not simply “free church” in a generic modern sense. In this context it refers to the Lutheran Free Church movement and carries ecclesiological weight about the freedom of the congregation from imposed external church government.
+
+* Menighed: Must normally be rendered “congregation,” though at times it approaches “church” in the local, visible, gathered sense. This is one of the most theologically load-bearing terms in the passage and must be translated consistently.
+
+* Guds Rige: “Kingdom of God,” not merely “religion” or “spiritual life.” It is both inward and outward in Sverdrup’s argument.
+
+* Belysning: Here “elucidation,” “shedding light on,” not literal illumination.
+
+* Frikirkefolket: The people of the Free Church; not merely “members” in a bureaucratic sense, but the body of those belonging to that churchly movement.
+
+* heldigt: “fortunate,” “providentially favorable” in context; not casual “lucky.”
+
+* Arbeide: “work,” but often in 19th-century devotional prose it can imply labor undertaken in a cause or service.
+
+* studser: “start,” “pause in surprise,” “stop short,” not merely “wonder.”
+
+* Komite / Udkast / Regler: Institutional terms, but they must not sound modern-bureaucratic in a flattening way. The tone remains earnest and practical.
+
+* Parti: “party” or “faction,” not necessarily political party only. The risk is losing the polemical ecclesial sense of sectarian grouping.
+
+* frie Menigheder: “free congregations,” meaning congregations not ruled by an external compulsory church government.
+
+* Vei ud: Literally “way out,” but here the sense is the right way through a difficulty, the divinely shown solution.
+
+* afgjørende Autoritet: “decisive authority,” strong and final in force.
+
+* Menighedssagen / Kirkeforfatningen: “the matter of the congregation” / “church polity” or “church constitution.” These are technical ecclesiological terms and must retain doctrinal precision.
+
+* Klogt og Spidsfindighed: Not just “wisdom and subtlety,” but cleverness and fine-spun ingenuity set in contrast to childlike fidelity.
+
+* barnlig Trofasthed: “childlike faithfulness” or “childlike fidelity.” This must not become childishness.
+
+* umyndige: Biblically resonant term meaning the simple, unlearned, immature, or those without worldly standing; likely echoing Gospel language.
+
+* beskjæftige sig: “occupy oneself with,” “apply oneself seriously to,” not casual interest.
+
+* Sjæls Frelse: “the salvation of the soul,” a doctrinally serious and traditional phrase.
+
+* Aandens Udgydelse: “the outpouring of the Spirit,” almost certainly Pentecostal in reference.
+
+* kristelige Prædiken: “Christian preaching,” not merely preaching in a generic religious sense.
+
+* indre Væsen / ydre Form: “inner essence” / “outward form.” These are structurally important oppositions in the argument.
+
+* Aandens Folk i Verden: Literally “the Spirit’s people in the world,” with strong theological resonance.
+
+* Menighedens Form: “the form of the congregation” or “in the form of the congregation.” Must preserve the argument that the Kingdom takes visible form.
+
+* Evne til at leve og voxse og forplante sig: “power/capacity to live and grow and propagate itself.” “Forplante sig” must not become biologically crude, but it deliberately evokes organic multiplication.
+
+* den nye Skabning: “the new creation,” with Pauline resonance.
+
+* mangfoldig: “manifold,” “multiplied,” not simply “diverse.”
+
+* Bispedømme / Pavedømme: “episcopate/bishopric” and “papacy,” but the phrasing concerns systems of rule, not merely offices.
+
+* Ældste eller Biskoper: “elders or bishops.” This pairing is theologically important and should remain transparent.
+
+* Kirkestyrelse: “church government” or “church rule.” This is central and must be translated consistently.
+
+* Nedgang og Forfald: “decline and decay” or “declension and corruption.” Strong evaluative language.
+
+* Kirkeligheden: Best rendered “in the actual history of the church” or “in church life/church reality,” depending context. It does not mean mere “ecclesiality.”
+
+* ubilligt: “unfair,” “inequitable,” “unreasonable and unjust.” The moral valence should be kept.
+
+* udvortes Samfund: “outward association/communion/organization.” The outwardness matters because it contrasts with inward spiritual reality.
+
+* tvungen Sag: “a compulsory matter,” “a forced requirement.”
+
+* existeret: “existed.” Straightforward, but the sentence’s force depends on the historic argument.
+
+* nødvendigt Led af Kristendommen: “necessary element/part of Christianity.” Strong dogmatic phrasing.
+
+* tilstrækkelig Form: “sufficient form.” A key thesis term.
+
+* paakrævet: “required,” “demanded,” with strong necessity.
+
+* nøddvendig: archaic spelling of “necessary,” often emphatic in theological prose.
+
+* til Fortabelse: “unto perdition,” “to his destruction.” Very strong soteriological language. “Damnation” may overstate in some contexts; “perdition” better retains doctrinal seriousness.
+
+* tilvisse: “certainly,” “surely indeed,” with solemn emphasis.
+
+* tidsmæssigt: Here not “timely” in a trendy sense, but “timely,” “suited to the present time,” urgently appropriate.
+
+* Gjenreisning: “restoration” or “re-establishment.” A rebuilding of something fallen.
+
+* nytestamentlig Skikkelse: “New Testament form.” “Skikkelse” is more than appearance; it is concrete shape or form.
+
+* nedslaaende: “disheartening,” “deeply discouraging.”
+
+* under man ikke Folket dette Gode?: “why does one not grant the people this good?” The verb under means to concede or allow someone a good, not to wonder.
+
+* delagtige i den: “partakers in it,” “share in it.” Strongly biblical diction.
+
+Syntactic Hazards
+
+* Long periodic sentences carry theological reasoning by accumulation. Breaking them into short modern sentences would weaken the sermonic and argumentative force.
+
+* Semicolon logic is essential. Sverdrup frequently balances clauses by contrast, consequence, and clarification.
+
+* Appositional definitions are important: “Guds Riges Form, som er Menigheden”; “det indre Væsen … den ydre Form.” These should remain explicit.
+
+* Repeated “og” chains create cumulative moral pressure and oral cadence. They should not be over-edited away.
+
+* Negative sequences (“ei heller … ei heller …”) have polemical force and must remain rhythmic.
+
+* Rhetorical questions at the end sharpen exhortation and expose inconsistency. They should not be flattened into statements.
+
+* Parenthetical clarifications such as “Dog selvfølgelig altid kommende paanyt …” are part of the sermonic flow and should remain integrated.
+
+* Conditional constructions (“hvor … der …”) set up serious theological consequences. Their structure must remain intact.
+
+Theological Hazards
+
+* The equation of the congregation as the outward form of the Kingdom of God is the doctrinal center of the passage. Any softening would distort the whole argument.
+
+* The distinction between inward essence and outward form must be preserved without implying a split between invisible spirituality and visible churchly life.
+
+* The claim that Christ came not only to bring inward blessing but also a new society called the congregation is a major ecclesiological assertion.
+
+* Pentecost (“Aandens Udgydelse”) marks the historical coming of the Kingdom in congregational form. This salvation-historical sequence must remain clear.
+
+* The argument that no supra-congregational governing structure is mandated in the New Testament must remain precise. It is not anti-order, but anti-imposed external church government as divinely necessary.
+
+* “Absolutely necessary where possible” regarding the congregation is very strong. The translation must preserve the force without overexplaining.
+
+* “great danger for their souls” and “unto perdition” must retain real spiritual peril.
+
+* “God knows it” in relation to judging historical institutions is a confession of human limitation, not indifference.
+
+Voice Hazards
+
+* The tone is solemn, reasoned, exhortational, and pastorally sharp. It must not become merely academic or polemical.
+
+* Sverdrup speaks with biblical seriousness and moral pressure, yet with controlled prose. The translation must not become theatrical.
+
+* The repeated “for us” and “we mean” voice is communal and confessional, not private opinion.
+
+* The passage alternates between doctrinal statement, historical judgment, warning, and appeal. This tonal movement must remain audible.
+
+* The closing questions are not requests for information; they are rebuking appeals to conscience.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Vei ud”
+
+  * Meaning: the right way through a difficulty, the divinely indicated resolution.
+  * Theological implication: Scripture provides not just ideas but a path of obedient action.
+  * Translation note: “way through” or “way out” both work, but the latter should not sound casual.
+
+* “Guds Ord viser Vei”
+
+  * Meaning: God’s Word shows the way.
+  * Scriptural context: common biblical and devotional image of God’s Word as light and guide, resonant with Psalm 119.
+  * Translation note: “shows the way” preserves idiomatic and biblical force.
+
+* “barnlig Trofasthed mod Herrens Ord”
+
+  * Meaning: childlike fidelity to the Lord’s Word.
+  * Scriptural context: echoes Christ’s teaching about receiving the Kingdom as a child.
+  * Theological implication: true discernment comes through humble obedience, not clever ecclesiastical ingenuity.
+
+* “Ordets Lys skinner”
+
+  * Meaning: the light of the Word shines.
+  * Scriptural context: biblical light imagery; Psalm 119:105 especially natural in the background.
+  * KJV-style equivalent: “the light of the word shineth” would be too archaic here; use modern pronouns and diction while preserving imagery.
+
+* “de umyndige” contrasted with “de vise og forstandige”
+
+  * Meaning: the simple or little ones contrasted with the wise and understanding.
+  * Scriptural context: strong echo of Matthew 11:25 / Luke 10:21.
+  * Translation note: likely “the simple” or “the unlearned” for natural English while preserving biblical resonance.
+
+* “Guds Rige er nær” / “Guds Rige er her”
+
+  * Meaning: the Kingdom of God is near / here.
+  * Scriptural context: direct Gospel proclamation from John the Baptist, Jesus, and the disciples.
+  * Theological implication: the author maps redemptive history from pre-Pentecost nearness to post-Pentecost presence.
+
+* “efter den anden Bøn i Fadervor”
+
+  * Meaning: according to the second petition in the Lord’s Prayer.
+  * Scriptural context: “Your kingdom come.”
+  * Translation note: “the Lord’s Prayer” is the natural English equivalent.
+
+* “Retfærdighed, Fred og Glæde i den Helligaand”
+
+  * Meaning: righteousness, peace, and joy in the Holy Spirit.
+  * Scriptural source: Romans 14:17.
+  * Translation note: should remain very close to the biblical phrasing.
+
+* “Aandens Folk i Verden”
+
+  * Meaning: the Spirit’s people in the world.
+  * Theological implication: the congregation is a visible people constituted by the Spirit amid the world.
+  * Translation note: literal rendering is strong and intelligible.
+
+* “den nye Skabning”
+
+  * Meaning: the new creation.
+  * Scriptural context: Pauline, especially 2 Corinthians 5:17 and Galatians 6:15.
+  * Translation note: preserve the singular abstract/collective sense.
+
+* “opfylde Jorden som den gamle”
+
+  * Meaning: fill the earth as the old creation did.
+  * Scriptural context: echoes creation language and humanity filling the earth.
+  * Theological implication: the new creation propagates through Word and Spirit rather than natural generation alone.
+
+* “Tegn paa Nedgang og Forfald”
+
+  * Meaning: a sign of decline and decay.
+  * Theological implication: historical development away from apostolic polity is treated as degeneration, not neutral evolution.
+
+* “den rette Kirkestyrelse”
+
+  * Meaning: the correct church government.
+  * Theological implication: opponents claim necessity for external structures; Sverdrup disputes that claim.
+
+* “den rette Slags Kristendom”
+
+  * Meaning: the right kind of Christianity.
+  * Rhetorical force: reductio ad absurdum—if such structures were necessary, true Christianity has scarcely existed.
+
+* “Menigheden er en tilstrækkelig Form for Guds Rige”
+
+  * Meaning: the congregation is a sufficient form of the Kingdom of God.
+  * Theological implication: local congregation is fully adequate as the divinely required outward form.
+
+* “hvor den er mulig”
+
+  * Meaning: where it is possible.
+  * Theological implication: acknowledges exceptional cases without weakening the rule.
+
+* “blive ham til Fortabelse”
+
+  * Meaning: become for him unto perdition.
+  * Scriptural resonance: strongly biblical causal phrasing (“be unto”).
+  * Translation note: “become his perdition” or “be to his perdition” preserves gravity; “condemn him” may be too interpretive.
+
+* “stor Fare for deres Sjæle”
+
+  * Meaning: great danger for their souls.
+  * Theological implication: refusal of congregational life where possible is spiritually perilous.
+
+* “under man ikke Folket dette Gode?”
+
+  * Meaning: why does one not grant the people this good?
+  * Rhetorical force: moral accusation, not simple inquiry.
+
+* “blive delagtige i den”
+
+  * Meaning: become partakers in it / share in it.
+  * Biblical resonance: participation language common in Scripture and devotional prose.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening occasion and stance
+
+  * Sverdrup explains that he has been invited to clarify the Free Church’s principles and is grateful for the opportunity to reach as many of the Free Church people as possible.
+
+* Present moment of reflective steadiness
+
+  * He states that it is now possible, even amid struggle and resistance, to consider their own work calmly and without distraction.
+
+* Acknowledgment of novelty
+
+  * A Lutheran Free Church is something new enough that many understandably hesitate and reflect.
+
+* Foundational difficulty faced by the original committee
+
+  * The committee had to avoid creating a new faction while promoting cooperation among free congregations.
+
+* Scriptural principle for resolving difficulty
+
+  * In such difficulties, God’s Word shows the way; the only issue is to find the “way out” shown by the New Testament and no other.
+
+* Supreme governing principle
+
+  * Above all other principles stands the decisive authority of God’s Word in matters of congregation and church polity, just as in doctrine.
+
+* Method of discernment
+
+  * Therefore the way is not found by cleverness but by childlike fidelity to the Lord’s Word.
+
+* Universal obligation of Christians
+
+  * All living Christians can and ought to participate in resolving the congregational question, because the light of the Word shines for the simple no less than for the wise.
+
+* Importance of the question
+
+  * Next to the salvation of the individual soul, no question is more important than that of the congregation.
+
+* Redemptive-historical turn
+
+  * Before Pentecost the proclamation was “the Kingdom of God is near”; after the outpouring of the Spirit, in this respect, Christian preaching says “the Kingdom of God is here,” though still coming anew and extending further.
+
+* Distinction between inward essence and outward form
+
+  * The Kingdom has an inner essence—righteousness, peace, and joy in the Holy Spirit—and also an outward form—the congregation, the Spirit’s people in the world.
+
+* Christ’s purpose
+
+  * Jesus came not only to bring inward blessing to hearts but also to establish a new society called the congregation.
+
+* Fulfillment through Christ’s saving work and Pentecost
+
+  * By death, resurrection, ascension, and the Spirit’s outpouring, Christ brought the Kingdom in congregational form with power to live, grow, and spread.
+
+* Apostolic norm
+
+  * All apostles and first Christians worked for this form of the Kingdom, and the New Testament revelation knows no other form.
+
+* Negative ecclesiological thesis
+
+  * The New Testament speaks of no bishopric over more than one congregation, no papacy, no church department, no church council, council, or synod as governing authority above congregations.
+
+* Positive local-congregational thesis
+
+  * At each place where Christians exist there is a congregation with its elders or bishops, but no church government beyond this.
+
+* Historical judgment
+
+  * The rise of larger church governments after the apostolic age is a sign of decline and decay.
+
+* Historical argument from nonexistence
+
+  * There has never been a single common church government over the whole Christian church, nor is there one now.
+
+* Polemical application to current opponents
+
+  * Therefore it is unreasonable and unjust to demand that all congregations join some outward organization in order to come under the proper church government.
+
+* Charge and rebuttal
+
+  * Those who reject compulsory common church government are called anarchists, but what neither existed in apostolic times nor ever truly existed later can scarcely be necessary to Christianity.
+
+* Strong conclusion from the argument
+
+  * The New Testament makes the congregation necessary for the Kingdom, but no other external organization over the congregation is a necessary part of Christianity.
+
+* Free Church principle stated explicitly
+
+  * The congregation is a sufficient form for the Kingdom of God, and no other form is required from Pentecost until Christ’s return.
+
+* Clarifying qualification
+
+  * Yet the congregation is absolutely necessary where possible.
+
+* Exceptional case and warning
+
+  * A solitary Christian in prison is not damned by lacking a congregation; but where Christians can be a congregation and will not, there is great danger for their souls.
+
+* Historical modesty and local criticism
+
+  * Sverdrup declines to judge definitively whether councils, synods, popes, and departments have done more good or harm; God knows. Yet in America these authorities have certainly contributed to factionalism and other sin.
+
+* Present practical appeal
+
+  * Therefore nothing is more timely and required than working for the restoration of the congregation in biblical, especially New Testament, form.
+
+* Pastoral grief
+
+  * It is deeply disheartening that many Lutheran pastors oppose this cause so zealously.
+
+* Final conscience-pressing questions
+
+  * If it is good, if God’s Spirit gathers the congregation, why deny the people this good? Why oppose giving them a share in a blessing for which Christ came and the Spirit was poured out?
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Guds Rige er nær”
+
+  * Likely sources: Matthew 3:2; 4:17; 10:7; Mark 1:15.
+
+* “Johannes’s Raab og Jesu og hans Disciples Prædiken”
+
+  * Refers broadly to John the Baptist’s cry and the preaching of Jesus and the disciples in the Gospels.
+
+* “efter den anden Bøn i Fadervor”
+
+  * Source: Matthew 6:10 / Luke 11:2 — “Your kingdom come.”
+
+* “Retfærdighed, Fred og Glæde i den Helligaand”
+
+  * Source: Romans 14:17.
+
+* “Aandens Udgydelse”
+
+  * Primary source: Acts 2; also Joel 2 as fulfilled at Pentecost.
+
+* “den nye Skabning”
+
+  * Likely sources: 2 Corinthians 5:17; Galatians 6:15.
+
+* “Ordets Lys skinner”
+
+  * Likely echo: Psalm 119:105; also broader biblical light imagery.
+
+* “for de umyndige som for de vise og forstandige, og helst for de første”
+
+  * Likely source: Matthew 11:25 / Luke 10:21.
+
+* “hvor kristne kan være Menighed og ikke vil, der er der tilvisse stor Fare for deres Sjæle”
+
+  * Not a direct quotation, but it echoes biblical warning logic concerning neglect, disobedience, and peril of soul.
+
+* The whole sequence “Død, Opstandelse, Himmelfart og Aandens Udgydelse”
+
+  * Summative salvation-history grounded in the Gospel narratives and Acts.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The argument must sound grave and morally consequential, not merely descriptive.
+
+* Warnings about spiritual danger must remain sharp: refusal of congregational life where possible is not presented as unfortunate but dangerous for the soul.
+
+* The criticism of external church governments must retain firmness without becoming shrill.
+
+* The closing rhetorical questions must keep their rebuking force and pastoral pressure.
+
+* The prose should remain dignified, controlled, and urgent.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “kan og bør være med” must remain “can and ought to take part,” not merely “may participate.”
+
+* “ingen er fritaget” must remain categorical: “no one is exempt.”
+
+* “kan og bør være med i Løsningen” carries moral obligation as well as possibility.
+
+* “kan neppe være nødvendigt” should be “can scarcely be necessary,” not “may not be needed.”
+
+* “er paakrævet” must remain “is required,” not “is helpful.”
+
+* “er absolut nøddvendig, hvor den er mulig” must remain very strong: “is absolutely necessary where it is possible.”
+
+* “vil ikke … blive ham til Fortabelse” should preserve negative certainty without softening.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation
+* Guds Rige = Kingdom of God
+* Guds Ord / Herrens Ord / Ordet = God’s Word / the Lord’s Word / the Word
+* Aanden / den Helligaand = the Spirit / the Holy Spirit
+* Aandens Udgydelse = the outpouring of the Spirit
+* Menighedssagen = the matter of the congregation
+* Kirkeforfatningen = church polity
+* Kirkestyrelse = church government
+* Ældste eller Biskoper = elders or bishops
+* den nye Skabning = the new creation
+* Frelse = salvation
+* Sjæl / Sjæle = soul / souls
+* Fortabelse = perdition
+* Velsignelse = blessing
+* frie Menigheder = free congregations
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “Ordets Lys skinner” must retain the image of shining light.
+
+* The Kingdom’s “inner essence” and “outward form” should not be paraphrased away; the form-language is central to the argument.
+
+* The congregation as “Aandens Folk i Verden” must remain a vivid people-image.
+
+* Organic imagery of living, growing, propagating, and filling the earth must be preserved.
+
+* “Gjenreisning” should preserve the image of raising up again, not merely administrative reform.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Early gratitude and calm reflection contrast with polemical critique; both must remain.
+
+* Historical analysis gives way to doctrinal assertion, then to warning, then to pastoral lament, then to conscience-striking questions.
+
+* Hopeful language about the Kingdom and congregation must not be dulled by the severity of the polemic.
+
+* Severity toward obstruction and consolation about God’s ordering should remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentences should often remain long where the original reasons cumulatively.
+
+* Semicolons and commas should help preserve sermonic breath and thought-units.
+
+* Repeated structures such as “ei heller … ei heller …” and “hvor … der …” should be maintained where natural.
+
+* The final questions should sound like spoken appeals from the pulpit or platform, not detached academic prose.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+On the Free Church’s “Leading Principles”
+
+(Georg Sverdrup)
+
+Published in Folketbladet for December 21 and 28, 1898; January 4, 11, 18, and 25; February 8 and 15, 1899.
+
+I.
+
+1. According to God’s Word, the congregation is the proper form of the Kingdom of God on earth
+
+As I have been urged to write a little by way of elucidation of the Free Church’s principles and rules, I am grateful for the opportunity which Folketbladet has kindly granted me, so that these reflections may reach as many as possible among the people of the Free Church.
+
+And it is also fortunate that we have come so far that, in the midst of struggle and opposition, we can calmly consider our own work without looking to the right or to the left.
+
+A Lutheran Free Church is also something so new that it is not strange if many pause short and think the matter over.
+
+The committee which from the beginning prepared drafts of rules for the Free Church’s work had a very difficult task. It was forbidden to try to form a new faction, at the same time as it was charged with promoting cooperation among free congregations.
+
+But in difficulties of this kind God’s Word shows the way. And for us the only question is to find that “way out” which the New Testament shows, and no other.
+
+For above all other principles in the Free Church stands the decisive authority of God’s Word in the matter of the congregation and in church polity, fully as much as in the question of doctrine.
+
+It is therefore not by cleverness and subtle ingenuity that we try to find the way; it is by childlike fidelity to the Lord’s Word. And therefore there are no living Christians who cannot and ought not to take part in the solution of the congregational question; for the light of the Word shines no less for the simple than for the wise and understanding, and most of all for the former, so that no one is exempt from occupying himself seriously and sincerely with all that belongs to the Kingdom of God. And next to the question of the salvation of the individual soul, there is no more important question than that of the congregation.
+
+“The Kingdom of God is near” is John’s cry, and the preaching of Jesus and His disciples before the outpouring of the Spirit. Since then it may be said that Christian preaching, in this respect, sounds thus: “The Kingdom of God is here.” Yet of course always coming anew and ever reaching farther to more, according to the second petition in the Lord’s Prayer.
+
+The Kingdom of God has its inner essence, which is righteousness, peace, and joy in the Holy Spirit. It also has its outward form, which is the congregation, the Spirit’s people in the world.
+
+It was Jesus’ purpose in His coming into the world to bring the Kingdom of God. And He would not only bring a spiritual benefaction into hearts, but He would also have a new society, to which He Himself has given the name congregation.
+
+What Jesus willed, that He fulfilled by death, resurrection, ascension, and the outpouring of the Spirit. Then the Kingdom of God came in the form of the congregation, with power to live and grow and propagate itself, so that “the new creation” might become manifold and fill the earth as the old did; but by new means, God’s Word and Spirit, this enlargement and extension was to take place.
+
+For this form of the Kingdom of God, which is the congregation, all the apostles and all the first Christians thereafter labored, because the Spirit drove them to it. And within the revelation of the New Testament there is no mention of any other form for the Kingdom of God.
+
+We hold that in the New Testament there is no mention of any bishopric over, or within, more than one congregation, nor of any papacy, nor of any church department, nor of any church council or council or synod. There is a congregation in every place where there are Christians, and this congregation has its elders or bishops; but there is no “church government” of any kind.
+
+It is a sign of decline and decay that, not long after the days of the apostles, men began to get “church governments” of one kind or another over greater or smaller parts of the church, and thereby thought to obtain a better form of the Kingdom of God. In the actual history of the church there has never at any time been any common church government over the whole Christian church. Nor is there any such thing now in our own day.
+
+It therefore seems to us an unreasonable and unjust demand when it is now often presented in such a way that all congregations are obliged to belong to this or that outward association, so that they may come under the proper church government. Those are called anarchists who do not regard a common church government as necessary and as a compulsory matter. But what was not found in the apostolic age, what has never since existed in the church, and what does not exist in the present time, can scarcely be necessary to Christianity. For if this were necessary, then there has hitherto never been the right kind of Christianity.
+
+For the Kingdom of God it is, according to the New Testament, necessary to have congregation, but we cannot see that any other outward organization over the congregation is a necessary part of Christianity.
+
+It is therefore a principle in the Free Church, which bows only to God’s Word and to nothing else, that the congregation is a sufficient form of the Kingdom of God, and that no other form is required from the outpouring of the Spirit until Christ’s return. But according to God’s will, revealed in His Word, the congregation is in return absolutely necessary where it is possible. Where a single Christian lives alone in prison or under some other constraint, the lack of a congregation will not become for him unto perdition; but where Christians can be a congregation and will not, there is surely great danger for their souls.
+
+As to whether councils, synods, popes, and church departments, which are not commanded in God’s Word, have done more good or harm, we cannot judge; God knows.
+
+Among us here in America these authorities over the congregations have in any case contributed much to factionalism and other sin.
+
+Nothing, therefore, can be more timely and more required among us than a work that aims at the restoration of the congregation in biblical, and especially in New Testament, form. And there is nothing that works more discouragingly upon a Christian mind than to see that so many Lutheran pastors oppose this cause with great zeal.
+
+If it is good for Christian people and for the Kingdom of God on earth that congregation be gathered, and if it is God’s Spirit that gathers congregation, why does one not grant the people this good?
+
+In many places the only question is whether the people want a pastor. When it became a matter of serious inquiry whether they also wanted congregation, then the opposition also began in earnest from the side of many pastors. But if the congregation is a great and glorious divine blessing, for the sake of which Christ has come and the Spirit has been poured out, why does one not want human beings to become partakers in it?
+
+
+
+

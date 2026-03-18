@@ -1,0 +1,292 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menigheden: not merely “congregation” in a narrow parish sense, but the spiritual community/church-congregation as a concrete body of believers. Context requires careful handling because the author moves between local congregation and the whole Church while insisting on their essential identity.
+* Naademidlernes: “means of grace,” a technical Lutheran theological term, not merely “gracious means.”
+* Naadegavernes: “gifts of grace” or “gracious gifts,” but in context best rendered as “spiritual gifts” only if doctrinal specificity is not lost. Since the author pairs it with Naademidler, “gifts of grace” or “grace-gifts” preserves the theological texture better.
+* Anvisning: “direction,” “instruction,” “guidance.” Here it means the directive norm of God’s Word.
+* Frelse og evige Salighed: “salvation and eternal blessedness.” “Blessedness” preserves the devotional and eschatological register better than a flatter modern equivalent.
+* Suk og Bøn: “sigh and prayer” or “longing and prayer.” “Sigh” preserves biblical-devotional pathos.
+* Vældes Dag: day of might/power. Must preserve biblical exaltation.
+* hellig Prydelse: “holy splendor” or “holy array.” Must preserve Psalmic dignity.
+* Kjød: “flesh,” not merely “humanity,” especially where biblical resonance matters.
+* Formvæsen: outward formalism, religion reduced to form. A key pietistic critique.
+* Suk ... Savn afhjulpet: longing, lack, deprivation being remedied. The emotional-religious nuance must remain.
+* oprinde: “dawn” or “spring forth,” with eschatological resonance.
+* Forjættelserne: “the promises,” specifically divine promises.
+* aldeles forsynder: to sin grievously/altogether against. Strong moral-theological accusation, not a mild “misunderstand.”
+* aandsfyldte Personligheder: Spirit-filled persons/personalities. “Personalities” in modern English is misleading; “persons” is safer.
+* Kundskab og Bekjendelse: knowledge and confession. Both doctrinally weighty.
+* vældige Kraft: mighty power.
+* Kjærlighedens Ild: the fire of love. Must preserve metaphor.
+* samstemmigt Vidnesbyrd: united/unanimous witness.
+* svare til sit Kald: answer to its calling, live up to its calling.
+* varagtige: steadfast, constant, persevering.
+* samdrægtige: of one accord.
+* Sværmeri: religious enthusiasm/fanaticism. Context suggests a dismissive label the author rejects.
+* prøve sig selv efter dette Lys: examine itself by this light.
+* Syndserkjendelse: consciousness/acknowledgment of sin.
+* kjødelig Tryghed og Sikkerhed: carnal security and false safety. Strong Lutheran-pietistic phrase.
+* paatvinges: imposed by force.
+* Væsen: essence, nature.
+* Guds Husfolk: household of God.
+* den lille Kirke: “the little Church,” technical ecclesiological phrase.
+* sterk: strong, not “severe.”
+* bie: await, wait expectantly.
+* forkomme at berede sig: fail/neglect to prepare herself.
+* stivner: stiffens, congeals, grows cold and rigid.
+* statskirkelige Stifte og Sæder: institutions and customs/usages of the state church. Polemical ecclesiastical expression.
+* Examen: formal examination/credentialing, here used polemically.
+* Opbyggelse: edification, building up.
+* Pund: talent, with biblical echo from the parable.
+* Livsstilling: station in life.
+* Iver: zeal.
+* forvildede og adspredte Faar: strayed and scattered sheep.
+* Hedninger: Gentiles/heathen/pagans. In missionary 19th-century context, “heathen” preserves historical voice but can sound harsher in modern English; “Gentiles” is too biblical-technical and may not fit. “Heathen” may be the most faithful to the period voice.
+* aandløse Tid: spiritless age/time.
+* frembringe Menighed: bring forth a congregation/the Church-community.
+
+Syntactic Hazards
+
+* The prose builds by accumulation: repeated “Menigheden er Opfyldelsen ...” and later “og alle ... og alle ...” must retain rhythmic repetition.
+* Long doctrinal sentences with semicolon pivots and clause chains should not be broken into short explanatory sentences.
+* Scriptural quotations are embedded into argument, not ornamental. Their placement and cumulative force must remain intact.
+* Frequent rhetorical questions drive argument and rebuke; they must remain pointed and not be flattened into statements.
+* Contrasts such as “ikke ... men ...” structure the reasoning and need to stay explicit.
+* Local and universal senses of Menighed/Kirke interweave syntactically; translation must not collapse these distinctions.
+* The author often advances by a sequence of negatives before a positive definition; this sermonic pacing should remain.
+
+Theological Hazards
+
+* The text argues that the congregation consists of believers, not merely hearers of the Word within a territorial or institutional arrangement.
+* Spirit, forgiveness of sins, the Law written in the heart, and knowledge of the Lord are marks of the true congregation.
+* Pentecost is treated as the birth of the congregation, with visible signs confirming its nature.
+* The text distinguishes sharply between outward church order and the spiritual reality of congregation.
+* It rejects the notion that a mere minority of believers suffices to constitute a true congregation in the full sense asserted here.
+* Sinlessness is denied; the congregation is composed of believers who are not yet perfect.
+* Means of grace and gifts of grace belong together in the congregation’s life and calling.
+* The congregation’s mission is the salvation of souls and the spread of the Kingdom.
+* The congregation, as the people of the Spirit, is also the instrument of God’s love seeking the lost.
+
+Voice Hazards
+
+* The tone is solemn, admonitory, confident, and polemical without being shrill.
+* The author addresses conscience and ecclesial complacency directly; this pressure must not be softened.
+* Phrases attacking spiritual deadness, formalism, and carnal security must retain force.
+* Eschatological expectancy is warm but severe; hope and warning coexist.
+* The rhetoric depends on inevitability and moral consequence, not emotional ornament. Over-literary English would distort this.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Gid alt Herrens Folk var Profeter”: biblical optative wish. Natural equivalent: “Would that all the Lord’s people were prophets.” This closely matches established English biblical phrasing.
+* “som Dugg ud af Morgenrødens Skjød”: image of dew issuing from the womb of the morning. Likely best rendered with “from the womb of the dawn/morning,” preserving the vivid biblical metaphor.
+* “skrive den i deres Hjerte”: classic new-covenant language from Jeremiah. “Write it in their hearts” is the natural biblical English equivalent.
+* “komme deres Synd ihu”: remember their sin. Older biblical English “remember ... no more” is a natural equivalent and should be preserved in modern-pronoun form.
+* “udgyde min Aand over alt Kjød”: direct biblical phrase, best kept as “pour out my Spirit upon all flesh.” “All flesh” preserves scriptural resonance better than “all people.”
+* “nedsunkne i Aandløshed og Formvæsen”: not a fixed idiom, but a pietistic diagnosis of dead orthodoxy and empty formal religion.
+* “Morgen uden Skyer”: from 2 Samuel 23 imagery. “A morning without clouds” preserves the biblical brightness.
+* “gjøre en Menighed deraf”: “make a congregation out of it” or “thereby make a congregation.” Idiomatic but should retain the author’s cutting objection.
+* “ikke af Kjød og Blod”: biblical formula meaning not from merely human source.
+* “Aandens og Livets Tegn”: signs of the Spirit and of life. The pairing is theological, not merely descriptive.
+* “Stormveiret”: storm-wind/storm. In Pentecost context it echoes Acts 2. “The sound of the mighty wind” may better capture scriptural reference than a too-literal “storm-weather.”
+* “Brøds-Brydelsen”: “the breaking of bread,” direct New Testament phrase.
+* “Hold Lyset op”: metaphor of holding up the light as a standard for self-examination. Literal retention works and preserves sermonic force.
+* “Saalænge der er Liv, er der Haab”: common proverb-like expression, but here spiritually charged. “While there is life, there is hope” works naturally.
+* “Kristi Legeme,” “Jesu Brud,” “Guds levende Tempel af levende Stene,” “Guds Husfolk,” “hans Bolig i Aanden”: dense biblical ecclesiological metaphors. These should remain metaphorical and not be paraphrased.
+* “den lille Kirke”: likely a scholarly phrase for the local congregation as a complete embodiment of the Church in miniature. Literal rendering is important because the argument depends on it.
+* “Lammets Bryllup”: “the marriage supper/wedding of the Lamb.” The immediate bridal context favors “wedding of the Lamb” or “marriage feast of the Lamb.”
+* “arbeide i Vingaarden”: direct biblical labor-in-the-vineyard expression. Natural English: “work in the vineyard.”
+* “hver med sit Pund”: allusion to the parable of the pounds/talents. In English, “each with his pound” sounds strange; “each with his talent” communicates the allusion more naturally, though “pound” is formally closer. Because the Norwegian says Pund, and English biblical tradition varies by translation, “each with his talent” may be justified for clarity of allusion; however, “each with his pound” is more literal. The safer voice-preserving choice here is “each with his pound,” unless smoothness threatens comprehension.
+* “Gaa idag hen i min Vingaard”: direct echo of Matthew 21:28. “Go today into my vineyard” preserves the Scriptural ring.
+
+Places where literal translation would obscure force
+
+* Personligheder should not become “personalities”; it means persons of a certain spiritual character.
+* Formvæsen should not become “formal existence”; “formalism” is clearer.
+* Stifte og Sæder should not be over-literalized; it refers to ecclesiastical institutions and practices.
+* forkomme at berede sig needs a rendering like “fail to prepare herself,” not “perish to prepare herself.”
+
+King James-like natural equivalents worth drawing on selectively, without archaic pronouns
+
+* “Would that all the Lord’s people were prophets.”
+* “from the womb of the morning”
+* “write it in their hearts”
+* “they shall all know me”
+* “remember their sin no more”
+* “pour out my Spirit upon all flesh”
+* “the breaking of bread”
+* “Body of Christ”
+* “bride”
+* “living stones”
+* “household of God”
+* “Go today into my vineyard”
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis heading: The congregation consists of believing human beings who, by the use of the means and gifts of grace according to God’s Word, seek their own and all their fellow human beings’ salvation and eternal blessedness.
+* First movement: The congregation is the fulfillment of Old Testament longing, song, prophecy, and promise (Moses, David, Jeremiah, Joel).
+* Second movement: Contrast with old Israel. The defect of old Israel was that few truly had the Spirit and living faith; many had only dead form or outright worldliness and idolatry.
+* Third movement: God promised a new people in whom all would have the Spirit, forgiveness, the Law in the heart, and the knowledge of the Lord.
+* Fourth movement: Polemical inference. Therefore it is a grave sin against the promises to teach that merely two or three Christians in an assembly are enough to make it a congregation.
+* Fifth movement: Christ’s word to Peter clarifies the nature of the congregation. It is not merely preaching-place, sacramental site, district, or audience, but a body of Spirit-filled confessing persons.
+* Sixth movement: Pentecost as historical realization. The congregation was born visibly, and its visible marks were Spirit, love, and united witness.
+* Seventh movement: The early Jerusalem congregation proves that a true congregation is a visible body of believing persons.
+* Eighth movement: Rhetorical defense. Was this fanaticism or misunderstanding? No, it was and remains the abiding truth by which every congregation must examine itself.
+* Ninth movement: Objection answered. “We cannot attain this pattern.” Response: Yet Christ remains the pattern; awareness of failure should produce repentance and humility, not dismissal of the standard.
+* Tenth movement: Exhortation to hope and conversion. It is not impossible for persons or members to repent and believe; the question is readiness to receive the Spirit.
+* Eleventh movement: Dogmatic summary of the congregation’s essence in New Testament images.
+* Twelfth movement: Objection answered regarding universal vs local church. The first Jerusalem congregation was both the whole Church and a local congregation; each local congregation bears full responsibility to be God’s house and Christ’s body.
+* Thirteenth movement: Clarification that believers are not yet sinless or perfect; perfection awaits resurrection.
+* Fourteenth movement: Eschatological exhortation. The bride must not fail to prepare; living expectancy of Christ’s return is a mark of a living congregation.
+* Fifteenth movement: The congregation possesses means of grace and gifts of grace, and it is unchristian to separate administration of the former from living faith.
+* Sixteenth movement: All means and gifts have one goal: salvation of souls, spread and growth of the Kingdom.
+* Final movement: Because the congregation is the people of God’s Spirit, it is also the instrument of God’s love seeking the lost everywhere. If believers begin this work, the Spirit will yet bring forth congregation in a spiritless age.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* 4 Moses 11:29 (numbering differs in some traditions): Moses’ wish that all the Lord’s people were prophets.
+* Psalm 110:3: willing people in the day of power; dew from the womb of the morning.
+* Jeremiah 31:33-34: new covenant, Law written in hearts, all know the Lord, forgiveness of sins.
+* Joel 3:1 ff. in Scandinavian numbering = Joel 2:28 ff. in many English Bibles: outpouring of the Spirit on all flesh.
+* “Morgen uden Skyer”: likely 2 Samuel 23:4.
+* Matthew 16:18: “You are Peter, and on this rock I will build my church.”
+* Matthew 16:17: not revealed by flesh and blood, but by the Father in heaven.
+* Acts 2: Pentecost, sound like a mighty wind, tongues of fire, witness, baptism of about 3000.
+* Acts 2:42-47: apostles’ teaching, fellowship, breaking of bread, prayers, togetherness, common possessions.
+* 1 John 2:6: walk as he walked.
+* “so long as there is life, there is hope” is proverb-like rather than a clear biblical quotation.
+* “The people of the Spirit” reflects Pauline ecclesiology.
+* “Body of Christ”: Romans 12:5; 1 Corinthians 12; Ephesians 4.
+* “Bride of Jesus/Christ”: Ephesians 5; Revelation 19; 21.
+* “living temple of God of living stones”: 1 Corinthians 3:16; Ephesians 2:21-22; 1 Peter 2:5.
+* “household of God” and “dwelling in the Spirit”: Ephesians 2:19-22.
+* “Get behind me, Satan”: Matthew 16:23; Mark 8:33.
+* “resurrection of the dead”: 1 Corinthians 15 and general NT doctrine.
+* “the wedding of the Lamb”: Revelation 19:7-9.
+* “Come, Lord Jesus, come soon”: Revelation 22:20.
+* Means and gifts for edification: 1 Corinthians 12-14; Ephesians 4.
+* “work in the vineyard” and “Go today into my vineyard”: Matthew 20:1 ff.; Matthew 21:28.
+* “each with his pound”: Luke 19:13.
+* “seek that which was lost, to save it”: Luke 19:10.
+* “scattered sheep”: Matthew 9:36; Ezekiel 34; John 10 resonances.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author’s rebuke of low ecclesial standards must remain direct: teachings that reduce the congregation to a mixed assembly with only a few believers are not merely inadequate but sinful against the promises.
+* Terms describing deadness, formalism, worldliness, and idolatry must retain their severity.
+* The rhetorical questions should remain sharp and searching, not softened into reflective prose.
+* Hope is real, but it is not sentimental; it stands beside repentance, self-examination, and urgency.
+* The final missionary appeal must feel like vocation and command, not general inspiration.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* skulde / skal often carry divine intention, promise, or obligation and must usually be rendered with “shall” or a strong future/necessitative form, depending on context.
+* vilde in prophetic contexts often indicates divine will/purpose: “would” or “willed/intended.”
+* kan ikke must remain “cannot,” not “may not be able to” unless context demands nuance.
+* sømmer det sig da ikke must retain moral fittingness: “does it not become us,” “is it not fitting for us.”
+* skyldig til must remain “bound/obliged/duty-bound,” not merely “inclined.”
+* bør is not central here, but any normative form must preserve obligation.
+* maa is not prominent in this passage, but if implied, it would need “must.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menigheden: generally “the congregation,” because the author emphasizes the concrete local body while also attributing to it the fullness of the Church. Where universal sense dominates, “the Church” may appear in quotation or explanation, but the main term should remain stable as “the congregation.”
+* Kirke: “Church.”
+* Aand / Guds Aand: “Spirit” / “God’s Spirit.” Where clearly the third Person is intended in active theological reference, “Holy Spirit” may be used if the original specifies or context makes it doctrinally appropriate. Since the source usually says Aand/Herrens Aand/Guds Aand, “Spirit” and “the Lord’s Spirit” should be maintained.
+* Naademidler: “means of grace.”
+* Naadegaver: “gifts of grace.”
+* Frelse: “salvation.”
+* evige Salighed: “eternal blessedness.”
+* Syndsforladelse: “forgiveness of sins.”
+* Loven: “the Law.”
+* Omvendelse: “conversion” or “repentance.” In passages “omvende os og tro” it should be “repent and believe.”
+* Troende Mennesker: “believing people” or “believing human beings.” Within prose, “believers” is often the best concise equivalent.
+* Aandsfyldte: “Spirit-filled.”
+* Kristi Legeme: “Christ’s body.”
+* Jesu Brud: “Jesus’ bride” or “the bride of Jesus.” Since the author alternates Christ/Jesus, preserve the specific name used.
+* Guds Husfolk: “God’s household.”
+* Bolig i Aanden: “dwelling in the Spirit.”
+* Opbyggelse: “edification” or “building up.” Since the author uses building imagery elsewhere, “building up” may work, but “edification” preserves theological register.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Dew from the womb of the dawn must remain a metaphor, not be reduced to “freshly and abundantly.”
+* Morning without clouds must remain imagistic.
+* Fire of love, mighty power of the Spirit, living stones, house, body, bride, vineyard, scattered sheep: all must remain concrete metaphors.
+* “Hold up the light” must stay metaphorical as the standard of divine truth.
+* “where this expectation stiffens” should retain bodily metaphor of spiritual rigidity.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Promise and fulfillment sections are elevated and exultant.
+* Diagnosis of Israel’s failures and present churchly complacency is stern and condemnatory.
+* The defense against objections combines firmness with pastoral realism.
+* Eschatological waiting brings tenderness and longing, but immediately with warning against deadness.
+* The conclusion turns outward in energetic missionary urgency.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Repetition of “The congregation is ...” should remain at the head of successive paragraphs.
+* Clause-linked sentences should be preserved where they enact sermonic accumulation.
+* Questions should be allowed to stand in sequence for oral force.
+* Enumerations with repeated “and” are important to cadence and should not be overly compressed.
+* The conclusion should sound speakable aloud, with direct address to every soul.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+II.
+
+2. The congregation consists of believing human beings, who by the use of the means of grace and the gifts of grace according to the direction of God’s Word seek their own salvation and eternal blessedness, and that of all their fellow human beings.
+
+The congregation is the fulfillment of Moses’ sigh and prayer in Num. 11:29: “Would that all the Lord’s people were prophets, would that the Lord would put his Spirit upon them!”
+
+The congregation is the fulfillment of David’s song in Psalm 110:3: “Your people come willingly in the day of your power; in holy splendor your youth come to you like dew from the womb of the dawn.”
+
+The congregation is the fulfillment of Jeremiah’s prophecy in Jer. 31:33: “But this is the covenant that I will make with the house of Israel after those days, says the Lord: I will put my Law within them and write it in their hearts, and I will be their God, and they shall be my people; and they shall no more teach each his neighbor and each his brother, saying, Know the Lord; for they shall all know me, both small and great, says the Lord; for I will forgive their iniquity and remember their sin no more.”
+
+The congregation is the fulfillment of Joel’s prophecy in Joel 3:1: “And it shall come to pass afterward that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy; your old shall dream dreams, your young men shall see visions; and also upon the menservants and upon the maidservants in those days will I pour out my Spirit.”
+
+And a multitude of other testimonies from the Old Testament might be brought forward, which bear witness that the Lord in the fullness of time would set a new people of God upon the earth, who should not suffer under the deficiencies under which the old Israel suffered.
+
+What the prophets always complained of in the old Israel was this, that it answered so poorly to its calling and its election, because there were so few who were truly filled with the Lord’s Spirit and had living faith. Most had sunk into spiritual lifelessness and formalism, not to mention that many even lived outright in sheer worldliness and gross idolatry.
+
+But the Lord promises that the sighing of his children shall be heard and their complaint and lack remedied, and the day shall dawn, a “morning without clouds,” when a new people of God shall be born, like the dew from the womb of the dawn, in which all shall have the Spirit, and all shall have forgiveness of sins, and all shall have the Law written in their hearts, and all shall know the Lord, and all shall prophesy.
+
+These are indeed the promises. It is against these that one sins altogether, when one teaches that two or three Christians in each assembly are enough to make a congregation out of it.
+
+Jesus Christ himself says: “You are Peter, and upon this rock I will build my congregation.” And already from that one ought to understand that congregation is not merely a place where God’s Word is preached and the Sacraments administered, or a district with geographical boundaries, or a gathering of hearers of God’s Word. No, Christ’s congregation consists precisely of the same kind of Spirit-filled persons as Simon son of Jonah, whose knowledge and confession were not of flesh and blood, but from the Father in heaven.
+
+And what the prophets had foretold, and Jesus promised, that God did when he sent the Spirit at Pentecost after Jesus’ resurrection and ascension. Then the congregation was born; and the signs that accompanied the birth are precisely the signs of the Spirit and of life, in order that it may be established for all times that where there is not the mighty power of the Spirit, and where there is not the fire of love, and where there is not united witness to the Lord’s great work, there is no congregation.
+
+This newborn congregation was a visible company of human beings. Not only the Word and the Sacraments were visible; the persons who constituted the congregation were visible. The sound of the mighty storm-wind was heard out through the city, so that the multitude came together; the tongues of fire which settled upon each of them showed who it was the Lord had filled with the Spirit; the witness to the Lord’s great works was heard, and those speaking were seen by all, both believers and unbelievers.
+
+So far the congregation is visible; and when 3,000 were added to the congregation by baptism, then the congregation was still visible. And when all those who believed were steadfast in the apostles’ teaching and the fellowship and the breaking of bread and the prayers, and when they were of one accord daily in the temple, and when they were together and had all things in common, then it was a visible congregation of believing human beings.
+
+Was all this then a mistake, a fanaticism without meaning and without significance for the future? Was this a misunderstanding which history was to correct? Or was it the light, the light of the Spirit and of truth, which was to shine for souls and for congregations through all times until Christ’s return?
+
+We hold that this was the truth and is the truth and remains the truth; and that what is called congregation is bound to examine itself by this light.
+
+One says that it is meaningless, for all know that we cannot rise to this pattern. But is not Jesus Christ a pattern for us, and are we not bound to walk as he walked? We know indeed that we cannot attain it; but does it not become us then to live in acknowledgment of sin and humility? And for the congregation even this would already be an advance, if it would begin to live in repentance instead of in carnal security and self-assurance. Hold up the light, and be assured that it never becomes too bright in the Church.
+
+But is it impossible? Is it impossible for us to repent and believe in Jesus Christ? Let us not give up hope for the conversion of any human being or any member of the congregation. So long as there is life, there is hope. The Lord will pour out his Spirit upon all flesh; the question is whether all flesh is ready to receive the Spirit; for Spirit cannot be forced upon anyone.
+
+Thus according to the New Testament there can be no doubt about the essence of the congregation. It is the people of the Spirit, so that it extends exactly as far as the working of God’s Spirit. It is Christ’s body, it is Jesus’ bride, it is God’s living temple of living stones, it is God’s household and his dwelling in the Spirit.
+
+One will say, yes, that is the whole Church; it is so good, but each little congregation is so poor.
+
+Not at all. That first congregation in Jerusalem was indeed both the whole Christian Church and the single local congregation. On that day the one was no greater or wider in extent than the other. And nothing has ever become good by becoming large. The congregation is the “little Church,” as the learned are wont to say. And by that is meant that all that the Church has, the congregation also has; and all that the Church is, the congregation also is. And besides, it is surely clear to all thinking people that each single little part of a building can more easily be good and strong and complete than the whole building; for among 100 stones a bad stone may easily be found, while perhaps the 99 may be good stones; and while the one bad stone does not alter the 99 good stones each in itself, it can nevertheless do much harm to the whole building. In any case it is clear that the responsibility falls upon each single congregation; it is that which first and foremost is to be God’s house and the body of Jesus Christ.
+
+But if the congregation consists of believing human beings, is it thereby meant that it is perfect, that is, without sin?
+
+No, by no means. The Christian persons are not perfect, but shall become so. Or was it not said to Peter—perhaps the very same day he was called the rock—Get behind me, Satan! There is no perfect congregation before the resurrection of the dead.
+
+Let us await him who is to come again to fetch the bride to the wedding of the Lamb, and let not the bride fail to prepare herself. And while we wait, let this be our daily prayer: Come, Lord Jesus, come soon! For where this expectation stiffens, whether because one has sunk back into the world, or because one thinks one has already come to the goal, there the congregation is no longer living.
+
+The congregation has means of grace and gifts of grace, with and by which it works. The common explanation, that the congregation has means of grace, and that it has the power and authority to choose whom it will, believer or unbeliever, to administer them, only provided he “has passed his examination,” is not Christian, even if it suits well our state-church institutions and usages. The congregation also has gifts of grace, if it is faithful in its calling. Indeed every believer has his gift of grace and is bound to use it for the edification of Christ’s body.
+
+For all means and all gifts have this one goal, which is the same as the salvation of souls, or the spread and growth of the Kingdom at home and abroad. We are all called to work in the vineyard, each according to his ability and gift, each with his pound. And whatever our station in life may be, if we are in the congregation, then this is our calling: to live for God and for his Kingdom, to labor for it with all the zeal that God’s Spirit works and Christ’s love creates.
+
+For if the congregation is the people of God’s Spirit, then it is the instrument of God’s love upon earth. But God’s love is in a wholly particular sense that which seeks after the lost in order to save it. For many reasons it is necessary to lay great weight upon this last point just now. For the strayed and scattered sheep are surely not far from any one of us. And this is the most important of all signs of life in the congregation, that it wills to have all the lost saved. All those here at home, all those out there, all in the Christian lands, all heathen who do not know God. World-embracing is the congregation’s calling, and yet the work for its fulfillment is so near at hand that it sounds to every soul: Go today into my vineyard!
+
+If the believers in each outward congregation will begin this work, then there will soon be change among us, and in the midst of our spiritless age it will become manifest that God’s Spirit is still mighty to bring forth congregation.

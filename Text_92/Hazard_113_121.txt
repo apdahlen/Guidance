@@ -1,0 +1,515 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menigheden: not merely “the congregation” in a narrow local-attendance sense, but the believing congregation/church as a spiritually constituted local body.
+* Anliggender: “affairs,” “concerns,” “matters”; here it refers to the congregation’s own internal and practical concerns.
+* Tøighed: older term for restraint, tutelage, controlling discipline, ecclesiastical leading-strings; must not be flattened into merely “guidance.”
+* aandelige Gaver / Naadegaver: spiritual gifts / gifts of grace; doctrinally charged terms linked to New Testament charismata.
+* Opbyggelse: edification, building up; a biblical and ecclesial term, not mere “improvement.”
+* inderste Vesen: innermost essence, essential nature.
+* Menighedsarbeide: congregational work, work of the congregation; not generic “church activities.”
+* fuldt forvisset i sit eget Sind: fully persuaded in its own mind; likely echoing biblical phrasing and must retain moral-intellectual certainty.
+* kræve den til Regnskab: call it to account; judicial and theological force.
+* Vei og Virke: way and work/activity; paired expression with sermonic cadence.
+* Evne og Kraft: ability and power/strength; both should be preserved.
+* nu om Dagene: nowadays / in these days.
+* Prest / Prædikant / Embedsmænd: preacher/pastor/priest; officeholders; terms must be handled consistently and with attention to the author’s ecclesial context.
+* uomvendt Prest: unconverted pastor/priest; doctrinally sharp and must not be softened.
+* kaldt ham paa en i det udvortes lovlig Maade: called him in a manner outwardly lawful; important distinction between outward legality and inward spiritual reality.
+* Fordreielse: distortion, perversion, twisting.
+* skikkede: fitted, qualified, made fit.
+* godt Vidnesbyrd: good testimony / good report.
+* Helligaand: Holy Spirit.
+* Hjertekjendere: knowers of hearts; direct theological phrase.
+* retsindige Valg: right-minded / upright election; “conscientious” may work, but must preserve moral-spiritual rectitude.
+* Arbeidere i Vingaarden: workers in the vineyard; biblical metaphor must be preserved.
+* Herrens Tugt og Formaning: the Lord’s nurture/discipline and admonition; likely echo of Ephesians 6:4.
+* udvortes Orden: outward order.
+* Pengejagerne: likely account-books / money records / financial books or ledgers; context indicates financial administration, not “money-hunters.”
+* idiotisk: idiotic; unusually sharp polemical force must be preserved.
+* Opbyggelsesarbeide: edifying work / work of edification.
+* opelske, fremlokke, fremkalde: cultivate, call forth, draw forth; a rising sequence that should not be collapsed.
+* fremstille dig selv som et levende, helligt og Gud velbehageligt Offer: present yourself as a living, holy, God-pleasing sacrifice; clear echo of Romans 12:1.
+* Pund og Talenter: pounds and talents / entrusted gifts; biblical imagery should remain recognizable.
+* duer: is fit / is capable / is suited.
+* forkvakles: become warped, misshapen, spoiled in development.
+* prøve alt og beholde det gode: test everything and hold fast to what is good; biblical echo.
+* rette Skikkelse: right form / proper shape.
+* Tjenere og Tjenerinder: servants, male and female servants; the paired gendered form matters.
+* Sværmeri: fanaticism / enthusiasm in the pejorative older theological sense; not mere “idealism.”
+* Haver Tro til Gud: Have faith in God.
+* gjensidig Hjælp / Samarbeide / Samvirke / Paavirkning: mutual help / cooperation / joint work / influence; distinctions matter.
+* Samfund: association, fellowship, communion, organized body; here often ironized because the outward “association” lacks true spiritual fellowship.
+* udestænger og afskjærer: excludes and cuts off.
+* Ledebaand: leading-strings, controlling straps; image of mechanical control.
+* Aandedpust: breath of רוח/Spirit-like freedom; “breath of freedom” preserves metaphor.
+* Partivæsenet: party-spirit / factionalism / partisan system; must retain moral condemnation.
+* Stikord: slogans, catchwords.
+* Frikirkens ledende Principer: the Free Church’s guiding principles.
+* giver Afkald paa denne falske Magt: renounces this false power.
+* Forbund: federation/bond/union; in context a fellowship or union of congregations.
+* Tornegjærder: thorn hedges; strong image for divisive barriers.
+* Aandens Enhed i Fredens Baand: unity of the Spirit in the bond of peace; clear scriptural echo.
+* Levendegjørelse og Frisgjørelse: enlivening / vivification and liberation / making free.
+* Uselvdom: misery, wretchedness, pitiable condition; old form, contextually “wretchedness” fits.
+* Lægmænd / Lægprædikanterne: laymen / lay preachers.
+* gjøre Alvor af: make earnest of, seriously undertake.
+* upartisk Vækkelsesarbeide: impartial revival work.
+* paakrævet: required, urgently demanded.
+* stelle med en Sag: tend to / manage / carry forward a cause.
+* bier/bie: wait.
+* Santalerne: the Santals.
+* Hvor Herrens Aand er, der er Frihed: direct scriptural wording.
+
+Syntactic Hazards
+
+* The prose often builds arguments through long periodic sentences with multiple subordinate clauses; these must not be chopped into modern short statements.
+* Semicolons and clause pairings carry logical weight and sermonic pacing; they should be preserved where possible.
+* Repeated “Dersom ... saa ...” structures establish deductive argument and should remain explicit.
+* The author uses accumulative syntactic movement: thesis, doctrinal principle, implication, rebuttal, scriptural proof, pastoral application.
+* Quoted biblical material is embedded mid-argument; the translation must keep these embedded quotations integrated rather than isolated artificially.
+* Parallelisms such as “Troen og Livet og Gaverne,” “store og smaa, unge og gamle, Mænd og Kvinder,” and “Frihed til at virke, Frihed til at lide ...” must remain rhythmic and unflattened.
+* Rhetorical questions at the close of sections intensify moral appeal; they should remain direct and unsoftened.
+* The shifts between description, denunciation, and exhortation happen without modern signposting; the translation should preserve this organic movement.
+
+Theological Hazards
+
+* The distinction between external ecclesiastical legality and genuine spiritual qualification is central; it must remain sharp.
+* The relation of congregation to Word and Spirit is one of absolute authority; this is not generic inspiration but binding divine rule.
+* The doctrine of charismata is corporate and universal among believers, not clerical monopoly; this must remain clear.
+* True ministry depends on faith and gift of the Spirit, not office conferred by outward call alone.
+* The congregation’s accountability before God is direct and total.
+* Christian duty is communal and participatory; all believers are workers in God’s vineyard.
+* The call to offer oneself as a living sacrifice must retain sanctification language, not become general volunteering.
+* “Full of the Holy Spirit and wisdom” concerns discernment of spiritual qualification, not merely administrative competence.
+* The denunciation of party-spirit is theological, not merely sociological; partisan machinery opposes the Spirit’s freedom.
+* Free cooperation among congregations is to be prompted by the Spirit, not by coercive ecclesiastical centralization.
+* Freedom is defined positively as the sphere of the Lord’s Spirit, including suffering and death for the cause.
+
+Voice Hazards
+
+* The author’s tone is solemn, insistent, and polemically earnest; smoothing would erase his sermonic authority.
+* Sharp condemnations (“false doctrine,” “ungodly opinion,” “idiotic”) are deliberate and should not be toned down.
+* The repeated appeals to Scripture as decisive norm must sound judicial and unavoidable, not optional or advisory.
+* The author addresses conscience collectively; the reader must feel implicated.
+* Irony around “Samfund” and party organizations must remain visible.
+* The cadence alternates between doctrinal statement and prophetic rebuke; this contrast must be preserved.
+* The closing appeals (“Are we such congregations?” “Have faith in God!” “Must God also wait...?”) must retain urgency and challenge.
+
+STEP 2: IDIOM ANALYSIS
+
+* “fuldt forvisset i sit eget Sind”
+
+  * Meaning: fully persuaded in its own mind/conscience.
+  * Context: echoes Pauline moral certainty.
+  * Implication: the congregation acts not arbitrarily but under persuaded conscience before God.
+  * English rendering: “fully persuaded in its own mind.”
+
+* “kræve den til Regnskab”
+
+  * Meaning: call to account.
+  * Context: judicial-biblical language of divine reckoning.
+  * Implication: congregational acts are morally accountable before God.
+
+* “uden Lys og uden Kraft”
+
+  * Meaning: without light and without power.
+  * Context: biblical imagery of illumination and divine enablement.
+  * Implication: God supplies both guidance and strength.
+
+* “Over Guds Menigheds Vei og Virke skinner Ordets Lys”
+
+  * Meaning: the Word illumines the congregation’s path and labor.
+  * Scriptural resonance: Psalm 119:105 and related biblical light imagery.
+  * Literal translation is workable and should be preserved.
+
+* “kun finder dem hos Presterne” / gifts found “only among the clergy”
+
+  * Meaning: criticism of clerical monopoly on spiritual gifts.
+  * Implication: rejects sacramental-office automaticism.
+
+* “bare en Menighed har kaldt ham paa en i det udvortes lovlig Maade”
+
+  * Meaning: merely because a congregation called him in outward legal form.
+  * Implication: outward regularity does not create inward grace.
+
+* “opfor til det høie efter Fornedrelsen”
+
+  * Meaning: ascended on high after humiliation.
+  * Scriptural source: Ephesians 4, with Christ’s exaltation following humiliation.
+  * KJV-like equivalent exists conceptually, but the translation should remain plain and direct.
+
+* “kronede sin Seier ved at uddele Gaver blandt Menneskene”
+
+  * Meaning: crowned his victory by distributing gifts among men.
+  * Scriptural source: Ephesians 4:8 / Psalm 68.
+  * The victory-and-gift sequence should be preserved.
+
+* “Udser derfor, Brødre...”
+
+  * Meaning: select therefore, brothers...
+  * Source: Acts 6:3.
+  * Natural English equivalent: “Therefore, brothers, select...” or “Look out therefore...” A modern-pronoun rendering with preserved gravity is best.
+
+* “vi er ikke Hjertekjendere”
+
+  * Meaning: “we are not knowers of hearts.”
+  * Implication: common excuse for evading spiritual discernment.
+  * Literal rendering is strong and should be retained with minimal explanation.
+
+* “Arbeidere i Vingaarden”
+
+  * Meaning: workers in the vineyard.
+  * Scriptural context: parables and labor imagery from the Gospels.
+  * Strong biblical idiom; preserve literally.
+
+* “Herrens Tugt og Formaning”
+
+  * Meaning: the Lord’s discipline/nurture and admonition.
+  * Scriptural source: Ephesians 6:4.
+  * A natural English equivalent is “the discipline and admonition of the Lord.”
+
+* “holde Pengejagerne i god Orden”
+
+  * Context suggests bookkeeping/financial records rather than a literal “chasing of money.”
+  * Best rendering: “keep the account-books in good order” or “keep the books in good order.”
+  * Literal rendering would obscure meaning.
+
+* “fremstille dig selv som et levende, helligt og Gud velbehageligt Offer”
+
+  * Meaning: present yourself as a living, holy, God-pleasing sacrifice.
+  * Scriptural source: Romans 12:1.
+  * Very close English biblical equivalent should be used.
+
+* “betroede Pund og Talenter”
+
+  * Meaning: entrusted pounds and talents; entrusted gifts/resources.
+  * Source: Gospel parables.
+  * Literal biblical terminology should be preserved because of the allusion.
+
+* “prøve alt og beholde det gode”
+
+  * Meaning: test all things and keep/hold fast what is good.
+  * Source: 1 Thessalonians 5:21.
+  * Natural English equivalent: “test everything and hold fast to what is good.”
+
+* “Haver Tro til Gud”
+
+  * Meaning: Have faith in God.
+  * Source: Mark 11:22.
+  * Strong imperative; retain concise biblical force.
+
+* “Frihedens Aandedpust”
+
+  * Meaning: a breath of freedom.
+  * Implication: free spiritual life as vivifying air/breath.
+  * Literal metaphor should be preserved.
+
+* “Aandens Enhed i Fredens Baand”
+
+  * Meaning: the unity of the Spirit in the bond of peace.
+  * Source: Ephesians 4:3.
+  * The standard biblical English equivalent works naturally.
+
+* “stive, piggede og taggede Gjærder”
+
+  * Meaning: stiff, spiked, jagged fences.
+  * Function: vivid polemical metaphor for ecclesiastical barriers.
+  * Must remain concrete, not abstracted to “divisions.”
+
+* “gjøre Alvor af”
+
+  * Meaning: make serious business of / seriously undertake.
+  * Tone: calls for earnest action, not casual effort.
+
+* “de kirkelige Interessers Storkraft”
+
+  * Meaning: the great force/power of ecclesiastical interests.
+  * Implication: politicians exploit the mass-energy of church causes for self-advancement.
+
+* “der ikke sidder formange Politikere paa Læsset”
+
+  * Meaning: when not too many politicians are sitting on the load/wagon.
+  * Idiom: a concrete image for burdening or steering the enterprise.
+  * Literal metaphor can be preserved.
+
+* “bie til nogen valgte dem”
+
+  * Meaning: wait for someone to elect/appoint them.
+  * Implication: critiques procedural paralysis when God has inwardly called people.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Section V, points 5–6
+
+* Thesis: If the congregation truly consists of believers in a place organized to work for God’s kingdom, then it necessarily follows that the congregation is self-governing in its work.
+* Foundational doctrinal claim: Christianity in its innermost essence is relation to God, involving complete dependence on Him and complete freedom in Him.
+* Immediate inference: No human authority rules the congregation in its congregational work; instead, the congregation stands under the absolute authority of Word and Spirit.
+* Clarification: Separation from this authority means ceasing to be a congregation in the true sense.
+* Ethical implication: The congregation’s self-government entails responsibility and divine accountability for every act.
+* Pastoral assurance: God has not left His believing congregation without light or strength.
+* Polemical turn: The false teaching that gifts are practically confined to clergy, or bestowed by office itself, is exposed and rejected.
+* Doctrinal correction: True ministers need both faith and spiritual gift, but neither is produced by outward call; all believers receive gifts for service.
+* Scriptural proof: Christ, exalted after humiliation, distributed gifts; hence the congregation must choose those whom God has already made fit.
+* Practical ecclesiology: Acts 6 provides a rule for congregational choice—select those of good report, full of the Holy Spirit and wisdom.
+* Rebuke to theological superficiality: The congregation must discern spiritual qualifications and cannot hide behind the phrase “we are not knowers of hearts.”
+* Balance: Officeholders are specially appointed workers, but not the only workers; all believers must labor.
+* Illustration: Christian child-rearing shows that official institutions cannot replace believers’ own duties.
+* Strong denunciation: It is as absurd to think only the pastor should do all edifying work as to think only the treasurer should handle the whole financial life.
+* Further obligation: The congregation must not merely use gifts but awaken, cultivate, and call them forth.
+* Means: public preaching must address believers as active members with entrusted gifts; congregational brotherliness and counsel must foster discernment of who is fit for what.
+* Warning: If gifts are not sought, they will be wasted or distorted.
+* Concluding vision: The true congregation is a people of believing, praying, and working persons, wholly belonging to the Lord.
+* Final appeal: Are we such congregations? If not, why not? The impossibility objection is answered by faith in God.
+
+Section VI, points 7–9
+
+* Thesis: Although the Free Church emphasizes the congregation’s life and freedom, it is not opposed to cooperation among congregations.
+* Qualification: Existing synods and councils may call themselves “fellowships,” but often fail to match the name.
+* Polemical diagnosis: Instead of free cooperation and mutual spiritual influence, there are party organizations that exclude what does not fit church-political machinery.
+* Social-spiritual consequence: These organizations have led people into fanatical party spirit and bitter, spiritless conflict.
+* Critique of remedy-by-multiplication: Creating new “fellowships” merely creates new parties with new slogans and bitterness.
+* Proposed alternative: The Free Church principles aim at abolition of party spirit, not abolition of fellowship itself.
+* Strategic renunciation: The Free Church gives up the false power generated by party heat so that freedom may have room.
+* Hopeful horizon: Perhaps real Christian and congregational cooperation led by the Spirit, not church politics, may arise.
+* Realistic concession: The goal is high and distant, but if congregations become true congregations, their union may become true fellowship.
+* Immediate practice: Even now, some degree of free and spiritual cooperation should be practiced.
+* Practical forms: free meetings, exchange of thought, crossing partisan barriers, mutual visits, especially by laypeople, and common work on tasks beyond one congregation’s strength.
+* Theological criterion: Shared New Testament and Lutheran ground is enough basis for meeting and discussing awakening, preservation, enlivening, and liberation.
+* National lament: The Norwegian Lutheran church appears pitiable in its fenced-off condition, with pastors and congregations shut off from one another despite common doctrine.
+* Call to action: Something must be done; while parties preserve the evil, the Free Church must patiently overcome it.
+* Special means: mutual visits, especially by laymen; lay preachers must work for Spirit and life, not party.
+* Present limitation/future hope: Even if pastors still cannot preach freely across church barriers, lay preachers should undertake impartial revival work.
+* Moral assertion: It is sin to use gifts in service of party spirit and sin to shut churches against God’s Word.
+* Challenge to leaders: Even the greatest leaders should admit such a program is justified and necessary.
+* Objection raised: What about common works such as mission, schools, and children’s homes?
+* Response: The answer is already visible in existing free works; interested persons begin the work voluntarily and receive gifts from willing supporters without coercion.
+* Principle: Those most interested should manage the cause; this serves both freedom and the cause itself.
+* Anti-political note: Church politicians dislike this because it prevents self-exaltation through ecclesiastical causes.
+* Claimed benefit of free work: it gathers the truly interested and avoids forcing the uninterested by organizational machinery.
+* Final objection raised: Interested persons seem to appoint themselves instead of waiting for election.
+* Response: What if God put the task into their mind and they followed His call? Must God also wait for organizational decisions?
+* Climactic conclusion: Where the Lord’s Spirit is, there is freedom—to work, suffer, live, and even die for the cause. The section ends with an appeal to believe in the Holy Spirit.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “fuldt forvisset i sit eget Sind”
+
+  * Likely Romans 14:5: “Let every man be fully persuaded in his own mind.”
+
+* “Over Guds Menigheds Vei og Virke skinner Ordets Lys”
+
+  * Likely echo of Psalm 119:105: God’s word as lamp/light for the path.
+
+* “Herren, som opfor til det høie efter Fornedrelsen ... uddele Gaver blandt Menneskene”
+
+  * Ephesians 4:8–11, with Psalm 68 in the background.
+
+* “Udser derfor, Brødre, syv Mænd blandt eder, som har godt Vidnesbyrd og er fulde af den Helligaand og Visdom”
+
+  * Acts 6:3.
+
+* “Arbeidere i Vingaarden”
+
+  * Gospel vineyard imagery, especially Matthew 20 and related passages.
+
+* “Herrens Tugt og Formaning”
+
+  * Ephesians 6:4.
+
+* “et levende, helligt og Gud velbehageligt Offer”
+
+  * Romans 12:1.
+
+* “Pund og Talenter”
+
+  * Luke 19 and Matthew 25.
+
+* “prøve alt og beholde det gode”
+
+  * 1 Thessalonians 5:21.
+
+* “skabte af ham til al god Gjerning”
+
+  * Ephesians 2:10.
+
+* “Haver Tro til Gud, hvad der er umuligt for Mennesker, det er muligt for Gud”
+
+  * Mark 11:22 and synoptic sayings such as Mark 10:27 / Matthew 19:26.
+
+* “Aandens Enhed i Fredens Baand”
+
+  * Ephesians 4:3.
+
+* “Hvor Herrens Aand er, der er Frihed”
+
+  * 2 Corinthians 3:17.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must preserve the author’s severe certainty when rejecting false doctrine concerning office and gifts.
+* Terms of rebuke such as “false doctrine,” “ungodly opinion,” “distortion,” and “idiotic” should remain forceful.
+* The prose should continue to sound like doctrinal exhortation addressed to the conscience of the church, not detached analysis.
+* The final rhetorical questions must remain accusatory and awakening, not softened into reflection.
+* The polemic against party organizations must keep its heat while remaining controlled and reasoned.
+* The climactic language of freedom—freedom to work, suffer, live, and die—must remain solemn rather than romanticized.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “følger det med Nødvendighed” must be rendered with necessity: “it follows of necessity.”
+* “maa” throughout must retain force as “must,” not “should” where obligation is meant.
+* “kan ikke” / “kan ei” must remain impossibility, not mere difficulty.
+* “skal” in normative passages must remain “shall” or “must” depending on idiomatic English force.
+* “skyldig” in contexts of duty should remain “bound” or “obliged,” not merely “expected.”
+* “paakrævet” must be “required” or “demanded,” not “desirable.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation (used consistently for the local believing body)
+* Guds Ord = God’s Word
+* Aanden / Guds Aand / Helligaand = the Spirit / God’s Spirit / the Holy Spirit
+* Naadegave / Naadegaver = gift of grace / gifts of grace, or spiritual gift(s) when needed for idiomatic clarity
+* Opbyggelse = edification
+* Tro = faith
+* uomvendt = unconverted
+* Embede / Embedsmand = office / officeholder
+* Guds Rige = God’s kingdom
+* Vækkelse = awakening / revival depending on context
+* Samfund = fellowship / association, with quotation marks preserved where ironic
+* Partivæsen = party-spirit or factionalism
+* Frihed = freedom
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “Word’s light” over the congregation’s way and work should remain image-rich.
+* “Workers in the vineyard” must remain literal.
+* “living, holy, God-pleasing sacrifice” must remain sacrificial imagery.
+* “entrusted pounds and talents” should remain metaphorical-biblical rather than explanatory.
+* “thorn hedges,” “stiff, spiked and jagged fences,” and “leading-strings” must remain vivid images of restriction.
+* “breath of freedom” must keep the image of living air or breath.
+* “too many politicians sitting on the load” should remain concrete.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Section V moves from doctrinal calm to fierce rebuke, then to constructive instruction, then to a high concluding vision and challenge.
+* Section VI moves from sober qualification to bitter critique, then to hopeful possibility, then to practical counsel, and finally to a triumphant appeal to the Spirit’s freedom.
+* These tonal shifts must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentence length should often remain extended where the original accumulates thought.
+* Repetitions such as “and ... and ... and ...” should be preserved for sermonic flow.
+* Rhetorical questions should stand as oral challenges.
+* Quotations of Scripture should fall naturally into the prose as spoken authority.
+* The final crescendo of Section VI should be translated with strong, speakable rhythm.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+V.
+
+5. The congregation governs its own affairs under the authority of God’s Word and Spirit, and acknowledges no other ecclesiastical authority or tutelage over itself.
+
+6. The free congregation esteems and loves all the spiritual gifts which the Lord bestows for its edification, and seeks to quicken the gifts and promote their use.
+
+If it is true, as God’s Word bears witness, that the congregation consists of the believers in each place who there on that place have formed an organization in order to labor for God’s kingdom, then it follows of necessity therefrom that the congregation is self-governing and independent of other men in this its work.
+
+For Christianity is in its innermost essence a relation to God, which brings with it a complete dependence on Him and yet a complete freedom in Him.
+
+If therefore other men have no authority over the congregation in its congregational work, then in the fullest possible measure the congregation does have an authority over it, namely the Word and the Spirit. And so absolute is this authority, that the congregation is no longer a congregation when it tears itself loose from this; and only so far is the congregation a congregation as it follows this authority.
+
+It is this which gives the congregation its self-dependence and its responsibility. It acts as it acts because it is fully persuaded in its own mind that thus it is right and proper according to God’s Word, and thus God’s Spirit drives it through the Word. Therefore it knows also that God will call it to account for every single one of its actions.
+
+For God has not left His believing congregation without light and without strength.
+
+Over the way and work of God’s congregation the light of the Word shines clearly and mightily; and God’s Spirit gives ability and strength to walk the way and to carry out the work.
+
+It is not seldom heard in this connection that the gifts of grace are so scanty nowadays that one properly speaking finds them only among the clergy. And among the clergy they are found, not because God’s Spirit has given them gifts of grace, but because the congregation has chosen and appointed them to the “office.”
+
+This false doctrine is widely spread also among us and is frequently used in defense of the ungodly opinion that an unconverted pastor is a true pastor, provided only that a congregation has called him in an outwardly lawful manner.
+
+A more forcible distortion of God’s truth is scarcely to be found. And yet it is not rare to hear such opinions advanced and defended within the Church.
+
+It is true that no one can be a true pastor, such as a pastor ought to be, unless he has both true faith and the Spirit’s gift of grace for the proclamation of God’s Word; but it is also true that he does not receive the gift of grace, nor faith either, by receiving through the congregation’s election the outward position as preacher or pastor. It is also true that he is not the only one who has received a gift of grace. To all His believers the Lord has given gift and ability to labor for the cause of God’s kingdom.
+
+It is likewise not true that all pastors have gift and power to preach and govern, while all laypeople have only gift and ability to support the office by paying.
+
+The order according to God’s Word is altogether different. According to Scripture, the matter stands thus: the Lord, who ascended on high after the humiliation, crowned His victory by distributing gifts among men. And these gifts made some fit for one kind of work in the congregation, others for another. If then the congregation is to choose its pastors and officeholders in a right and scriptural manner, it must try to choose those whom God has made fit, and not others. Therefore it is written concerning one of the first elections—perhaps the first actual congregational election: “Therefore, brothers, select from among you seven men of good report, full of the Holy Spirit and wisdom.” There a rule is laid down for a right election, and only when the congregation understands and acknowledges this rule and acts according to it will its election be pleasing to the Lord and profitable to the congregation.
+
+It is a great demand upon the congregation’s spirit and insight that it should know those who not only have good report, but also are “full of the Holy Spirit and wisdom”; and this agrees poorly with all the theologians’ frivolous, superficial, and thoughtless use of the saying that “we are not knowers of hearts.” According to Scripture, the congregation is bound to know who are “full of the Holy Spirit and wisdom,” if it is truly to be a free and self-governing congregation.
+
+Thus then the congregation receives its true officeholders, by the Lord’s gifts of grace and by the congregation’s upright election. And it may surely be said, without too great an error, that the congregation’s officeholders are in a special sense the congregation’s workers, cut out for that by God and by the congregation. But by this it is not said that only these shall labor and no one else. All believers, great and small, young and old, men and women, shall be workers in the vineyard. There is no sense at all in understanding the matter so that the members of the congregation lay their work down upon the officeholders. These receive their separate charge, but there always remains more than enough over for all the others.
+
+Take, for example, the Christian upbringing and instruction of children. Can the school of religion abolish parents’ duty and obligation to bring up their children in the discipline and admonition of the Lord? And so in all the spiritual branches of congregational work. The more spiritual a matter is, the more are all believers bound to take part in it with their gifts and abilities.
+
+Naturally, we understand well the significance of outward order, so that when the congregation elects a treasurer, all the others cannot be treasurers at the same time. But they all can and shall help the treasurer to keep the books in good order. Yet just as idiotic as it would be to suppose that the treasurer alone is to procure the money and manage the money, and no one else is to have the very least concern with that matter, quite as idiotic and a little worse besides is the common conception that all edifying work in the congregation is a matter entrusted entirely to the pastor, and that no other Christian either can or shall contribute anything to that matter with his spiritual gift or ability.
+
+But the congregation must not only use the gifts it receives; it also lies upon it to quicken and cultivate, to draw forth and call forth the gifts.
+
+Here first and foremost the public proclamation of the Word must be called to account. It must not only be said to a man and to a member of the congregation’s outward organization that you must give the Lord your heart in a true and living faith; but also that you must present yourself as a living, holy, and God-pleasing sacrifice through a true and inward and self-sacrificing love to God and to your neighbor. The proclamation must become congregational, so that light falls upon the Christians’ calling and task as members of the congregation, upon their entrusted pounds and talents.
+
+And not that alone. Brotherly spirit and mutual confidence must reign within the congregation, so that one converses and deliberates with one another precisely about these questions: What shall we do, and how shall we do it? Which of us is fit, and what is the duty of the one who is fit?
+
+If one never seeks after the gifts of grace, one surely does not find them; then it sometimes comes to pass that they almost must thrust themselves forward; and that is one of the reasons why many gifts are among us partly wasted and partly warped.
+
+We cannot afford this. The congregation ought to search after the gifts as after noble and precious gold, and then “test everything and hold fast to what is good” in this respect also.
+
+This then is the congregation’s true form in the world: a people of believing, praying, and working men and women, who receive from the Lord all that they need in their work, both the faith and the life and the gifts, and who therefore acknowledge this wholly and fully, that they belong to the Lord with all that they are and all that they have, so that they all are the Lord’s servants, male and female, created by Him for every good work.
+
+Are we such congregations? If not, why not?
+
+And if anyone says that such a thing is fanaticism, that it is altogether impossible, then we answer: Have faith in God; what is impossible for men, that is possible for God!
+
+VI.
+
+7. The free congregation receives with joy the mutual help which congregations can render one another in the work of advancing God’s kingdom.
+
+8. Such mutual help consists partly in this, that the spiritual forces of the one congregation come to the benefit of the other by free meetings, mutual visits, lay activity, etc.; partly in this, that the congregations voluntarily and at the prompting of God’s Spirit cooperate for the solving of such tasks as may surpass the strength of a single congregation.
+
+9. Among such purposes are named in particular a pastors’ school, the spreading of Bibles and other writings and periodicals, home mission, heathen mission, deaconess homes, children’s homes, and other works of mercy.
+
+If the Free Church in its leading principles lays the chief weight upon the congregation and its spirit, life, and freedom, it is very far from being opposed to cooperation among congregations.
+
+We do not deny that the old organizations of synods and councils have taken a fair name when in Norwegian they often call themselves fellowships. We have only a painful experience that at least a part of them do not answer to the name.
+
+Instead of “fellowship” being the free cooperation and the mutual influence of spiritual forces, we have among us party organizations, where that which does not go in the leading-strings of the church-political “machine” is shut out and cut off, and one is as though afraid of a breath of freedom, so that one hates everything that is free, even to the very name of it.
+
+That large parts of our people by means of these organizations have been led into the fanaticism of party-spirit, and into the bitter, spiritless strife and contention that follow from it, is something which all nobler spirits among us agree in lamenting. But many of them are still of the opinion that this frightful form which the “Church” presents to the people can be remedied by “new fellowships” and constantly “new fellowships,” which in reality are little more than new parties with new slogans and new fanaticism and new bitterness.
+
+The Free Church’s guiding principles seek to show a new way by the abolition of parties.
+
+It is not a question of abolishing and doing away with fellowships, but of abolishing party-spirit in the fellowships.
+
+Although therefore all church politicians know well the rapidly kindling fire of party-spirit and the immediate power that follows from it, the Free Church has nevertheless in its principles declared that it renounces this false power, so that freedom may have a little room among us. Perhaps the day may dawn when there can be a cooperation of Christians and of Christian congregations which is led by the Spirit, not by church politics.
+
+We see well enough that the goal is high and distant; but if only the congregation first becomes congregation, then the union of congregations too will surely become a real fellowship.
+
+Meanwhile we must try to practice whatever little we are able of free and spiritual cooperation and of mutual spiritual influence.
+
+Therefore we believe in free meetings, where men and women from different congregations come together to exchange thoughts concerning what is serviceable for the advancement of God’s kingdom. And the freer these meetings are, and the more they break through and strike down the thorn-hedges which party-spirit has set between our people, so much the better.
+
+Let them come together! Those from the one and those from the other “fellowship”! Those who by “fellowship” have lost the real fellowship, and those who without “fellowship” have found the unity of the Spirit in the bond of peace! Provided only that we stand on New Testament and Lutheran ground, we may well meet together and speak with one another concerning the awakening and preservation of spiritual life, concerning the enlivening and liberation of our Church. This is a consideration that is equally useful for the one party as for the other, and these are matters that can be practiced without regard to “fellowship.”
+
+Our Norwegian Lutheran Church with its stiff, spiked, and jagged fences, with churches that pastor shuts against pastor and congregation against congregation, although they have the same doctrine and confession, presents a pitiful and lamentable sight.
+
+Something must be done in order to come out of this shame and wretchedness. While the parties labor to preserve the evil, the Free Church must try by sober, brotherly, and persevering labor to remedy and overcome it.
+
+To this end mutual visits, especially by laymen, will serve greatly, if they are carried out in the right spirit. The fellowship agents cannot do the work that is needed for this aim. The lay preachers ought to understand that it is not for the party they are to labor; it is for the Spirit and the life. We may perhaps come so far one day in the Lutheran Church that even a pastor may preach in another pastor’s church unhindered by the fences; but for the present the lay preachers must make serious business of an impartial awakening work, and the conviction must press through more and more that it is sin to use the gifts of grace in the service of party-spirit, and that it is sin to shut the churches against the proclamation of God’s Word.
+
+Let the very greatest leaders of the fellowships come forward among us and say whether even they must not admit that such a program is justified and such a work required.
+
+But, one says, what will become of such common works as the congregations must do? What will become of mission and school and children’s homes?
+
+The question in truth answers itself. It will be no otherwise than it already is for many such works. Those who were most interested in the mission to the Jews began to carry it on and to work for it. They received gifts and contributions from whoever was willing, and there was no compulsion. Has it not gone well enough? We think, has it not gone better than if it had been a single party that had managed it?
+
+That those most interested should be allowed to tend a cause is freedom’s demand and the gain and advantage of the cause itself. Why should it not be able to go?
+
+Those who have church-political tendencies and would exalt themselves by help of the great force of ecclesiastical interests do not like this. But in return the interests thrive best when not too many politicians are sitting on the load.
+
+This seems to us to be the advantage of the free work. It gathers the interested, and that is fair enough. Those who are not interested ought not either by the fellowship-machine to be compelled and driven to take part in that which lies far from them.
+
+Yes, one says, but many of these interested persons then come, as it were, to appoint themselves to the work; they ought to wait until someone elected them. But suppose now that God put into their mind what they should do, and they followed His call to heavy and burdensome labor?
+
+Or is [1–3 words unclear] less a missionary because he went himself to the Santals and no one sent him? Must God also wait for fellowship resolutions?
+
+Where the Lord’s Spirit is, there is freedom, freedom to labor, freedom to suffer, freedom to live for a cause, freedom even to die for the cause. Should it not be possible to believe also in the Holy Spirit?

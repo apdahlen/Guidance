@@ -1,0 +1,337 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menighed: Must be rendered consistently and carefully. In this passage it does not mean an abstract “church” in the later institutional sense, but the concrete congregation, local congregation, or assembly of believers. Because the author’s argument depends on the contrast between Menighed and Kirke, any flattening here would damage the thesis.
+* Kirken / Kirke: Here this means “the Church” in the developed catholic or state-church sense, often as an outward ecclesiastical institution. It must not be confused with Menighed. The author is polemically distinguishing later ecclesiastical usage from New Testament usage.
+* katholsk: In context “catholic,” not necessarily merely Roman Catholic in every occurrence, but often the broader catholic-ecclesiastical principle. Context determines whether “Catholic” or “catholic” is best. Where tied to institutional theory, “Catholic” is appropriate.
+* statskirkelig: “state-church” or “establishment-church.” It carries institutional and polemical force.
+* theologiske Sprog: “theological language” or “theological usage,” not merely vocabulary in a neutral sense.
+* opslugt: “swallowed up,” vivid metaphor. Should be preserved.
+* tiltaget sig dens Plads og Ret: “usurped its place and right.” Stronger than merely “taken.”
+* Gjennemgangsled: intermediary or transitional link. Here it means the congregation is treated merely as a passing stage toward a supposedly higher unity.
+* Stedsmenighed: local congregation. Important technical term.
+* Pintsedagen / Pintsefesten: Pentecost / the feast of Pentecost.
+* skabt og sat ind i Verden: “created and set into the world.” Retain creatio language.
+* Menighedstugt: church discipline, but because Menighed is central, “congregational discipline” or “discipline within the congregation” is more precise.
+* stor eller liden: “great or small” or “large or small.” “Large or small” is more idiomatic while preserving scope.
+* Gjerninger: “Acts,” but when used in the title Apostlernes Gjerninger, standard English title is Acts of the Apostles.
+* Væsen: essential nature, not merely appearance or behavior.
+* Legeme: body, with explicit Pauline theological force.
+* aandelig: spiritual. Must retain doctrinal sense, not vague inwardness.
+* iførte Kristus: “clothed with Christ.” Strong biblical phrase.
+* udvortes: outward, external, visible. Extremely important in this ecclesiological argument.
+* Overhoved: head or external head. In this context, outward head over the congregations.
+* Guds miskundelige Visdom: God’s merciful wisdom.
+* det utidige Foster: “one untimely born,” preserving Pauline wording.
+* de saare høie Apostle: “the very chiefest apostles” or “those superlative apostles.” Context suggests Paul’s ironic phrase in 2 Corinthians; “the very highest apostles” or “the super-apostles” are possibilities. Because the author quotes Scripture, use a wording that preserves the scriptural contour without slang. “those very high apostles” is too literal. “the very chiefest apostles” is closest in older English cadence, but avoid KJV stylization where unnecessary. “the very greatest apostles” may work.
+* Partisjngen: faction-making, party spirit, sectarian attachment.
+* gjøre eder til Trælle / æder eder / fanger eder: strong biblical rebuke. Preserve harshness.
+* kjødelige Trang: fleshly craving/urge.
+* anse Personer: show regard for persons, have respect of persons, esteem persons by outward status. “to regard persons” preserves theological idiom.
+* bygge Gravmonumenter over Profeterne: biblical echo; “build tombs for the prophets” or “build monuments over the prophets’ graves.”
+* Stedfortrædere: vicars, representatives, substitutes. In context “vicars of Christ” is the established theological term.
+* Frikirkelige Præstesamfund: free-church clerical bodies. Polemical expression.
+* saare lidet paaagtede: very little heeded.
+* Forudsætninger: presuppositions.
+* Menneskebliven: incarnation in the sense of becoming man/human. “Christ’s becoming man” is faithful to the older formulation.
+* Faderens Forjættelse: the promise of the Father.
+* Daaben ved den Helligaand: baptism with the Holy Spirit.
+* Førstegrøden: firstfruits.
+* Frelsesorden: order of salvation, but here possibly God’s saving order/dispensation in the world. “saving order” keeps the literal force.
+* Surdeig: leaven. Must retain biblical image.
+* Naademidlerne: means of grace.
+* annammede Ordet: received the word. Retain biblical wording.
+* lagdes ... til Menigheden: were added to the congregation.
+* Frimodighed: boldness.
+* bare Aand: pure spirit or merely spirit. “mere spirit” seems best.
+* Kjød og Blod: flesh and blood.
+* udvortes Sammenslutning eller Forening: outward association or union.
+* gjenfødt: regenerate / born again. In this theological register “regenerate” is appropriate.
+* meldte sig: manifested itself / made itself felt.
+* Trængsler: afflictions / tribulations. Preserve biblical gravity.
+* hvad der fattes i Kristi Trængsler: what is lacking in Christ’s afflictions. Direct scriptural echo.
+* Miskundelse og Strid: murmuring? No, here “envy and strife” would be wrong if referring to Acts 6. But the text says “Miskundelse og Strid” about food distribution. “jealousy and strife” or “resentment and strife.” Must preserve author’s wording even if the biblical allusion might suggest “murmuring.”
+* kjødelig Ladhed eller Forsængelighed: fleshly indolence or sensuality/corruptibility? Forsængelighed is difficult. Likely “sensual softness,” “self-indulgence,” or “corruptibility.” Best rendered cautiously as “fleshly sloth or self-indulgence.”
+* prøvet Sind: approved/proven character.
+* Menighedsstiftelser: founding of congregations / congregation-foundings. “Founding of congregations” is clear.
+* Anstalter: measures, arrangements, steps.
+* særegen og uventet Førelse af Gud: peculiar and unexpected leading of God.
+* Menighedslemmer: members of the congregation.
+* Haandspaalæggelse: laying on of hands.
+* Prester efter den nye Pagt: priests under the new covenant. Strong anti-clerical and priesthood-of-all-believers force.
+* hedninger / Folkene: Gentiles / the nations.
+* begribeligt: understandable, comprehensible.
+* Redskab: instrument.
+* dybt Indblik: deep insight.
+* delagtighed i Kristus: participation in Christ / share in Christ.
+* Sædekorn: seed-grain / seed.
+* voxede op: grew up.
+* Bindeled: bond, connecting link.
+
+Syntactic Hazards
+
+* The prose is built on long cumulative sentences with semicolon pivots and clause chains. These must not be broken into short modern sentences unless absolutely necessary for intelligibility.
+* The author often sets up an initial thesis, then develops it through apposition, qualification, and scriptural citation. The internal logic must remain visible.
+* Parenthetical insertions and biblical references carry argumentative weight; they should not be treated as detachable ornaments.
+* Repeated contrasts drive the rhetoric: Menighed versus Kirke, outward versus spiritual, Christ versus human persons, apostolic action versus divine leading.
+* The author uses “idet,” “nemlig,” “saaledes,” “og dog,” “for det første,” “for det andet,” “endelig” as logical hinges. These must remain explicit.
+* Questions are mostly rhetorical or implicit rather than direct. Their force lies in accumulation, not dramatization.
+* Lists of biblical opposites and ecclesial claims should preserve cadence and parallel form.
+
+Theological Hazards
+
+* The whole passage argues a doctrine of the New Testament congregation against later institutional church theory. Terminology must preserve ecclesiological precision.
+* The distinction between outward unity and spiritual unity is central. “Spiritual” must not be reduced to subjective inwardness; “outward” must not be softened into merely organizational.
+* Christ as the one Body / Head relation must retain Pauline force.
+* The critique of apostolic succession, bishops, priests, and church government is doctrinally charged and must remain sharp.
+* The origin of the Jerusalem congregation is described in creation and incarnation terms. This analogy must be preserved.
+* Means of grace, baptism, Holy Spirit, regeneration, affliction, sanctifying struggle, and priesthood under the new covenant all require stable doctrinal rendering.
+* The author stresses that grace is bound to Christ, not to human persons. This is a major theological claim.
+* The spread of the Gospel is portrayed as effected by God through scattered believers, not through institutional strategy. That theological emphasis must remain plain.
+
+Voice Hazards
+
+* The voice is solemn, polemical, doctrinal, and exhortational, but not theatrical. It must not be made casual, conversational, or academic in a flattening way.
+* The author repeatedly uses strong evaluative phrases: “uimodsigeligt,” “ganske andet Billede,” “saare lidet paaagtede.” Their force should remain.
+* The prose often presses moral and spiritual consequence through calm inevitability rather than emotional overstatement. That pressure must be preserved.
+* Biblical diction is interwoven with authorial prose. Translation must preserve resonance without lapsing into archaizing pronouns.
+* The author’s anti-clerical critique must retain severity but not be exaggerated beyond the original.
+
+STEP 2: IDIOM ANALYSIS
+
+* “paa denne Klippe vil jeg bygge min Menighed”: Biblical allusion to Matthew 16:18. Natural English equivalent: “upon this rock I will build My congregation/church.” Because the passage is arguing against later “Church” readings, “congregation” in the authorial discussion is more faithful, though the scriptural source traditionally has “church.” A tension must be managed: preserve the cited text’s recognizability while maintaining the author’s point.
+* “Sig det til Menigheden”: Matthew 18:17. In ordinary biblical English “tell it to the church,” but here “tell it to the congregation” better preserves the author’s thesis.
+* “Kristus er alt i alle”: biblical echo from Colossians. Natural equivalent: “Christ is all and in all.”
+* “døbte til Kristus, er iførte Kristus”: Galatians echo. “Baptized into Christ have put on Christ” or “have clothed themselves with Christ.” “Clothed with Christ” is strong and clear.
+* “der er hverken Træl eller Fri ... Græker eller Jøde”: Galatians/Colossians echo. Preserve parallelism exactly.
+* “det utidige Foster”: 1 Corinthians 15:8. English biblical equivalent: “one untimely born.”
+* “den ringeste af Apostlerne,” “som ikke var værd at kaldes en Apostel”: preserve scriptural wording closely.
+* “saare høie Apostle”: likely ironic Pauline wording in 2 Corinthians 11–12. This should preserve irony and contrast without anachronistic phrasing.
+* “gjør eder til Trælle ... slaar eder i Ansigtet”: 2 Corinthians 11:20. This must remain harsh and concrete.
+* “anse Personer”: biblical-theological idiom for showing partiality or having respect of persons. Literal rendering can still work because it is intelligible in theological prose.
+* “bygge Gravmonumenter over Profeterne”: alludes to Christ’s condemnation of those who build the prophets’ tombs. Natural equivalent: “build monuments over the prophets’ graves” or “build tombs for the prophets.”
+* “Kristi Stedfortrædere”: “vicars of Christ,” established theological phrase.
+* “ved et Under af samme Slags som Verdens Skabelse og Kristi Menneskebliven”: not an idiom, but a high theological analogy. Must not be softened.
+* “Faderens Forjættelse,” “Daaben ved den Helligaand”: scriptural phraseology from Acts. “The promise of the Father,” “the baptism with the Holy Spirit.”
+* “bleven Førstegrøden ... en Surdeig”: biblical metaphors of firstfruits and leaven. These should remain figurative, not explained away.
+* “naar det første af Deigen er helligt ... er Roden hellig, saa er Grenene ligesaa”: Romans 11 echo. Keep balanced parallelism.
+* “de troendes Mængde havde alle eet Hjerte og een Sjæl”: Acts echo; preserve solemn communal force.
+* “talte Guds Ord med Frimodighed”: “spoke the word of God with boldness.”
+* “bare Aand”: not an idiom but emphatic shorthand. “mere spirit” or “nothing but spirit.”
+* “Kampen mellem Kjød og Aand”: standard Pauline conflict of flesh and Spirit.
+* “Verdens Had og Modstand”: biblical world-opposition.
+* “hvad der fattes i Kristi Trængsler”: Colossians 1:24; preserve as scriptural paradox.
+* “Farisæernes Surdeig, som er Hykleri”: direct Gospel echo. “the leaven of the Pharisees, which is hypocrisy.”
+* “Trængslerne virker luttrende og rensende, et prøvet Sind, Taalmodighed og Haab”: Romans 5 is adapted here. Keep sequence and refining image.
+* “ud af sin egen Midte”: “from its own midst,” ecclesiological emphasis.
+* “forkyndte Evangeliets Ord, hvor de kom frem”: “proclaimed the word of the Gospel wherever they came.”
+* “Samaria havde annammet Guds Ord”: “Samaria had received the word of God.”
+* “Prester efter den nye Pagt”: this is doctrinally charged; literal translation is needed.
+* “Jesus er død og opstanden for alle”: preserve universal scope.
+* “Lemmer paa sit Legeme”: “members of His body.”
+* “en god Mand”: biblical description of Barnabas from Acts.
+* “trods al hans Modstræben”: “against all his resistance” or “despite all his resistance.”
+* “et særeget Redskab”: “a particular instrument” or “a chosen instrument.” Because Acts 9:15 has “chosen vessel/instrument,” “chosen instrument” has scriptural resonance.
+* “arbeide mer end alle de andre”: “labour more than all the others.”
+* “Menigheden, Kristus i os”: likely an interpretive compression of mystery language; preserve exactly as the author frames it.
+* “sin seierrige Gang blandt Folkene”: “its victorious course among the nations.” Strong, processional image.
+* “delagtighed i Kristus”: “share in Christ” or “participation in Christ.”
+* “Sædekorn ... voxede op og bar Frugt”: seed imagery from the Gospels. Preserve organic metaphor.
+* “den ene Aand, det ene Kald ...”: Ephesian unity formula. Preserve list structure.
+
+Places where literal translation would obscure force
+
+* Menighed translated as “church” throughout would erase the central argument. It must generally be “congregation,” except where a scriptural quotation is best signaled and then explained by context.
+* “Kirkehistorie” in “den nytestamentlige Kirkehistorie” is best as “history of the New Testament Church,” because here the conventional title is intended, though the argument continues to distinguish Church-language from congregation-language.
+* “Forsængelighed” is obscure; a too-literal rendering would confuse. It likely refers to self-indulgent fleshliness. The translation should reflect that moral-spiritual sense.
+* “Partisjngen” cannot remain literal; “party-spirit” or “faction-making” better carries the meaning.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis opening: The New Testament speaks only of “the congregation,” the individual congregation; later catholic and state-church language has replaced this with “the Church,” which has swallowed up the congregation’s place and right.
+* First supporting move: In the Gospels before Pentecost, “congregation” appears only twice, both in Matthew, and neither supports the later Catholic church theory.
+* Clarifying claim: Matthew 18 either refers to the synagogue or, at minimum, to the congregation in the ordinary New Testament sense: the individual local congregation.
+* Expansion through frequency: After Pentecost the word occurs over a hundred times, especially in Acts, 1–2 Corinthians, and Ephesians, which give the clearest insight into the congregation’s nature.
+* Major doctrinal assertion: None of these occurrences supports “Church” as an outward super-structure composed of some or all congregations.
+* Qualification: Scripture does present all congregations as one, one body, but this is a spiritual unity in Christ, not a higher outward institutional unity.
+* Corollary: What is said of all congregations as one is also said of the individual outward congregation: it too is Christ’s body.
+* Negative ecclesiological conclusion: Scripture gives no hint of any outward arrangement or common government requiring an outward head over the congregations.
+* Apostolic qualification: Even the apostles did not, so far as Scripture shows, possess authority over other congregations beyond Jerusalem and perhaps Samaria.
+* Theological explanation: Scripture is intentionally reserved even about apostolic activity, to reduce temptation to place human beings over Christ.
+* Pauline example: The New Testament speaks disproportionately of Paul, paradoxically the least apostle, to show grace is bound to Christ, not to persons, and to oppose party-spirit.
+* Historical polemical move: Early church history developed a fleshly tendency to exalt apostles and early workers, thereby diminishing Christ and the congregation and creating later claims of clerical authority and apostolic succession.
+* Transition: In contrast, a wholly different picture appears when we consider the congregation as Scripture itself presents it.
+* New section thesis: The first congregation in Jerusalem was created by miracle through the Spirit at Pentecost; thus in origin it is divine.
+* Development: It is the firstfruits and leaven of God’s saving order in the world, holy everywhere through the means of grace.
+* Narrative growth: Peter’s preaching led to baptism and addition of about three thousand souls; the congregation grew in number and in the Spirit’s power.
+* Corrective realism: Yet even then the congregation was not mere spirit but a visible earthly association of flesh-and-blood people.
+* Anthropology and ecclesiology combined: Therefore the struggle between flesh and Spirit arose within it, leading both to persecution from the world and internal conflicts.
+* Examples: Ananias and Sapphira; hypocrisy; conflict over food distribution.
+* General principle: No visible congregation on earth can avoid such inward struggles.
+* Consolatory-doctrinal claim: If this necessity is not concealed by fleshly sloth or self-indulgence, God will give the congregation strength to gain victory and learn the purifying value of afflictions.
+* Historical confirmation: So it happened in Jerusalem; the congregation chose men from its midst, and after the first deacons were chosen the Word advanced and the congregation multiplied.
+* New section thesis: The apostles were not the ones who founded new congregations.
+* Supporting historical argument: They did not take measures to carry the congregation beyond Jerusalem; they had enough to do there.
+* Divine-leading claim: New congregations were founded through God’s unexpected leading, especially through persecution and scattered believers.
+* Examples: Philip in Samaria; Philip and Ethiopia; scattered members in Phoenicia, Cyrene, Syria, and elsewhere.
+* Further obstacle: Jerusalem believers still assumed too great a separation between Jews and Gentiles.
+* Divine intervention sequence: God used extraordinary means to show apostles and Jerusalem that Christ died and rose for all, Jew and Greek alike.
+* Threefold evidence: men from Cyprus and Cyrene in Antioch; Peter and Cornelius; Paul as the chosen instrument to found congregations among Gentiles.
+* Concluding movement: After these preparations the congregation advanced victoriously among the nations through all believers bearing witness wherever they went.
+* Final ecclesiological conclusion: Congregations arose throughout the Roman Empire without any common government or outward bond other than God’s Spirit and God’s Word, expressed in the unity formula of Ephesians 4.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 16:18: “You are Peter, and upon this rock I will build my [church/congregation].”
+* Matthew 18:17: “Tell it to the [church/congregation].”
+* Ephesians 1:22; 4:16: Christ and the body imagery.
+* Colossians 3:11: “Christ is all and in all.”
+* 1 Corinthians 10:17: one bread, one body.
+* Galatians 3:27-28 and/or Colossians 3:11: baptized into Christ, clothed with Christ, neither slave nor free, male nor female, Greek nor Jew.
+* 1 Corinthians 15:8-9: “one untimely born,” “least of the apostles,” “not worthy to be called an apostle.”
+* 2 Corinthians 12:11 and 11:5: “chiefest” / “superlative” apostles.
+* 2 Corinthians 11:20: making slaves, devouring, taking captive, exalting oneself, striking in the face.
+* Matthew 23:29 and parallels: building tombs/monuments for the prophets.
+* Acts 1:4-5: promise of the Father, baptism with the Holy Spirit.
+* Romans 11:16: firstfruits, dough, root, branches.
+* Acts 2:41: about three thousand souls added.
+* Acts 4:31-32: filled with the Holy Spirit, spoke the word with boldness, one heart and one soul.
+* Galatians 5:17 and Pauline flesh/Spirit conflict generally.
+* Colossians 1:24: what is lacking in Christ’s afflictions for His body.
+* Luke 12:1: leaven of the Pharisees, which is hypocrisy.
+* Romans 5:3-4: tribulation producing perseverance, proven character, hope.
+* Acts 6: choosing the seven / deacons; Acts 6:7 on the growth of the Word and many priests becoming obedient.
+* Acts 8: scattered believers preaching the word; Philip in Samaria; Peter and John; laying on of hands.
+* Acts 8: Ethiopian eunuch.
+* Acts 11:19-20: Phoenicia, Cyprus/Cyrene, Antioch.
+* Acts 10–11: Cornelius and Peter.
+* Acts 9:15: Paul as chosen instrument.
+* 1 Corinthians 15:10: laboured more abundantly than they all.
+* Ephesians 3:4 and surrounding mystery language.
+* Examples of lay and non-apostolic workers: Aquila and Priscilla (Acts 18), Apollos, Epaphroditus.
+* Parable-of-the-sower imagery: seed falling into the heart and bearing fruit.
+* Ephesians 4:4-6: one Spirit, one calling, one Lord, faith and baptism, one Father over all, through all, and in all.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The polemic against institutional church language must remain firm and unsmoothed.
+* Statements that later church forms have “swallowed up” the congregation and “usurped” its place must remain forceful.
+* The author’s insistence that Scripture gives “not one” instance supporting an outward super-church must stay categorical.
+* The critique of human exaltation over Christ must remain sharp, especially in the discussion of apostles, bishops, priests, and succession.
+* The description of the Jerusalem congregation is reverent and elevated; the realism about flesh, conflict, and food must not diminish its glory.
+* The progression from warning to consolation must be preserved: internal conflict is inevitable, yet God grants strength and purification.
+* The triumphal expansion among the nations should sound confident but grounded in divine agency, not institutional prowess.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “vil jeg bygge” must remain “I will build,” not “I intend to build.”
+* “skal trænge gjennem” must remain strong future necessity: “shall work through” or “shall penetrate through.”
+* “kunde være Tale om” in context conveys perceived impossibility: “there could be no question of.”
+* “kan og vil frelse alle” must remain “can and will save all,” not softened.
+* “skulde være” and similar constructions often express divine purpose or deliberate reserve; this should remain strong.
+* “maatte Herren bruge” and “tvang Herren Peter” are forceful and must remain so.
+* “fik den Naade at arbeide mer end alle de andre” preserves granted enablement, not mere opportunity.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation
+* Menigheder = congregations
+* Kirke / Kirken = Church / the Church when referring to the later institutional concept
+* Stedsmenighed = local congregation
+* Guds Ord = God’s Word
+* Aand / Helligaand = Spirit / Holy Spirit
+* Kjød = flesh
+* Legeme = body
+* Lem = member
+* Naademidler = means of grace
+* Tro = faith
+* Daab = baptism
+* Guds Aand = God’s Spirit
+* Frelse = salvation
+* Naade = grace
+* Trængsler = afflictions
+* Hedninger = Gentiles
+* Folkene = the nations
+* Prester efter den nye Pagt = priests under the new covenant
+* udvortes = outward
+* aandelig = spiritual
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “swallowed up the congregation” must remain metaphorical.
+* “Christ’s body” and members on the body must remain concrete, not abstracted.
+* “firstfruits,” “leaven,” “root,” “branches,” “seed,” and “fruit” must be preserved as images.
+* “build on” and “build monuments” must keep their constructive imagery because the passage contrasts true and false foundations.
+* “victorious course among the nations” should remain an image of movement and conquest by the Gospel.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The opening is analytical and polemical.
+* The Jerusalem section becomes reverent and elevated in describing Pentecost.
+* The realism about inner conflict lowers the register into sober pastoral realism.
+* The following lines lift again into confidence in God’s sanctifying work.
+* The section on new congregations combines historical narration with doctrinal correction and ends in victorious expansion.
+* These tonal shifts must remain distinct.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long-breathed sentences where the thought accumulates clause by clause.
+* Retain semicolon pivots and cumulative “and” structures where they give sermonic momentum.
+* Keep scriptural lists parallel and audible.
+* Avoid clipped modern prose. The text should read as though it could still be proclaimed aloud.
+* Preserve the balance between assertion and citation so that the scriptural echoes sound woven into the discourse.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The New Testament Congregation
+
+The first fact that meets us in this connection is that the New Testament speaks only of “the congregation,” the individual congregation; in catholic and state-church usage theological language has, in place of “the congregation,” put “the Church,” a word which by its very concept has most often — and so also in the free-church clerical bodies here in question — swallowed up the congregation and usurped its place and right. From this standpoint the congregation is therefore regarded essentially only as an intermediate link toward the higher unity, “the Church,” and is accordingly, in distinction from “the Church,” commonly called the district congregation or the local congregation.
+
+We find, further, that before the congregation was created on the day of Pentecost and set into the world, in other words in the Gospels, this word, “the congregation,” occurs only twice, and that in Matthew. First in Matt. 16:18, where the Lord says to Simon: “You are Peter, and upon this rock I will build My congregation,” the passage upon which the whole Catholic church theory has been built, but against whose Catholic interpretation all Protestants have objected with fully valid reason. Next in Matt. 18:17, concerning discipline in the congregation: “— — tell it to the congregation, and if he does not hear the congregation,” etc. If the Lord here does not refer simply to the Jewish synagogue, there is at all events no doubt that what is meant here is the congregation in the same sense in which the word is otherwise used in the New Testament, the individual local congregation, large or small.
+
+All the more frequently is the word congregation used in the writings after Pentecost, in all more than one hundred times. More than half of these fall in four writings, namely the Acts of the Apostles, which may rightly be called the history of the New Testament Church, the two Epistles to the Corinthians, and the Epistle to the Ephesians, the very writings which also give us the clearest insight into the nature of the congregation according to the presentation of God’s Word.
+
+Among all these many passages where “the congregation” or “the congregations” is meant, there is not one that can be explained of “the Church” in the sense of an outward church-body consisting of some or all congregations as a higher outward unity of them. God’s Word does indeed present all congregations as a unity, as one body — (Eph. 1:22 and 4:16; Col. 3:11; 1 Cor. 10:17, etc.) namely Christ; but it is a spiritual unity, according to that word, that Christ is all in all, that those who are baptized into Christ have been clothed with Christ, and that there is neither slave nor free, male nor female, Greek nor Jew. And what is said of this unity of all congregations is also said, and in the same passages, of the individual outward congregation, namely that it is Christ’s body, or that it is the body and Christ the Head, and that every individual member in this outward congregation is a member on Christ’s body.
+
+In God’s Word there is lacking every indication that for the outward connection between these congregations there was any arrangement or any common government which made necessary an outward head over the congregations in their totality as a higher form of the congregation. Not even the apostles had, so far as appears from God’s Word, any authority in other congregations than the first congregation in Jerusalem and possibly the first congregations in Samaria. Indeed, even concerning the apostles’ activity there is in God’s Word a remarkable — and yet in God’s merciful wisdom well-grounded — silence, in order that there might be in the congregations the least possible temptation to set men over Christ. The New Testament even speaks disproportionately much more of the thirteenth apostle, “one untimely born,” “the least of the apostles,” “who was not worthy to be called an apostle” (1 Cor. 15:9), than of “the very chiefest apostles” (2 Cor. 12:11), although he, as he says, “is nothing,” evidently in order to show the congregations that God’s grace is not bound to human persons, but to Christ alone, and to counteract the tendency which already in the first congregations, and especially in the spiritual congregation at Corinth, showed itself so strongly, namely party-spirit: that one held to Cephas, one to Paul, one to Apollos, one to Christ, and “you endure it if anyone makes slaves of you, if anyone devours you, if anyone takes you captive, if anyone exalts himself, if anyone strikes you in the face!” (2 Cor. 11:20).
+
+It is undeniable that it is in essential part out of this fleshly craving in every human being to regard persons and to find something outward to build upon, that there developed quite early in church history a strong urge to lift the apostles and the first Christian workers so high up that Christ and His body, the congregation, became in the same proportion of subordinate significance; and this not only in order to build monuments over the prophets, but chiefly thereby to secure for themselves, as the leaders and governors of the “congregation” and later of the “Church,” as priests and bishops, a recognition and authority which they thought they could uphold only as “the successors of the apostles,” “Peter’s heirs,” “Christ’s vicars,” etc., the principle upon which the whole Catholic church order, all state churches, and all clerical bodies are in reality built.
+
+A wholly different picture presents itself when we consider the congregation, without regard to the subsequent history and in part very fleshly development, as God’s Word presents it to us, whether the congregations are considered in and for themselves or in their mutual relation to one another.
+
+There are here portions of God’s Word which are very little heeded because they do not fit into dogmatics and into presuppositions and traditions belonging to a much later time.
+
+The First Congregation of God
+
+in Jerusalem was, as we all know, created or born by a miracle of the same kind as the creation of the world and Christ’s becoming man, in that God’s Spirit immediately filled the twelve apostles and the others, in all about one hundred and twenty persons, men and women, who were assembled on the day of Pentecost and awaited “the promise of the Father,” “the baptism with the Holy Spirit” (Acts 1:4–5), and received the power of the Holy Spirit which came upon them. Thus the congregation, according to its first origin, is divine, and by the Spirit and the Word has become the firstfruits of God’s saving order in the world, a leaven which shall work through to the ends of the world, everywhere alike holy by reason of the means of grace, according to that word, that if the first of the dough is holy, then the whole dough is likewise, and if the root is holy, then the branches are likewise (Rom. 11:16).
+
+Concerning the growth and development of this first congregation it therefore stands written that when Peter had spoken, there was a multitude which received the Word and was baptized, and about three thousand souls were added to the congregation that same day. Thus the first congregation advanced both in number and in the power of God’s Spirit, and the multitude of the believers were all of one heart and one soul, and all were filled with the Holy Spirit and spoke the Word of God with boldness (Acts 4:31–32).
+
+And yet even then the congregation was not mere spirit. It consisted of human beings with flesh and blood, who formed an outward association or fellowship, had to meet in an earthly meeting-house, had to do with God’s things and worldly things, indeed even with food. What is unavoidable in every regenerate person, the conflict between flesh and Spirit, therefore soon made itself felt also in this glorious congregation filled with the Spirit, and brought it not only into the sufferings that come from the world’s hatred and resistance, but also into those inward conflicts whereby there is filled up what is lacking in Christ’s afflictions for His body (Col. 1:24).
+
+There were Ananias and Sapphira — the leaven of the Pharisees, which is hypocrisy — and there were jealousy and strife between the Greek-born and the Hebrews over — the food.
+
+No congregation any more than any individual Christian can, so long as it is an outward visible fellowship upon earth, avoid these inward conflicts between the flesh and the Spirit; but if this necessity is not concealed or covered over by fleshly sloth or self-indulgence, then God will also by His Spirit unceasingly give the congregation those powers and abilities whereby it can gain the victory in the conflict and learn by experience that the afflictions work in a refining and purifying way, proven character, patience, and hope (Rom. 5:3).
+
+So it also went here; the congregation in Jerusalem, by the apostles’ counsel, chose out of its own midst men equipped by God to meet and overcome the threatening danger, and after the first deacons were chosen it stands written that God’s Word advanced, that the congregation multiplied, and that even many priests were converted.
+
+Founding of Congregations
+
+Neither was it the apostles who founded new congregations. So far as one can see from God’s Word, the apostles took no measures to carry the congregation farther beyond Jerusalem; they had more than enough to do there.
+
+It was through a particular and unexpected leading of God that new congregations were founded. After Stephen’s murder a persecution broke out, after which the whole congregation in Jerusalem was driven out over Judea and Samaria except — the apostles. Of these scattered members of the congregation it stands written that they “proclaimed the word of the Gospel wherever they came.” Thus, through the deacon Philip, the congregation in Samaria was founded. This, that “Samaria had received the Word of God,” awakened to such a degree the attention of the apostles who remained in Jerusalem, and no doubt also their astonishment, that they sent Peter and John down to see how the matter stood, and they prayed that the converts might receive the Holy Spirit through the laying on of hands, which they also received, so that in that state they all became priests under the new covenant (Acts 8:14 ff.).
+
+In the same way Philip became a means by which the Gospel and the congregation came to Ethiopia. And not that alone, but the scattered believers brought the Word and thereby the congregation to the surrounding lands, Phoenicia, Cyrene, and Syria (Acts 11:19–20), and many other places where we later find congregations without God’s Word specifically mentioning by whom it was brought there, as for example Alexandria and Rome.
+
+But there was here still another hindrance, in part among the apostles and the congregation in Jerusalem itself; namely, that the separation between Jews and Gentiles was regarded as so great that in their opinion there could be no question of preaching the Gospel directly to the Gentiles, or of there being any hope that Gentiles could receive the Holy Spirit and thus truly become a congregation of Christ.
+
+Here too the Lord had to use, not the apostles’ exaggerated wisdom or authority, but quite other and in part extraordinary means in order to make both the apostles and the Jerusalem congregation understand that Jesus died and rose again for all, and that He therefore both can and will save all — Jew or Greek — and make them members of His body, which is the congregation.
+
+First, there were men from Cyprus and Cyrene who first spoke to Greeks in Antioch and there formed a great congregation of believing Gentiles. At this again the congregation in Jerusalem was astonished and sent Barnabas to investigate the matter, which he found altogether in good order, since he, as it is written, was a good man (Acts 11:20 ff.).
+
+Second, the Lord compelled Peter himself, despite all his resistance, to go to the Gentile Cornelius, a step for which he had to justify himself before the congregation in Jerusalem (Acts 11:1 ff.).
+
+Finally, however, God had appointed a particular instrument for the founding of congregations among the Gentiles, the last man any human being could have thought of, a persecutor, Paul, who therefore also received the grace to labour more than all the others, and received so deep an insight into this great mystery, the congregation, Christ in us, as no other did (Eph. 3:4).
+
+And after these preparations the congregation then went on its victorious course among the nations, in that indeed Paul and his fellow workers laboured chiefly among the Gentiles, Peter and the other apostles chiefly among the Jews, but all who themselves had received a share in Christ through faith and baptism zealously proclaimed everywhere, wherever they went, that salvation from sin and death which is found in the Gospel of Jesus Christ, as we see in such as Aquila and Priscilla, Apollos, and Epaphroditus. Where God’s Word fell down into any heart, there it became a seed which grew up and bore fruit, and the fruit was congregations here and there, everywhere in the Roman Empire, as mentioned above, and this without there being any common government or bond between them except God’s Spirit and God’s Word, “the one Spirit, the one calling, the one Lord, faith and baptism, the one Father,” as it is written, “who is over you all and through you all and in you all” (Eph. 4:4 ff.).

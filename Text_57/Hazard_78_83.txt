@@ -1,0 +1,293 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Menighederne: not merely “congregations” in a narrow modern sense, but local Christian assemblies understood as concrete manifestations of the Church. In some places it must be rendered “churches,” in others “congregations,” depending on whether the stress lies on local bodies or their corporate unity.
+* fri / frie Menigheder: “free” here does not mean autonomous in a modern individualistic or anti-institutional sense alone; it carries the sense of spiritually uncoerced, living under Christ rather than under external ecclesiastical compulsion.
+* indbyrdes Forbindelse: mutual connection, fellowship, relation, or bond. It has organic and practical force, not merely administrative “association.”
+* Arbeide: “work,” but in missionary and ecclesial context often “labor.”
+* Verdens Ende: biblical and missionary phrase, naturally “the end of the world/earth” in older diction; context favors “to the end of the world” in the sense of the furthest bounds of the earth.
+* Menigheden benyttes: “the word congregation/church is used,” not “the congregation makes use of.”
+* den ene hellige almindelige Kirke: doctrinal formula corresponding to “the one holy catholic Church.” Because the source says “almindelige,” the translation should preserve the doctrinal referent without importing polemical modern overtones.
+* sit indre aandelige Væsen: “its inner spiritual being/essence.” “Nature” may be too abstract; “being” or “essence” preserves the metaphysical and spiritual weight.
+* Frelseslære: not merely “teaching about salvation” in a loose sense, but the doctrine of salvation.
+* Kjærligheds Liv: not just “love” but the life of love, an active shared life formed by Christian charity.
+* Stød: literally “impulse,” “push,” or “shock.” Here it means the first strong occasion or impetus that set this process in motion.
+* adspredte: “those who were scattered,” with likely echo of Acts 8.
+* den rette Aand: “the right spirit” in a moral-spiritual sense, not mood or attitude alone.
+* i Forbigaaende: “in passing.”
+* Guds Ord: “the Word of God,” not merely “Scripture” unless context demands that narrowing.
+* Fortegnelse: list, register, catalogue.
+* kirkelig Statistik: consciously ironic phrase; should remain slightly pointed.
+* Forbindelsesmidler: means of connection, instruments of fellowship.
+* Sendebud / Emissærer: delegates, messengers, envoys, emissaries. “Emissaries” preserves the period flavor, but “messengers” may fit some contexts more naturally.
+* Hedningemenighed / Hedningeapostelen: “Gentile congregation/church,” “Apostle to the Gentiles.”
+* Hovedkvarter: “headquarters,” possibly a bit modern in English; “base” may be smoother, but “headquarters” preserves the concrete force.
+* udtrykkeligen: explicitly.
+* drog omkring som Aanden drev ham: strong biblical phrasing; “as the Spirit drove him” is forceful and should not be softened to “led.”
+* stiftede Menigheder: founded/established churches.
+* Redskab for Evangeliet: “instrument for the Gospel” is preferable to “tool.”
+* bedste Slags: “best sort/kind,” with understated polemical edge.
+* vinde Tak af alle Hedningemenigheder: “win thanks from all the churches of the Gentiles,” not merely “receive appreciation.”
+* levende Tro: “living faith,” doctrinally weighty.
+* reisende Redskab: traveling instrument/agency; figurative and vivid.
+* anbefales: commended, recommended.
+* afhjælpe Pauli Behov: relieve/supply Paul’s need.
+* hjælpe ... paa Vei: technical biblical/travel phrase, “help on their way,” not simply “assist.”
+* Bindemiddel: bond, binding means, cohesive means.
+* flittigt benyttet: diligently/frequently employed.
+* Anbefalingsbreve / Anbefalingsskrivelse: letters of commendation/recommendation.
+* Delegater: delegates, not merely messengers.
+* kristelige Literatur: Christian literature, in the broad edifying and doctrinal sense.
+* Fællesmøder: common meetings, joint meetings, general gatherings.
+* Gjensidig Hjælp: mutual help/aid.
+* nødlidende: those in need, distressed, suffering want.
+* ihukomme: remember in the active biblical sense of remembering with concrete care.
+* Sind: mind, disposition, spirit, proven character. Here likely “disposition” or “spirit,” but with moral proof.
+* Bekjendelse: confession/profession. In doctrinal context, “confession” is stronger.
+* Gavmildhed: liberality, generosity.
+* overvættes Naade: exceeding, surpassing, extraordinary grace.
+* udsigelige Gave: unspeakable/indescribable gift.
+* Samfundssind: communal spirit, Christian social mind, fellowship-mindedness. It has ethical and ecclesial force that should not be flattened.
+
+Syntactic Hazards
+
+* Long cumulative sentences build theological and historical logic by coordination and subordination; they should not be broken up too aggressively.
+* Frequent semicolon pivots mark argumentative progression and sermonic pacing; these should be preserved where natural in English.
+* Appositional lists of places, persons, and scriptural references carry evidentiary force; the translation must retain that catalogic rhythm.
+* Parentheses and inserted references are part of the learned devotional style; they should remain visible and not be silently absorbed.
+* Repeated “og” constructions create accretive force. Over-smoothing into concise modern English would flatten the rhetoric.
+* Transitional formulas such as “For det andet,” “Saaledes,” “Derimod,” and “I Overensstemmelse dermed” are structural markers and must remain explicit.
+* The quoted passage from 2 Corinthians is a single sustained period of thought and should retain its syntactic pressure.
+
+Theological Hazards
+
+* The unity of the churches is grounded in God’s Spirit and the love of Christ, not in external organization; this doctrinal principle must remain unmistakable.
+* The distinction and relation between local congregations and the one holy catholic Church is ecclesiologically central.
+* “fælles Frelseslære” and “fælles Kjærligheds Liv” express unity in both doctrine and life; neither pole should be weakened.
+* The missionary expansion after Stephen’s martyrdom is presented as spiritually normative: persecution disperses, but the Gospel spreads.
+* The activity of the churches is charismatic and practical at once: sending, receiving, commending, supporting, gathering.
+* Hospitality, aid to the saints, and material support are not secondary logistics but visible manifestations of Christian fellowship.
+* The collection for Jerusalem is framed as an embodiment of communion in Christ and obedience to the Gospel.
+* “Kristi Ære” must remain exact and elevated: “the glory of Christ.”
+* “levende Tro paa Kristus” must retain evangelical force.
+* The final judgment, “Dette er det rette kristelige Samfundssind,” is morally normative, not casual approval.
+
+Voice Hazards
+
+* The prose is earnest, didactic, historically descriptive, yet warmly hortatory; flattening it into neutral academic summary would lose the author’s character.
+* Mild irony appears in “der var endnu ingen ‘kirkelig Statistik.’” It should remain dry and restrained, not playful.
+* Repetition of scriptural examples is deliberate and cumulative; it conveys abundance and living movement among the churches.
+* The tone admires apostolic simplicity and freedom while implicitly critiquing later rigid church systems. That polemical edge should remain indirect, not exaggerated.
+* The closing commendation of Christian communal spirit must sound morally serious and exemplary, not sentimental.
+
+STEP 2: IDIOM ANALYSIS
+
+* “at bringe Evangeliet til Verdens Ende” is a biblical missionary phrase echoing the apostolic commission and Acts language about witness to the ends of the earth. A natural English rendering is “to bring the Gospel to the end of the world” or “to the ends of the earth.” The latter is more recognizably scriptural in English.
+* “følte sig som eet” means more than emotional solidarity; it expresses spiritual self-understanding as one body. “Felt themselves to be one” preserves the inward consciousness.
+* “finde Maader og Midler” is an idiomatic phrase meaning “find ways and means.” It should be kept, since English has the same idiom and it suits the register.
+* “Det første Stød blev givet” means the initial impulse or occasion was given. Literal “the first shock was given” would misfire in English. “The first impulse was given” or “the first impetus was given” is better.
+* “De adspredte ... prædikede overalt, hvor de kom, Evangelium” echoes Acts 8:4. A natural biblical equivalent is “Those who were scattered preached the Gospel everywhere they came.”
+* “Det er den rette Aand” is a brief approving moral judgment: “That is the right spirit.” Literal rendering works and preserves tone.
+* “hører vi siden i Forbigaaende om” means “we later hear in passing of.” This should remain understated.
+* “Guds Ord” here refers to Scripture as divine testimony. “The Word of God” is the natural equivalent.
+* “der baade fremdroves og styredes ved Forfølgelserne” means the connection was both driven forward and directed by persecutions. The paradox is important: persecution did not merely afflict the churches but shaped their fellowship.
+* “drog omkring som Aanden drev ham” has biblical force. “As the Spirit drove him” preserves the compelling motion better than “led him.”
+* “helt frem til en levende Tro paa Kristus” means brought fully onward into living faith in Christ. “Entirely on to a living faith in Christ” is clumsy; “all the way to a living faith in Christ” is idiomatic and forceful.
+* “vinde Tak” means “win gratitude/thanks.”
+* “hjælpe ... paa Vei” is common biblical and older English usage: “help ... on their way.” This is also a place where older English Bible diction sounds natural without archaic pronouns.
+* “lød Ordet ud” means the Word rang out or sounded forth. This strongly echoes 1 Thessalonians 1:8. “The Word sounded forth” is a natural English biblical equivalent.
+* “Bindemiddel” literally means “binding means”; “bond” or “means of union” may fit contextually. Because the section lists concrete channels, “bond” alone is too abstract; “means of connection” or “binding means” is preferable.
+* “hvilken inderlig Forbindelse der paa denne Maade bragtes istand” means “what intimate fellowship was thus brought about.” The construction indicates result, not mere description.
+* “det prøvede Sind” means the tested/proven disposition evidenced by the gift. “Proved character” is possible, though “proved spirit” better preserves the inward moral dimension.
+* “eders Bekjendelse til Kristi Evangelium” means your confession/profession of allegiance to the Gospel of Christ. “Confession” better preserves doctrinal and ecclesial force.
+* “oprigtige Gavmildhed” is sincere liberality/generosity. “Liberality” is closer to older Christian diction.
+* “overvættes Naade” signifies surpassing or extraordinary grace; compare Pauline excess language.
+* “udsigelige Gave” closely matches the KJV-like “unspeakable gift,” which is a natural traditional English equivalent and appropriate here.
+* “Dette er det rette kristelige Samfundssind” is not merely “This is true fellowship,” but “This is the right Christian communal spirit” or “This is the true Christian spirit of fellowship.” It expresses moral approval of a concrete ecclesial disposition.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: Just as the congregations in the apostolic age were free congregations in the full sense of the word, so also their mutual relation was free.
+* Ground of unity: Their unity did not rest on external machinery but on God’s Spirit and the love of Christ, gathering them around the common labor of carrying the Gospel to the ends of the earth.
+* Ecclesiological clarification: The New Testament uses “congregation/church” both for the local body and for the unity of all congregations, that is, the one holy catholic Church.
+* Inference: Because the churches were inwardly one in doctrine and love, they would necessarily seek practical forms for expressing that unity according to circumstances.
+* Historical trigger: The persecution after Stephen’s murder gave the first strong occasion for this wider practical fellowship.
+* Scriptural evidence of expansion: The scattered believers preached everywhere, and many congregations arose across many regions.
+* Clarification: Scripture does not provide a statistical register of all founded congregations, but this lack of record does not imply weak interconnection.
+* Main claim: On the contrary, their cooperation and inward bond were lively and were advanced and guided even by persecutions.
+* Demonstration by enumeration: The author then lists the principal means of connection.
+* First means: messengers, emissaries, and visitors. This section piles up examples from Acts and the Epistles to show mobility, mutual service, recommendation, and hospitality.
+* Second means: letters. First, letters between churches; second, the New Testament epistles themselves, which reveal a highly active interchurch connection.
+* Third means: joint meetings. Few explicit examples are preserved, but their occurrence is considered beyond doubt.
+* Fourth means: mutual aid. Material help bound the churches closely together, especially through aid to Jerusalem and Paul’s collection.
+* Climactic proof text: 2 Corinthians 9 explains the spiritual significance of such aid, showing that it glorifies God and unites believers in thanksgiving, prayer, and longing.
+* Concluding judgment: This is the proper Christian spirit of fellowship.
+* Final example: Philippians’ repeated support of Paul exemplifies the same spirit.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “at bringe Evangeliet til Verdens Ende” echoes Acts 1:8 and related mission language about the ends of the earth.
+* “De adspredte ... prædikede overalt” echoes Acts 8:4.
+* “efter Stefanus Mord” refers to the persecution following Stephen’s martyrdom in Acts 7–8.
+* The list of regions and churches is drawn mainly from Acts 9, Acts 11, Acts 21, and related passages.
+* “som Aanden drev ham” echoes broader New Testament language of the Spirit’s compulsion and guidance.
+* Aquila and Priscilla, Phoebe, Titus, Timothy, Tychicus, Epaphroditus, Epaphras, Onesimus, Silvanus, and others are all embedded in epistolary scriptural networks; the author’s argument depends on the cumulative witness of Acts and the Pauline and Petrine letters.
+* “hjælpe ... paa Vei” has resonance with New Testament travel-support language.
+* “de hellige” preserves New Testament language for believers as “the saints.”
+* “Ros for sin Iver i Evangeliet i alle Menigheder” and “Menighedernes Sendebud og Kristi Ære” echo 2 Corinthians 8.
+* “lød Ordet ud” strongly echoes 1 Thessalonians 1:8; “sounded forth” is likely the best English equivalent.
+* The extended quotation from 2 Corinthians 9:12 ff. is explicit Scripture and should retain its Pauline movement.
+* “Men Gud være Tak for sin udsigelige Gave!” is the explicit echo of 2 Corinthians 9:15.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author writes with firm confidence that apostolic church life provides a normative model. The translation must preserve this confidence.
+* Brief evaluative judgments such as “Det er den rette Aand” and “Dette er det rette kristelige Samfundssind” must remain direct and weighty.
+* The cumulative evidence of names, journeys, and letters should sound like a deliberate case being built, not a casual information dump.
+* The tone admires the vitality of spiritual fellowship under pressure; persecution is not narrated sentimentally but as a providential means.
+* The translation must preserve the sober ethical force of material aid as a manifestation of confessed faith.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “vilde finde Maader og Midler” expresses consequence rooted in inward unity: they “would also find ways and means,” not merely “might.”
+* “eftersom Forholdene krævede eller tillod” must preserve the dual force of necessity and permission: “as circumstances required or allowed.”
+* “der maa have fundet Sted” in context of lively connection should be “must have taken place,” not “may have occurred.”
+* “vil sende” and similar future forms in Pauline references should remain definite where the source is definite.
+* “vilde modtage” in the final sentence should preserve volitional refusal: “would receive no wages/payment.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed / Menigheder: generally “congregation / congregations” when referring to local bodies as assemblies; “church / churches” where the wider ecclesial sense or English idiom requires it. Because the passage itself contrasts local congregations with “Kirken,” this distinction should be handled carefully and consistently.
+* Kirken: “the Church.”
+* Guds Aand: “God’s Spirit.”
+* Kristi Kjærlighed: “the love of Christ.”
+* Evangeliet: “the Gospel.”
+* Guds Ord: “the Word of God.”
+* Hedningemenighed / Hedningemenigheder: “Gentile congregation / Gentile churches,” depending on sentence context.
+* levende Tro: “living faith.”
+* de hellige: “the saints.”
+* Bekjendelse: “confession.”
+* Naade: “grace.”
+* Disciple / Brødre: “disciples / brethren” where preserving biblical texture is important; “brothers” may sound more modern but slightly less textual.
+* Sendebud: usually “messenger” or “delegate”; where the source stresses official representation, “delegate.”
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “holdt dem sammen i Enhed omkring det fælles Arbeide” is spatial and communal imagery: held together in unity around a common labor. It should remain concrete.
+* “Det første Stød blev givet” is metaphorical motion and should remain energetic via “the first impulse/impetus was given.”
+* “lød Ordet ud” is auditory metaphor; “the Word sounded forth” preserves it.
+* “Bindemiddel” carries material metaphor of binding or joining; the translation should not reduce it to abstract “communication.”
+* “bærer ... rig Frugt” is organic metaphor of fruit-bearing and must be preserved.
+* “bragtes istand” has the sense of something being brought into being or effected; this should remain active in English.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The piece moves between doctrinal exposition, historical narration, practical enumeration, scriptural quotation, and moral conclusion.
+* The irony of “no church statistics” contrasts with the vivid life of actual fellowship; this contrast should remain noticeable.
+* The long catalogues of persons and movements create animation, while the final scriptural quotation deepens into spiritual warmth and gravity.
+* The closing commendation and Philippian example supply a gentle but serious concluding warmth after the documentary accumulation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Many sentences are suited for reading aloud, with clauses balanced by commas and semicolons. These should be preserved wherever English remains clear.
+* Enumerations should retain a measured cadence rather than being reduced to clipped prose.
+* The section headings should remain simple and declarative.
+* The quoted Pauline passage should sound like sustained proclamation, not paraphrased explanation.
+* Final sententiae such as “That is the right spirit” and “This is the true Christian spirit of fellowship” should stand distinctly.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+The Congregations’ Free Connection
+
+Just as the congregations in the apostolic age were, in the full sense of the word, free congregations, so also was their mutual connection. God’s Spirit and the love of Christ were that which held them together in unity around the common labor of bringing the Gospel to the ends of the earth.
+
+Therefore, in the New Testament the word congregation is used both to denote the individual local congregation and the unity of all the congregations, that which in our language is ordinarily expressed by the word “the Church,” the one holy catholic Church.
+
+This is already beforehand an expression of the fact that all the congregations, according to their inward spiritual being, by the common doctrine of salvation and the common life of love, felt themselves to be one, and therefore would also find ways and means, as circumstances required or allowed, to give this unity a practical form in their relation one to another.
+
+The first impulse was given by the persecution after Stephen’s murder.
+
+Those who were scattered abroad (except the Apostles) preached the Gospel everywhere they came. That is the right spirit. The fruit was a considerable number of congregations, round about in Samaria, Galilee, Phoenicia, Syria, Cilicia, Cyprus, Cyrene, and no doubt also Egypt, Italy, and Babylon (see Acts 9:31 and Acts 11:10).
+
+Of some of these congregations we hear later in passing, for example in Tyre and Caesarea and Ptolemais (Acts 21:4), but otherwise the Word of God contains no register of founded congregations; there was as yet no “church statistics.”
+
+Yet their cooperation and inward connection were not for that reason any the less lively; both were promoted and guided by the persecutions. Of the means of connection the following may be named:
+
+1. Messengers or Emissaries and Visitors
+
+The most remarkable example of this is the congregation in Antioch, the first Gentile congregation. It sent out Paul and Barnabas on their first missionary journey together with Mark. The former therefore seems to have regarded this congregation as his headquarters, although it is not expressly mentioned that he was sent out more than that one time. As the Apostle to the Gentiles in a special sense, he afterwards journeyed about as the Spirit drove him, visited the congregations already founded and established new ones, and, as it seems, everywhere took fellow laborers and other messengers with him from the founded congregations (Silas, Timothy, Titus, Luke, Demas [Col. 4:14], Sosthenes, Gaius, and Aristarchus [Acts 19:29], etc.).
+
+But what took place in Antioch we find clear traces of as having taken place in other congregations, although no special description of it is given in each particular case.
+
+Thus Barnabas, after the dispute with Paul, continued the work together with Mark, it being mentioned that he went to Cyprus, without its being further stated where the journey afterwards led. The same Mark we find again considerably later in Babylon together with Peter (1 Pet. 5:13), and elsewhere with Timothy (2 Tim. 4:9).
+
+From Jerusalem many envoys went out, not always of the best sort, round about through the lands, also where Paul had founded congregations, and in part even worked against him (Acts 15:24).
+
+Aquila and Priscilla we find both in Corinth, Ephesus, and Rome, everywhere laboring for their Savior, so that they not only assist Paul, and win thanks from all the churches of the Gentiles (1 Cor. 16:19), but also become the means of bringing Apollos all the way to a living faith in Christ and of making him a traveling instrument for the Gospel.
+
+From Cenchreae the deaconess Phoebe travels to Rome and is commended by Paul.
+
+In his greeting to the Romans Paul mentions five fellow laborers, among them a woman, Mary.
+
+Paul sends Titus and Timothy and Tychicus and others from congregation to congregation.
+
+In 1 Cor. 16:15 he mentions the household of Stephanas as one that has especially devoted itself to serving the saints, wherefore hospitality also is warmly recommended in so many places (Heb. 13:2; Rom. 12:13; 1 Tim. 4:9).
+
+The congregation in Berea sent brethren to accompany Paul to Athens (Acts 17:14).
+
+The Jerusalem congregation sent Judas and Barnabas with a letter to Antioch (Acts 13:21).
+
+The congregations sent Paul with aid to Jerusalem (Acts 20:4; cf. 2 Cor., chs. 8 and 9).
+
+Agabus came down from Judea (Acts 21:10); and in 11:28 Antioch sends Paul and Barnabas with aid to Jerusalem.
+
+Disciples from Caesarea traveled with Paul from there in order to procure him lodging in Jerusalem with Mnason, an old disciple from Cyprus (Acts 21:15).
+
+Disciples in Puteoli received Paul, and brethren from Rome met him (Acts 28:14), just as the great companies followed him with wives and children from Tyre (Acts 21:5).
+
+The congregation in Corinth sent Stephanas, Fortunatus, and Achaicus to Paul in Ephesus (1 Cor. 16:17).
+
+In 2 Cor. 8:18 a “brother” is mentioned who not only has praise for his zeal in the Gospel in all the congregations, but also “has been appointed by the congregations to travel with us with this gift,”
+
+and in 8:23, Titus and our brethren are the congregations’ messengers and the glory of Christ.
+
+In Phil. 4:15 Epaphroditus is called Paul’s brother and fellow laborer and fellow soldier, but the congregation’s (the Philippians’) messenger and minister to relieve Paul’s need.
+
+Epaphras came to Paul, sent by the congregation in Colossae (Col. 4:12), perhaps also from Laodicea and Hierapolis.
+
+From Thessalonica the Word sounded forth over Macedonia and Achaia and other places (1 Thess. 1:7).
+
+In the Epistle to Titus (3:12) Paul says that he will send him Artemas or Tychicus, and asks him to help Zenas (the lawyer) and Apollos on their way, “that nothing be lacking unto them.”
+
+Paul also sends the slave Onesimus to Philemon, and
+
+Peter sends a letter by Silvanus (1 Pet. 5:12, 13).
+
+2. Letters
+
+were another excellent bond between the congregations, and testimony from the Word of God shows us that they also were diligently employed.
+
+There were first letters from congregation to congregation. In Acts 15:22 we have in full a letter cited from the congregation in Jerusalem to the Gentile-Christian congregations which had already by that time been founded round about.
+
+In several places letters of commendation from congregations and to congregations are mentioned, for example 2 Cor. 3:1 and 2 Thess. 2:2; in Acts 18:27 it is expressly communicated that the congregation (the brethren) in Ephesus sent a letter of commendation with Apollos to the congregations (the disciples) in Achaia and Corinth; and in 1 Cor. 16:3 Paul says that when he comes to Corinth, he will send their delegates with letters to Jerusalem in order to deliver the collected contributions; and so in other places.
+
+Secondly, we have the significant collection of New Testament letters, besides hints of other letters not preserved, which more than anything else shows what an extraordinarily lively connection must have taken place between the congregations in this apostolic age. Paul’s greetings in Romans 16 furnish an excellent illustration of this relation, as also does the sixteenth chapter of First Corinthians. It almost seems as though letter-writing replaced what in later times has been carried out by Christian literature.
+
+That the congregations also, where occasion was given, held
+
+3. Joint Meetings
+
+is beyond doubt enough, although such are expressly mentioned only in a couple of places, namely Acts 15:1 ff. and 20:16 ff. More frequently, however, there is mention of
+
+4. Mutual Aid
+
+as one of the means by which the congregations were bound more closely to one another. Thus the congregation in Antioch sent aid to those in need in Jerusalem (Acts 11:29).
+
+Paul had undertaken, as a part of his missionary activity among the Gentiles, to remember the poor in Jerusalem with aid (Gal. 2:10). In accordance with this, he also arranged a general collection for those in need in Judea and obtained delegates, chosen by the congregations, to accompany him in order to deliver the aid (2 Cor., chs. 8 and 9; 1 Cor. 16:1).
+
+What intimate connection was in this way brought about between the congregations, Paul describes in 2 Cor. 9:12 ff.: “For the service rendered by this support not only supplies the needs of the saints, but also bears rich fruit through many thanksgivings to God, while they, because of the proved spirit which this support shows, glorify God for the obedience of your confession to the Gospel of Christ and for your sincere liberality toward them and toward all, while they also in their prayer for you long after you because of God’s exceeding grace toward you. But thanks be to God for His unspeakable gift!”
+
+This is the true Christian spirit of fellowship.
+
+Thus it also manifested itself in the aid which the congregation in Philippi sent Paul several times, while he labored among congregations from whom he would receive no wages (Phil. 4:15–16).
